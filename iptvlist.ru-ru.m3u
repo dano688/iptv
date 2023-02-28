@@ -21,6 +21,8 @@ https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 http://nl01.spr24.net/334/mpegts?token=PBQtWYVTvpqktT
 #EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
 http://nl01.spr24.net/291/mpegts?token=PBQtWYVTvpqktT
+#EXTINF:0 tvg-id="domkino" tvg-logo="http://epg.it999.ru/img2/834.png",Дом Кино
+http://nl01.spr24.net/333/mpegts?token=PBQtWYVTvpqktT
 #EXTINF:0 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
@@ -105,8 +107,6 @@ http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
 http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
 #EXTINF:0 tvg-id="illuzion-plus" tvg-logo="http://epg.it999.ru/img2/2403.png",Иллюзион +
 http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=orh6o
-#EXTINF:0 tvg-id="domkino" tvg-logo="http://epg.it999.ru/img2/834.png",Дом Кино
-http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=orh6o
 #EXTINF:0 tvg-id="bollywood-hd" tvg-logo="http://epg.it999.ru/img2/1395.png",Bollywood HD
 http://46.19.100.174:4450/play/a00h/index.m3u8
 #EXTINF:0 tvg-id="no_epg_cinema" tvg-logo="http://epg.it999.ru/img2/2952.png",Свежаки
