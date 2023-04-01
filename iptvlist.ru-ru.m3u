@@ -37,7 +37,6 @@ https://bl.uma.media/live/407373/HLS/6307840_6/1/1/playlist.m3u8
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png",РБК ТВ
 #EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
 https://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
 #EXTINF:0  tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
