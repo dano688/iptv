@@ -33,12 +33,6 @@ https://bl.uma.media/live/317845/HLS/4614144_3/1/1/playlist.m3u8
 https://bl.uma.media/live/410336/HLS/6307840_6/1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" tvg-logo="http://epg.it999.ru/img2/698.png",ТВ3 HD
 https://bl.uma.media/live/407373/HLS/6307840_6/1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="pervy-kanal-eurasia-kz",Первый канал Евразия
-http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
-#EXTINF:-1 tvg-id="rossija-k" tvg-logo="http://epg.it999.ru/img2/187.png",Россия-Культура
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
-#EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="http://epg.it999.ru/img2/2078.png",Мир 24
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
