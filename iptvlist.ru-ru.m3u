@@ -11,7 +11,7 @@ https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
 #EXTINF:-1 tvg-id="Xpervy" tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
 https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
-#EXTINF:-1 tvg-id="Xrossia1" tvg-name="Россия 1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
+#EXTINF:-1 tvg-id="Xrossia1" tvg-name="Россия" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961
 #EXTINF:-1 tvg-id="Xrtr-planeta-eu" tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg",RTR Planeta
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251
