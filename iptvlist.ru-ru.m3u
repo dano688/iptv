@@ -9,39 +9,43 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
 https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
 #EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdr.png",MDR Sachsen HD
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
-#EXTINF:-1 tvg-id="146" tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
+#EXTINF:-1 tvg-id="Xpervy" tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
 https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
-#EXTINF:-1 tvg-id="984" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
+#EXTINF:-1 tvg-id="Xrossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/2961
-#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg",RTR Planeta
+#EXTINF:-1 tvg-id="Xrtr-planeta-eu" tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg",RTR Planeta
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63251
 #EXTINF:-1 tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg",Россия РТР
 https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63254
-#EXTINF:-1 tvg-id="2075" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
+#EXTINF:-1 tvg-id="Xkultura" tvg-logo="http://epg.it999.ru/img2/187.png",Россия-Культура
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201
+#EXTINF:-1 tvg-id="Xrossia-24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/21
+#EXTINF:-1 tvg-id="Xntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
-#EXTINF:0  tvg-id="649" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
+#EXTINF:0  tvg-id="Xtvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
 http://nl01.spr24.net/334/mpegts?token=PBQtWYVTvpqktT
-#EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
+#EXTINF:-1 tvg-id="Xdomashny" tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
 http://ru01.spr24.net/291/index.m3u8?token=cU6iRqinrL4eHL
-#EXTINF:0 tvg-id="domkino" tvg-logo="http://epg.it999.ru/img2/834.png",Дом Кино
+#EXTINF:0 tvg-id="Xdomkino" tvg-logo="http://epg.it999.ru/img2/834.png",Дом Кино
 http://ru01.spr24.net/333/index.m3u8?token=cU6iRqinrL4eHL
-#EXTINF:0 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
+#EXTINF:0 tvg-id="Xntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="2080" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
+#EXTINF:0 tvg-id="Xntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
 https://cdn.ntv.ru/th_hit/index.m3u8
-#EXTINF:0  tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
+#EXTINF:0  tvg-id="Xntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
 https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:0  tvg-id="ntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
+#EXTINF:0  tvg-id="Xntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="726" tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
+#EXTINF:-1 tvg-id="Xmir" tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="405" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
+#EXTINF:-1 tvg-id="Xzvezda" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="898" tvg-logo="http://epg.it999.ru/img2/898.png",Ю
+#EXTINF:-1 tvg-id="Xyu" tvg-logo="http://epg.it999.ru/img2/898.png",Ю
 http://flu.ttk.mx:9090/U/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="2037" tvg-logo="http://epg.it999.ru/img2/2288.png",Суббота! HD
 https://bl.uma.media/live/317845/HLS/4614144_3/1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="1331" tvg-logo="http://epg.it999.ru/img2/2078.png",Мир 24
+#EXTINF:-1 tvg-id="Xmir-24" tvg-logo="http://epg.it999.ru/img2/2078.png",Мир 24
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="1798" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
+#EXTINF:-1 tvg-id="Xizvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
