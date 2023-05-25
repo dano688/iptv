@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master.m3u8
@@ -35,4 +34,4 @@ https://bl.uma.media/live/317845/HLS/4614144_3/1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Xmir-24" tvg-logo="http://epg.it999.ru/img2/2078.png",Мир 24
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Xizvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u7
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
