@@ -12,16 +12,16 @@ https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
 #EXTINF:-1 tvg-id="Xpervy" tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
 https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 #EXTINF:-1 tvg-id="Xrossia1" tvg-logo="https://picon.ml/rossia1.png",Россия 1 HD
-https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=37REtWv7HUdg1-NY_sHd9g&e=1685038080&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=0FB2k2jkwqhh1gXdroiOaw&e=1685038980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 tvg-id="Xntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
-#EXTINF:0 tvg-id="Xntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
+#EXTINF:-1 tvg-id="Xntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="Xntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
+#EXTINF:-1 tvg-id="Xntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
 https://cdn.ntv.ru/th_hit/index.m3u8
-#EXTINF:0  tvg-id="Xntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
+#EXTINF:-1 tvg-id="Xntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
 https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:0  tvg-id="Xntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
+#EXTINF:-1 tvg-id="Xntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Xmir" tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
