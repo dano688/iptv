@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Xpervy" tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
 https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 #EXTINF:-1 tvg-id="Xrossia1" tvg-logo="https://picon.ml/rossia1.png",Россия 1 HD
-https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=DFUTANcjWyS7dqmkgGQ81Q&e=1693061580&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=lNj2nlNFO5hvFiwsqbkYlw&e=1693072980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 tvg-id="Xntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="Xntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
