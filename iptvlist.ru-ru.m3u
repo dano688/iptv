@@ -6,9 +6,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg",RTR Planeta
 plugin://plugin.video.smotrim.ru/?action=play&context=channelmenus&channels=1&url=plugin%3A%2F%2Fplugin.video.smotrim.ru%2F
 #EXTINF:-1 tvg-id="tvrus" tvg-logo="https://bem-media.de/wp-content/uploads/02_TVRUS.png",TVRUS HD
-https://hls.tvrus.t62a.com/1756157924/pA_ZUZF8a0zW7zof1OG_Hg/bemtv/stream409/stream0.m3u8
+https://hls.tvrus.t62a.com/1756166194/UE3mpSwAk6D9_o3-aSPylw/bemtv/stream409/stream0.m3u8
 #EXTINF:-1 tvg-id="tvrus" tvg-logo="https://pro-tv.biz/upload/iblock/c24/tvrusplus_splash.png",TVRUS+ HD
-https://hls.tvrus.t62a.com/1756157924/epxtNZrr3-LiJeY6weN2cg/bemtv/stream336/stream0.m3u8
+https://hls.tvrus.t62a.com/1756166194/1d3QvcQM7mBRe_QlJRfcCg/bemtv/stream336/stream0.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
