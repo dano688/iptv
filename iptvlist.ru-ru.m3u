@@ -22,7 +22,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru",Россия 1 (+9)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg",RTR Planeta
-plugin://plugin.video.smotrim.ru/?action=play&context=channelmenus&channels=1&url=plugin%3A%2F%2Fplugin.video.smotrim.ru%2F
+https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 tvg-id="tvrus" tvg-logo="https://bem-media.de/wp-content/uploads/02_TVRUS.png",TVRUS HD
 https://hls.tvrus.t62a.com/1756931433/_Lo8Yo9SkGwykaPFWo15ow/bemtv/stream409/stream0.m3u8
 #EXTINF:-1 tvg-id="tvrus" tvg-logo="https://pro-tv.biz/upload/iblock/c24/tvrusplus_splash.png",TVRUS+ HD
@@ -46,3 +46,4 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
 
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+
