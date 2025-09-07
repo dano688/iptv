@@ -5,10 +5,6 @@ https://cdn11.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg",RTR Planeta
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
-#EXTINF:-1 tvg-id="tvrus" tvg-logo="https://bem-media.de/wp-content/uploads/02_TVRUS.png",TVRUS HD
-https://hls.tvrus.t62a.com/1756931433/_Lo8Yo9SkGwykaPFWo15ow/bemtv/stream409/stream0.m3u8
-#EXTINF:-1 tvg-id="tvrus" tvg-logo="https://pro-tv.biz/upload/iblock/c24/tvrusplus_splash.png",TVRUS+ HD
-https://hls.tvrus.t62a.com/1756931433/RMF29QjguigylwJQL63yLQ/bemtv/stream336/stream0.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
@@ -27,6 +23,3 @@ https://bl.uma.media/live/317845/HLS/4614144_3/1/1/playlist.m3u8
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-
-
-
