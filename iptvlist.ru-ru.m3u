@@ -17,9 +17,5 @@ https://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="super" tvg-logo="http://epg.it999.ru/img2/2288.png",Суббота! HD
-https://bl.uma.media/live/317845/HLS/4614144_3/1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="http://epg.it999.ru/img2/2078.png",Мир 24
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="izvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
