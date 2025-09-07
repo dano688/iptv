@@ -6,7 +6,7 @@ https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=EijA5HBGdzOr
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg",RTR Planeta
 plugin://plugin.video.smotrim.ru/?action=play&context=channelmenus&channels=1&url=plugin%3A%2F%2Fplugin.video.smotrim.ru%2F
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
-https://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
+https://cdn.ntv.ru/ntv0_foreign/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
 https://cdn.ntv.ru/th_hit/index.m3u8
 #EXTINF:0  tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
@@ -22,4 +22,5 @@ https://bl.uma.media/live/317845/HLS/4614144_3/1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="http://epg.it999.ru/img2/2078.png",Мир 24
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="http://epg.it999.ru/img2/2271.png",Известия HD
+
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
