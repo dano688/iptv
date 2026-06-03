@@ -9,6 +9,12 @@ https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f
 http://192.168.178.38:5001/stream409.m3u8
 #EXTINF:-1 tvg-id="tv-rus-plus" tvg-logo="https://pro-tv.biz/upload/iblock/c24/tvrusplus_splash.png",TVRUS+ HD
 http://192.168.178.38:5001/stream336.m3u8
+#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://tvnews.by/uploads/posts/2017-12/1512576993_3320113465_2.jpg",Дом кино
+http://192.168.178.38:5002/stream/154
+#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/250px-Domashniy_tv_logo.svg.png",Домашний HD
+http://192.168.178.38:5002/stream/505
+#EXTINF:-1 tvg-id="RussiaK.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rossiya-K_Logo_2014.svg/2560px-Rossiya-K_Logo_2014.svg.png",Россия К
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
