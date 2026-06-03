@@ -1,3 +1,0 @@
-#EXTM3U
-#EXTINF:0001 tvg-id="ARD.de" tvg-chno="1" group-title="Main Program" tvg-logo="https://images.zattic.com/logos/2ab3e01a710164443656/black/210x120.png", Das Erste HD
-pipe://ffmpeg -loglevel fatal -i "http://192.168.178.38:5000/api/1u1/live/ard" -vcodec copy -acodec copy -f mpegts -metadata service_name="Das Erste" pipe:1
