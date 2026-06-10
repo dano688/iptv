@@ -3,8 +3,10 @@
 https://cdn11.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1 tvg-id="Xrossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg",RTR Planeta
-https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
+#EXTINF:-1 tvg-id="tv-rus" tvg-logo="https://bem-media.de/wp-content/uploads/02_TVRUS.png",TVRUS HD
+http://dano68.duckdns.org:5001/stream409.m3u8?key=A7p8v9kL2mQzR5w
+#EXTINF:-1 tvg-id="tv-rus-plus" tvg-logo="https://pro-tv.biz/upload/iblock/c24/tvrusplus_splash.png",TVRUS+ HD
+http://dano68.duckdns.org:5001/stream336.m3u8?key=A7p8v9kL2mQzR5w
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ Хит
