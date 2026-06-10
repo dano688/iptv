@@ -6,9 +6,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg",RTR Planeta
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 #EXTINF:-1 tvg-id="tv-rus" tvg-logo="https://bem-media.de/wp-content/uploads/02_TVRUS.png",TVRUS HD
-http://192.168.178.38:5001/stream409.m3u8
+http://dano68.duckdns.org:5001/stream409.m3u8?key=A7p8v9kL2mQzR5w
 #EXTINF:-1 tvg-id="tv-rus-plus" tvg-logo="https://pro-tv.biz/upload/iblock/c24/tvrusplus_splash.png",TVRUS+ HD
-http://192.168.178.38:5001/stream336.m3u8
+http://dano68.duckdns.org:5001/stream336.m3u8?key=A7p8v9kL2mQzR5w
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://tvnews.by/uploads/posts/2017-12/1512576993_3320113465_2.jpg",Дом кино
 http://192.168.178.38:5002/stream/154
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/250px-Domashniy_tv_logo.svg.png",Домашний HD
