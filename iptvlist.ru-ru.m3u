@@ -3,7 +3,7 @@
 https://cdn11.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
 #EXTINF:-1 tvg-id="Xrossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 tvg-id="RTRPlaneta.ru@Europe",РТР Планета
+#EXTINF:-1 tvg-id="RTRPlaneta tvg-logo="https://static.dw.com/image/18370817_1006.jpg",РТР Планета
 https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d
 #EXTINF:-1 tvg-id="tv-rus" tvg-logo="https://bem-media.de/wp-content/uploads/02_TVRUS.png",TVRUS HD
 http://dano68.duckdns.org:5001/stream409.m3u8?key=A7p8v9kL2mQzR5w
