@@ -19,9 +19,3 @@ https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NTVStyle.ru" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 https://cdn.ntv.ru/th_style/playlist.m3u8
-#EXTINF:-1 tvg-id="mir" tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
-https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="zvezda" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="mir-24" tvg-logo="http://epg.it999.ru/img2/2078.png",Мир 24
-https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
