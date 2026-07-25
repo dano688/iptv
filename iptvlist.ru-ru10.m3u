@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
 https://cdn11.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
-#EXTINF:-1 tvg-id="Xrossia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1280px-Russia-1.svg.png",Россия 1 HD
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1280px-Russia-1.svg.png",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="tv-rus" tvg-logo="https://bem-media.de/wp-content/uploads/02_TVRUS.png",TVRUS HD
 http://dummy/stream409.m3u8
 #EXTINF:-1 tvg-id="tv-rus-plus" tvg-logo="https://pro-tv.biz/upload/iblock/c24/tvrusplus_splash.png",TVRUS+ HD
 http://dummy/stream336.m3u8
-#EXTINF:-1 tvg-id="dom-kino" tvg-logo="https://tvnews.by/uploads/posts/2017-12/1512576993_3320113465_2.jpg",Дом кино
+#EXTINF:-1 tvg-id="domkino" tvg-logo="https://tvnews.by/uploads/posts/2017-12/1512576993_3320113465_2.jpg",Дом кино
 http://192.168.178.38:8080/live?id=335
-#EXTINF:-1 tvg-id="domaschnij" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/250px-Domashniy_tv_logo.svg.png",Домашний HD
+#EXTINF:-1 tvg-id="domashny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/250px-Domashniy_tv_logo.svg.png",Домашний HD
 http://192.168.178.38:8080/live?id=445
-#EXTINF:-1 tvg-id="russkij-roman" tvg-logo="https://rusroman.ru/favIcons/android-chrome-192x192.png",Русский роман HD
+#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://rusroman.ru/favIcons/android-chrome-192x192.png",Русский роман HD
 http://192.168.178.38:8080/live?id=446
-#EXTINF:-1 tvg-id="russkij-detektiv" tvg-logo="https://rudetective.tv/favIcons/android-chrome-192x192.png",Русский Детектив
+#EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://rudetective.tv/favIcons/android-chrome-192x192.png",Русский Детектив
 http://192.168.178.38:8080/live?id=423
-#EXTINF:-1 tvg-id="russkij-bestseller" tvg-logo="https://bestrussia.tv/favIcons/android-chrome-192x192.png",Русский бестселлер
+#EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://bestrussia.tv/favIcons/android-chrome-192x192.png",Русский бестселлер
 http://192.168.178.38:8080/live?id=389
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
@@ -25,7 +25,7 @@ https://cdn.ntv.ru/th_hit/index.m3u8
 https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
+#EXTINF:-1 tvg-name="das-erste" tvg-id="DasErste.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
