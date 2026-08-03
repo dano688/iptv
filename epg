@@ -918,7 +918,7 @@
 	<title lang="en">Вести в 20:00</title>
 	<desc lang="en">Программа о ключевых политических, социальных, культурных и спортивных событиях дня. Ведущие знакомят зрителей с самыми актуальными новостями, предоставляя объективную и всестороннюю информацию. Благодаря нашей программе вы всегда будете в курсе самых важных событий, происходящих в мире. Вед.: Эрнест Мацкявичюс, Игорь Кожевин. Россия</desc>
 </programme><programme start="20260809193000 +0000" stop="20260809210500 +0000" channel="Xrossia1">
-	<title lang="en">х/ф Аэропорт</title>
+	<title lang="en">д/ф Аэропорт</title>
 	<desc lang="en">Девять пассажиров рейса Пермь – Анталья оказываются в зоне пограничного контроля аэропорта. Двери заблокированы, связь с внешним миром отсутствует. На первый взгляд – случайное стечение обстоятельств. Но опытный трукрайм-энтузиаст Владимир уверен, что совпадений быть не может. Реж.: Иван Кульнев. В ролях: Роман Курцын, Камиль Ларин, Валентина Мазунина, Олег Тактаров, Диана Милютина, Майя Вознесенская, Анастасия Стежко, Максим Радугин, Никандр Кирьянов, Дарья Петриченко. Россия, 2026, триллер, детектив</desc>
 </programme><programme start="20260809210500 +0000" stop="20260809225000 +0000" channel="Xrossia1">
 	<title lang="en">х/ф Позывной «Пассажир»</title>
@@ -1153,8 +1153,408 @@
 	<title lang="en">х/ф Перевод с турецкого</title>
 </programme><programme start="20260808212000 +0000" stop="20260809004000 +0000" channel="rtr-planeta-eu">
 	<title lang="en">х/ф Холодное сердце</title>
-</programme><programme start="20260809004000 +0000" stop="20260809014000 +0000" channel="rtr-planeta-eu">
+</programme><programme start="20260809004000 +0000" stop="20260809024000 +0000" channel="rtr-planeta-eu">
 	<title lang="en">х/ф Напрасная жертва</title>
+</programme><programme start="20260809024000 +0000" stop="20260809041500 +0000" channel="rtr-planeta-eu">
+	<title lang="en">х/ф Мой белый и пушистый</title>
+</programme><programme start="20260809041500 +0000" stop="20260809043500 +0000" channel="rtr-planeta-eu">
+	<title lang="en">По секрету всему свету</title>
+</programme><programme start="20260809043500 +0000" stop="20260809050500 +0000" channel="rtr-planeta-eu">
+	<title lang="en">Формула еды</title>
+</programme><programme start="20260809050500 +0000" stop="20260809054000 +0000" channel="rtr-planeta-eu">
+	<title lang="en">Местное время. Воскресенье</title>
+</programme><programme start="20260809054000 +0000" stop="20260809063000 +0000" channel="rtr-planeta-eu">
+	<title lang="en">Когда все дома с Тимуром Кизяковым</title>
+</programme><programme start="20260809063000 +0000" stop="20260809071000 +0000" channel="rtr-planeta-eu">
+	<title lang="en">Утренняя почта с Николаем Басковым</title>
+</programme><programme start="20260809071000 +0000" stop="20260809080000 +0000" channel="rtr-planeta-eu">
+	<title lang="en">Сто к одному. Телеигра</title>
+</programme><programme start="20260809080000 +0000" stop="20260809084000 +0000" channel="rtr-planeta-eu">
+	<title lang="en">Вести</title>
+</programme><programme start="20260809084000 +0000" stop="20260809091000 +0000" channel="rtr-planeta-eu">
+	<title lang="en">Вести. Местное время</title>
+</programme><programme start="20260809091000 +0000" stop="20260809094500 +0000" channel="rtr-planeta-eu">
+	<title lang="en">В кругу друзей</title>
+</programme><programme start="20260809094500 +0000" stop="20260809103000 +0000" channel="rtr-planeta-eu">
+	<title lang="en">Братья и сёстры</title>
+</programme><programme start="20260809103000 +0000" stop="20260809122500 +0000" channel="rtr-planeta-eu">
+	<title lang="en">х/ф Дорогой мой человек</title>
+</programme><programme start="20260809122500 +0000" stop="20260809140000 +0000" channel="rtr-planeta-eu">
+	<title lang="en">х/ф Отцы и деды</title>
+</programme><programme start="20260809140000 +0000" stop="20260809145500 +0000" channel="rtr-planeta-eu">
+	<title lang="en">Вести</title>
+</programme><programme start="20260809145500 +0000" stop="20260809170000 +0000" channel="rtr-planeta-eu">
+	<title lang="en">Песни от всей души. Вечернее шоу Андрея Малахова</title>
+</programme><programme start="20260809170000 +0000" stop="20260809193000 +0000" channel="rtr-planeta-eu">
+	<title lang="en">Вести</title>
+</programme><programme start="20260809193000 +0000" stop="20260809205500 +0000" channel="rtr-planeta-eu">
+	<title lang="en">Аэропорт</title>
+</programme><programme start="20260809205500 +0000" stop="20260809223500 +0000" channel="rtr-planeta-eu">
+	<title lang="en">х/ф Позывной Пассажир</title>
+</programme><programme start="20260809223500 +0000" stop="20260810005000 +0000" channel="rtr-planeta-eu">
+	<title lang="en">х/ф Тарас Бульба</title>
+</programme><programme start="20260803070000 +0000" stop="20260803090000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Осиное гнездо</title>
+</programme><programme start="20260803090000 +0000" stop="20260803103000 +0000" channel="tv-rus-plus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260803103000 +0000" stop="20260803123000 +0000" channel="tv-rus-plus">
+	<title lang="en">х/ф Молоко</title>
+</programme><programme start="20260803123000 +0000" stop="20260803140000 +0000" channel="tv-rus-plus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260803140000 +0000" stop="20260803160000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Шеф 2 сезон</title>
+</programme><programme start="20260803160000 +0000" stop="20260803170000 +0000" channel="tv-rus-plus">
+	<title lang="en">Ювелирный телемагазин Kaufbei Schmuck</title>
+</programme><programme start="20260803170000 +0000" stop="20260803184000 +0000" channel="tv-rus-plus">
+	<title lang="en">х/ф Летят журавли</title>
+</programme><programme start="20260803184000 +0000" stop="20260803190000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Ералаш 11 сезон</title>
+</programme><programme start="20260803190000 +0000" stop="20260803210000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Челночницы, 2 сезон</title>
+</programme><programme start="20260803210000 +0000" stop="20260803230000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Отличница 1 сезон</title>
+</programme><programme start="20260803230000 +0000" stop="20260804000000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Гречанка</title>
+</programme><programme start="20260804000000 +0000" stop="20260804020000 +0000" channel="tv-rus-plus">
+	<title lang="en">х/ф Молоко</title>
+</programme><programme start="20260804020000 +0000" stop="20260804040000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Шеф 2 сезон</title>
+</programme><programme start="20260804040000 +0000" stop="20260804050000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Гречанка</title>
+</programme><programme start="20260804050000 +0000" stop="20260804070000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Великолепная пятёрка, 3 сезон</title>
+</programme><programme start="20260804070000 +0000" stop="20260804090000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Осиное гнездо</title>
+</programme><programme start="20260804090000 +0000" stop="20260804103000 +0000" channel="tv-rus-plus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260804103000 +0000" stop="20260804123000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Напарницы</title>
+</programme><programme start="20260804123000 +0000" stop="20260804140000 +0000" channel="tv-rus-plus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260804140000 +0000" stop="20260804160000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Шеф 2 сезон</title>
+</programme><programme start="20260804160000 +0000" stop="20260804170000 +0000" channel="tv-rus-plus">
+	<title lang="en">Ювелирный телемагазин Kaufbei Schmuck</title>
+</programme><programme start="20260804170000 +0000" stop="20260804184000 +0000" channel="tv-rus-plus">
+	<title lang="en">х/ф Человек-амфибия</title>
+</programme><programme start="20260804184000 +0000" stop="20260804190000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Ералаш 11 сезон</title>
+</programme><programme start="20260804190000 +0000" stop="20260804210000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Челночницы, 2 сезон</title>
+</programme><programme start="20260804210000 +0000" stop="20260804230000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Отличница 1 сезон</title>
+</programme><programme start="20260804230000 +0000" stop="20260805000000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Гречанка</title>
+</programme><programme start="20260805000000 +0000" stop="20260805020000 +0000" channel="tv-rus-plus">
+	<title lang="en">х/ф Летят журавли</title>
+</programme><programme start="20260805020000 +0000" stop="20260805040000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Шеф 2 сезон</title>
+</programme><programme start="20260805040000 +0000" stop="20260805050000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Гречанка</title>
+</programme><programme start="20260805050000 +0000" stop="20260805070000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Великолепная пятёрка, 3 сезон</title>
+</programme><programme start="20260805070000 +0000" stop="20260805090000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Осиное гнездо</title>
+</programme><programme start="20260805090000 +0000" stop="20260805103000 +0000" channel="tv-rus-plus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260805103000 +0000" stop="20260805123000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Напарницы</title>
+</programme><programme start="20260805123000 +0000" stop="20260805140000 +0000" channel="tv-rus-plus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260805140000 +0000" stop="20260805160000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Шеф 2 сезон</title>
+</programme><programme start="20260805160000 +0000" stop="20260805170000 +0000" channel="tv-rus-plus">
+	<title lang="en">Ювелирный телемагазин Kaufbei Schmuck</title>
+</programme><programme start="20260805170000 +0000" stop="20260805184000 +0000" channel="tv-rus-plus">
+	<title lang="en">х/ф Табор уходит в небо</title>
+</programme><programme start="20260805184000 +0000" stop="20260805190000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Ералаш 11 сезон</title>
+</programme><programme start="20260805190000 +0000" stop="20260805210000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Челночницы, 2 сезон</title>
+</programme><programme start="20260805210000 +0000" stop="20260805230000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Отличница 1 сезон</title>
+</programme><programme start="20260805230000 +0000" stop="20260806000000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Гречанка</title>
+</programme><programme start="20260806000000 +0000" stop="20260806020000 +0000" channel="tv-rus-plus">
+	<title lang="en">х/ф Человек-амфибия</title>
+</programme><programme start="20260806020000 +0000" stop="20260806040000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Шеф 2 сезон</title>
+</programme><programme start="20260806040000 +0000" stop="20260806050000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Гречанка</title>
+</programme><programme start="20260806050000 +0000" stop="20260806070000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Великолепная пятёрка, 3 сезон</title>
+</programme><programme start="20260806070000 +0000" stop="20260806090000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Осиное гнездо</title>
+</programme><programme start="20260806090000 +0000" stop="20260806103000 +0000" channel="tv-rus-plus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260806103000 +0000" stop="20260806123000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Напарницы</title>
+</programme><programme start="20260806123000 +0000" stop="20260806140000 +0000" channel="tv-rus-plus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260806140000 +0000" stop="20260806160000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Шеф 2 сезон</title>
+</programme><programme start="20260806160000 +0000" stop="20260806170000 +0000" channel="tv-rus-plus">
+	<title lang="en">Ювелирный телемагазин Kaufbei Schmuck</title>
+</programme><programme start="20260806170000 +0000" stop="20260806184000 +0000" channel="tv-rus-plus">
+	<title lang="en">х/ф Неотправленное письмо</title>
+</programme><programme start="20260806184000 +0000" stop="20260806190000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Ералаш 11 сезон</title>
+</programme><programme start="20260806190000 +0000" stop="20260806210000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Челночницы, 2 сезон</title>
+</programme><programme start="20260806210000 +0000" stop="20260806230000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Отличница 1 сезон</title>
+</programme><programme start="20260806230000 +0000" stop="20260807000000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Гречанка</title>
+</programme><programme start="20260807000000 +0000" stop="20260807020000 +0000" channel="tv-rus-plus">
+	<title lang="en">х/ф Табор уходит в небо</title>
+</programme><programme start="20260807020000 +0000" stop="20260807040000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Шеф 2 сезон</title>
+</programme><programme start="20260807040000 +0000" stop="20260807050000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Гречанка</title>
+</programme><programme start="20260807050000 +0000" stop="20260807070000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Великолепная пятёрка, 3 сезон</title>
+</programme><programme start="20260807070000 +0000" stop="20260807090000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Осиное гнездо</title>
+</programme><programme start="20260807090000 +0000" stop="20260807103000 +0000" channel="tv-rus-plus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260807103000 +0000" stop="20260807123000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Напарницы</title>
+</programme><programme start="20260807123000 +0000" stop="20260807140000 +0000" channel="tv-rus-plus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260807140000 +0000" stop="20260807160000 +0000" channel="tv-rus-plus">
+	<title lang="en">х/ф Федя. Народный футболист</title>
+</programme><programme start="20260807160000 +0000" stop="20260807170000 +0000" channel="tv-rus-plus">
+	<title lang="en">Ювелирный телемагазин Kaufbei Schmuck</title>
+</programme><programme start="20260807170000 +0000" stop="20260807230000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Настоящий, 2 сезон</title>
+</programme><programme start="20260807230000 +0000" stop="20260808000000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Гречанка</title>
+</programme><programme start="20260808000000 +0000" stop="20260808015000 +0000" channel="tv-rus-plus">
+	<title lang="en">х/ф Неотправленное письмо</title>
+</programme><programme start="20260808015000 +0000" stop="20260808040000 +0000" channel="tv-rus-plus">
+	<title lang="en">х/ф Федя. Народный футболист</title>
+</programme><programme start="20260808040000 +0000" stop="20260808050000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Гречанка</title>
+</programme><programme start="20260808050000 +0000" stop="20260808070000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Метод Лавровой 2 сезон</title>
+</programme><programme start="20260808070000 +0000" stop="20260808090000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Братья по обмену 2 сезон</title>
+</programme><programme start="20260808090000 +0000" stop="20260808103000 +0000" channel="tv-rus-plus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260808103000 +0000" stop="20260808123000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Братья по обмену 2 сезон</title>
+</programme><programme start="20260808123000 +0000" stop="20260808140000 +0000" channel="tv-rus-plus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260808140000 +0000" stop="20260808160000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Провинциальный детектив, 1 сезон</title>
+</programme><programme start="20260808160000 +0000" stop="20260808170000 +0000" channel="tv-rus-plus">
+	<title lang="en">Ювелирный телемагазин Kaufbei Schmuck</title>
+</programme><programme start="20260808170000 +0000" stop="20260808192000 +0000" channel="tv-rus-plus">
+	<title lang="en">х/ф Небо</title>
+</programme><programme start="20260808192000 +0000" stop="20260808210000 +0000" channel="tv-rus-plus">
+	<title lang="en">х/ф Другое имя</title>
+</programme><programme start="20260808210000 +0000" stop="20260808230000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Отпечатки, 1 сезон</title>
+</programme><programme start="20260808230000 +0000" stop="20260809000000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Гречанка</title>
+</programme><programme start="20260809000000 +0000" stop="20260809040000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Вечный зов, 1 сезон</title>
+</programme><programme start="20260809040000 +0000" stop="20260809050000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Гречанка</title>
+</programme><programme start="20260809050000 +0000" stop="20260809070000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Метод Лавровой 2 сезон</title>
+</programme><programme start="20260809070000 +0000" stop="20260809090000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Братья по обмену 2 сезон</title>
+</programme><programme start="20260809090000 +0000" stop="20260809103000 +0000" channel="tv-rus-plus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260809103000 +0000" stop="20260809113000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Братья по обмену 2 сезон</title>
+</programme><programme start="20260809113000 +0000" stop="20260809123000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Дом с лилиями</title>
+</programme><programme start="20260809123000 +0000" stop="20260809140000 +0000" channel="tv-rus-plus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260809140000 +0000" stop="20260809160000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Провинциальный детектив, 1 сезон</title>
+</programme><programme start="20260809160000 +0000" stop="20260809170000 +0000" channel="tv-rus-plus">
+	<title lang="en">Ювелирный телемагазин Kaufbei Schmuck</title>
+</programme><programme start="20260809170000 +0000" stop="20260809192000 +0000" channel="tv-rus-plus">
+	<title lang="en">х/ф Кракен</title>
+</programme><programme start="20260809192000 +0000" stop="20260809210000 +0000" channel="tv-rus-plus">
+	<title lang="en">х/ф Землетрясение</title>
+</programme><programme start="20260809210000 +0000" stop="20260809230000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Отпечатки, 1 сезон</title>
+</programme><programme start="20260809230000 +0000" stop="20260810000000 +0000" channel="tv-rus-plus">
+	<title lang="en">т/с Гречанка</title>
+</programme><programme start="20260803070000 +0000" stop="20260803083000 +0000" channel="tv-rus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260803083000 +0000" stop="20260803103000 +0000" channel="tv-rus">
+	<title lang="en">х/ф По щучьему велению</title>
+</programme><programme start="20260803103000 +0000" stop="20260803113000 +0000" channel="tv-rus">
+	<title lang="en">Ювелирный телемагазин Kaufbei Schmuck</title>
+</programme><programme start="20260803113000 +0000" stop="20260803133000 +0000" channel="tv-rus">
+	<title lang="en">т/с Цыганка 1 сезон</title>
+</programme><programme start="20260803133000 +0000" stop="20260803153000 +0000" channel="tv-rus">
+	<title lang="en">т/с Чёрная кровь</title>
+</programme><programme start="20260803153000 +0000" stop="20260803170000 +0000" channel="tv-rus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260803170000 +0000" stop="20260803190000 +0000" channel="tv-rus">
+	<title lang="en">т/с Постучись в мою дверь в Москве 1 сезон</title>
+</programme><programme start="20260803190000 +0000" stop="20260803210000 +0000" channel="tv-rus">
+	<title lang="en">т/с Драйв</title>
+</programme><programme start="20260803210000 +0000" stop="20260803230000 +0000" channel="tv-rus">
+	<title lang="en">т/с Формула преступления, 2 сезон</title>
+</programme><programme start="20260803230000 +0000" stop="20260804010000 +0000" channel="tv-rus">
+	<title lang="en">т/с Цыганка 1 сезон</title>
+</programme><programme start="20260804010000 +0000" stop="20260804030000 +0000" channel="tv-rus">
+	<title lang="en">т/с Чёрная кровь</title>
+</programme><programme start="20260804030000 +0000" stop="20260804050000 +0000" channel="tv-rus">
+	<title lang="en">т/с Формула преступления, 2 сезон</title>
+</programme><programme start="20260804050000 +0000" stop="20260804070000 +0000" channel="tv-rus">
+	<title lang="en">т/с Королева игры</title>
+</programme><programme start="20260804070000 +0000" stop="20260804083000 +0000" channel="tv-rus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260804083000 +0000" stop="20260804103000 +0000" channel="tv-rus">
+	<title lang="en">т/с Бедная Саша</title>
+</programme><programme start="20260804103000 +0000" stop="20260804113000 +0000" channel="tv-rus">
+	<title lang="en">Ювелирный телемагазин Kaufbei Schmuck</title>
+</programme><programme start="20260804113000 +0000" stop="20260804133000 +0000" channel="tv-rus">
+	<title lang="en">т/с Цыганка 1 сезон</title>
+</programme><programme start="20260804133000 +0000" stop="20260804153000 +0000" channel="tv-rus">
+	<title lang="en">т/с Чёрная кровь</title>
+</programme><programme start="20260804153000 +0000" stop="20260804170000 +0000" channel="tv-rus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260804170000 +0000" stop="20260804190000 +0000" channel="tv-rus">
+	<title lang="en">т/с Постучись в мою дверь в Москве 1 сезон</title>
+</programme><programme start="20260804190000 +0000" stop="20260804210000 +0000" channel="tv-rus">
+	<title lang="en">т/с Драйв</title>
+</programme><programme start="20260804210000 +0000" stop="20260804230000 +0000" channel="tv-rus">
+	<title lang="en">т/с Формула преступления, 2 сезон</title>
+</programme><programme start="20260804230000 +0000" stop="20260805010000 +0000" channel="tv-rus">
+	<title lang="en">т/с Цыганка 1 сезон</title>
+</programme><programme start="20260805010000 +0000" stop="20260805030000 +0000" channel="tv-rus">
+	<title lang="en">т/с Чёрная кровь</title>
+</programme><programme start="20260805030000 +0000" stop="20260805050000 +0000" channel="tv-rus">
+	<title lang="en">т/с Формула преступления, 2 сезон</title>
+</programme><programme start="20260805050000 +0000" stop="20260805070000 +0000" channel="tv-rus">
+	<title lang="en">т/с Королева игры</title>
+</programme><programme start="20260805070000 +0000" stop="20260805083000 +0000" channel="tv-rus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260805083000 +0000" stop="20260805103000 +0000" channel="tv-rus">
+	<title lang="en">т/с Бедная Саша</title>
+</programme><programme start="20260805103000 +0000" stop="20260805113000 +0000" channel="tv-rus">
+	<title lang="en">Ювелирный телемагазин Kaufbei Schmuck</title>
+</programme><programme start="20260805113000 +0000" stop="20260805133000 +0000" channel="tv-rus">
+	<title lang="en">т/с Цыганка 1 сезон</title>
+</programme><programme start="20260805133000 +0000" stop="20260805153000 +0000" channel="tv-rus">
+	<title lang="en">т/с Чёрная кровь</title>
+</programme><programme start="20260805153000 +0000" stop="20260805170000 +0000" channel="tv-rus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260805170000 +0000" stop="20260805190000 +0000" channel="tv-rus">
+	<title lang="en">т/с Постучись в мою дверь в Москве 1 сезон</title>
+</programme><programme start="20260805190000 +0000" stop="20260805210000 +0000" channel="tv-rus">
+	<title lang="en">т/с Кулагины</title>
+</programme><programme start="20260805210000 +0000" stop="20260805230000 +0000" channel="tv-rus">
+	<title lang="en">т/с Формула преступления, 2 сезон</title>
+</programme><programme start="20260805230000 +0000" stop="20260806010000 +0000" channel="tv-rus">
+	<title lang="en">т/с Цыганка 1 сезон</title>
+</programme><programme start="20260806010000 +0000" stop="20260806030000 +0000" channel="tv-rus">
+	<title lang="en">т/с Чёрная кровь</title>
+</programme><programme start="20260806030000 +0000" stop="20260806050000 +0000" channel="tv-rus">
+	<title lang="en">т/с Формула преступления, 2 сезон</title>
+</programme><programme start="20260806050000 +0000" stop="20260806070000 +0000" channel="tv-rus">
+	<title lang="en">т/с Королева игры</title>
+</programme><programme start="20260806070000 +0000" stop="20260806083000 +0000" channel="tv-rus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260806083000 +0000" stop="20260806103000 +0000" channel="tv-rus">
+	<title lang="en">т/с Бедная Саша</title>
+</programme><programme start="20260806103000 +0000" stop="20260806113000 +0000" channel="tv-rus">
+	<title lang="en">Ювелирный телемагазин Kaufbei Schmuck</title>
+</programme><programme start="20260806113000 +0000" stop="20260806133000 +0000" channel="tv-rus">
+	<title lang="en">х/ф Чёрный замок, HD</title>
+</programme><programme start="20260806133000 +0000" stop="20260806153000 +0000" channel="tv-rus">
+	<title lang="en">т/с Чёрная кровь</title>
+</programme><programme start="20260806153000 +0000" stop="20260806170000 +0000" channel="tv-rus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260806170000 +0000" stop="20260806190000 +0000" channel="tv-rus">
+	<title lang="en">т/с Постучись в мою дверь в Москве 1 сезон</title>
+</programme><programme start="20260806190000 +0000" stop="20260806210000 +0000" channel="tv-rus">
+	<title lang="en">т/с Кулагины</title>
+</programme><programme start="20260806210000 +0000" stop="20260806230000 +0000" channel="tv-rus">
+	<title lang="en">т/с Формула преступления, 2 сезон</title>
+</programme><programme start="20260806230000 +0000" stop="20260807010000 +0000" channel="tv-rus">
+	<title lang="en">х/ф Чёрный замок, HD</title>
+</programme><programme start="20260807010000 +0000" stop="20260807030000 +0000" channel="tv-rus">
+	<title lang="en">т/с Чёрная кровь</title>
+</programme><programme start="20260807030000 +0000" stop="20260807050000 +0000" channel="tv-rus">
+	<title lang="en">т/с Формула преступления, 2 сезон</title>
+</programme><programme start="20260807050000 +0000" stop="20260807070000 +0000" channel="tv-rus">
+	<title lang="en">т/с Королева игры</title>
+</programme><programme start="20260807070000 +0000" stop="20260807083000 +0000" channel="tv-rus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260807083000 +0000" stop="20260807103000 +0000" channel="tv-rus">
+	<title lang="en">т/с Бедная Саша</title>
+</programme><programme start="20260807103000 +0000" stop="20260807113000 +0000" channel="tv-rus">
+	<title lang="en">Ювелирный телемагазин Kaufbei Schmuck</title>
+</programme><programme start="20260807113000 +0000" stop="20260807153000 +0000" channel="tv-rus">
+	<title lang="en">т/с Казанова. В бегах</title>
+</programme><programme start="20260807153000 +0000" stop="20260807170000 +0000" channel="tv-rus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260807170000 +0000" stop="20260807210000 +0000" channel="tv-rus">
+	<title lang="en">т/с Назад в СССР</title>
+</programme><programme start="20260807210000 +0000" stop="20260807230000 +0000" channel="tv-rus">
+	<title lang="en">т/с Художник 1 сезон</title>
+</programme><programme start="20260807230000 +0000" stop="20260808030000 +0000" channel="tv-rus">
+	<title lang="en">т/с Казанова. В бегах</title>
+</programme><programme start="20260808030000 +0000" stop="20260808050000 +0000" channel="tv-rus">
+	<title lang="en">т/с Художник 1 сезон</title>
+</programme><programme start="20260808050000 +0000" stop="20260808070000 +0000" channel="tv-rus">
+	<title lang="en">Т/ш Орёл и Решка 2 сезон</title>
+</programme><programme start="20260808070000 +0000" stop="20260808083000 +0000" channel="tv-rus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260808083000 +0000" stop="20260808102000 +0000" channel="tv-rus">
+	<title lang="en">х/ф Свободные отношения</title>
+</programme><programme start="20260808102000 +0000" stop="20260808103000 +0000" channel="tv-rus">
+	<title lang="en">т/с Ералаш 11 сезон</title>
+</programme><programme start="20260808103000 +0000" stop="20260808113000 +0000" channel="tv-rus">
+	<title lang="en">Ювелирный телемагазин Kaufbei Schmuck</title>
+</programme><programme start="20260808113000 +0000" stop="20260808153000 +0000" channel="tv-rus">
+	<title lang="en">т/с Синий камень</title>
+</programme><programme start="20260808153000 +0000" stop="20260808170000 +0000" channel="tv-rus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260808170000 +0000" stop="20260808185000 +0000" channel="tv-rus">
+	<title lang="en">х/ф Маме снова 17</title>
+</programme><programme start="20260808185000 +0000" stop="20260808210000 +0000" channel="tv-rus">
+	<title lang="en">х/ф Белый список</title>
+</programme><programme start="20260808210000 +0000" stop="20260808230000 +0000" channel="tv-rus">
+	<title lang="en">т/с Доктор Преображенский</title>
+</programme><programme start="20260808230000 +0000" stop="20260809024500 +0000" channel="tv-rus">
+	<title lang="en">т/с Синий камень</title>
+</programme><programme start="20260809024500 +0000" stop="20260809030000 +0000" channel="tv-rus">
+	<title lang="en">т/с Ералаш 11 сезон</title>
+</programme><programme start="20260809030000 +0000" stop="20260809040000 +0000" channel="tv-rus">
+	<title lang="en">х/ф Выйти замуж за генерала</title>
+</programme><programme start="20260809040000 +0000" stop="20260809070000 +0000" channel="tv-rus">
+	<title lang="en">Т/ш Орёл и Решка 2 сезон</title>
+</programme><programme start="20260809070000 +0000" stop="20260809083000 +0000" channel="tv-rus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260809083000 +0000" stop="20260809101500 +0000" channel="tv-rus">
+	<title lang="en">х/ф Солнце на вкус</title>
+</programme><programme start="20260809101500 +0000" stop="20260809103000 +0000" channel="tv-rus">
+	<title lang="en">т/с Ералаш 11 сезон</title>
+</programme><programme start="20260809103000 +0000" stop="20260809113000 +0000" channel="tv-rus">
+	<title lang="en">Ювелирный телемагазин Kaufbei Schmuck</title>
+</programme><programme start="20260809113000 +0000" stop="20260809153000 +0000" channel="tv-rus">
+	<title lang="en">т/с Выбираю нас</title>
+</programme><programme start="20260809153000 +0000" stop="20260809170000 +0000" channel="tv-rus">
+	<title lang="en">Телемагазин Kaufbei.TV</title>
+</programme><programme start="20260809170000 +0000" stop="20260809185000 +0000" channel="tv-rus">
+	<title lang="en">х/ф Вася не в себе</title>
+</programme><programme start="20260809185000 +0000" stop="20260809210000 +0000" channel="tv-rus">
+	<title lang="en">х/ф Паразиты</title>
+</programme><programme start="20260809210000 +0000" stop="20260809230000 +0000" channel="tv-rus">
+	<title lang="en">т/с Доктор Преображенский</title>
+</programme><programme start="20260809230000 +0000" stop="20260810025000 +0000" channel="tv-rus">
+	<title lang="en">т/с Выбираю нас</title>
 </programme><programme start="20260803060500 +0000" stop="20260803070500 +0000" channel="ntv-pravo">
 	<title lang="en">т/с До суда (Невеста сына)</title>
 	<desc lang="en">Ситуация развода или ссора в семье, конфликт между друзьями или в профессиональном коллективе – бытовые ситуации, в которых может оказаться каждый. Поэтому подобные примеры берутся для освещения в передаче. После знакомства телезрителей с обстоятельствами дела юрист Николай Мишин разбирает конфликт, основываясь на действующих законах, в т.ч. и Конституции. Психолог Ольга Зайцева изучает ситуацию, описывая скрытые мотивы, которые двигали сторонами, и объясняет, как, убирая причину конфликта, можно убрать и следствие – то есть решить дело до суда. Сопоставляя полученные сведения, Николай и Ольга объясняют участникам, каким образом они могут закончить свою тяжбу, не нарушая права и не посягая на интересы каждой из сторон. Реж.: Казбек Меретуков. В ролях: Леся Кудряшова, Сергей Гузеев, Елена Торяник, Людмила Ячменева, Екатерина Красун, Андрей Никитин, Алексей Коваль, Тимофей Носков, Анна Кашникова, Валерий Опёнкин. Россия, 2010-2014, криминал, документалка</desc>
