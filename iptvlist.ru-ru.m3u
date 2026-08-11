@@ -17,7 +17,7 @@ https://cdn.ntv.ru/th_hit/index.m3u8
 https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="xml1763309685_ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
+#EXTINF:-1 tvg-id="xml1786445118_ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 https://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 tvg-name="DasErste.de" tvg-id="DasErste.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
