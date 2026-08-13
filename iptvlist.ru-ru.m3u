@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
-https://cdn11.1internet.tv/dash-live2/streams/1tv/1tvdash.mpd
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="Xrossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg",РТР Планета
