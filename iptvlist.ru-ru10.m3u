@@ -27,13 +27,3 @@ https://cdn.ntv.ru/th_hit/index.m3u8
 https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="DasErste.de" tvg-id="DasErste.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="ZDF.de" tvg-id="ZDF.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ndr.de" tvg-id="ndr.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR HD
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
-#EXTINF:-1 tvg-name="WDRFernsehen.de" tvg-id="WDRFernsehen.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
-https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="MDRSachsen.de" tvg-id="MDRSachsen.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR HD
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
