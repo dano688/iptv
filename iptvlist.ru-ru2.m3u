@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
+https://edge1.1internet.tv/dash-live3/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="Xrossia1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1280px-Russia-1.svg.png",Россия 1 HD
+https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://kabel-blog.de/wp-content/uploads/2014/03/rtrplaneta.jpg",РТР Планета
+https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d
+#EXTINF:-1 tvg-id="tv-rus" tvg-logo="https://bem-media.de/wp-content/uploads/02_TVRUS.png",TVRUS HD
+http://dummy/stream409.m3u8
+#EXTINF:-1 tvg-id="tv-rus-plus" tvg-logo="https://pro-tv.biz/upload/iblock/c24/tvrusplus_splash.png",TVRUS+ HD
+http://dummy/stream336.m3u8
+#EXTINF:-1 tvg-id="dom-kino" tvg-logo="https://tvnews.by/uploads/posts/2017-12/1512576993_3320113465_2.jpg",Дом кино
+http://192.168.178.38:8080/live?id=335
+#EXTINF:-1 tvg-id="domaschnij" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/250px-Domashniy_tv_logo.svg.png",Домашний HD
+http://192.168.178.38:8080/live?id=445
+#EXTINF:-1 tvg-id="sapfir" tvg-name="Сапфир" group-title="Русские",Сапфир
+https://ritsatv.ru/stream/000008135/tve/index.m3u8
+#EXTINF:-1 tvg-id="russkij-roman" tvg-logo="https://rusroman.ru/favIcons/android-chrome-192x192.png",Русский роман HD
+http://192.168.178.38:8080/live?id=446
+#EXTINF:-1 tvg-id="russkij-detektiv" tvg-logo="https://rudetective.tv/favIcons/android-chrome-192x192.png",Русский Детектив
+http://192.168.178.38:8080/live?id=423
+#EXTINF:-1 tvg-id="russkij-bestseller" tvg-logo="https://bestrussia.tv/favIcons/android-chrome-192x192.png",Русский бестселлер
+http://192.168.178.38:8080/live?id=389
+#EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
+https://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
+https://cdn.ntv.ru/th_hit/index.m3u8
+#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
