@@ -13,7 +13,7 @@ http://dummy/stream336.m3u8
 http://192.168.178.38:8080/live?id=335
 #EXTINF:-1 tvg-id="domaschnij" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/250px-Domashniy_tv_logo.svg.png",Домашний HD
 http://192.168.178.38:8080/live?id=445
-#EXTINF:-1 tvg-id="sapfir" tvg-logo="http://ritsatv.ru/files/picture/original/1726303265438-saphir2.jpg",Сапфир
+#EXTINF:-1 tvg-id="sapfir" tvg-logo="https://ramnet.ru/tv/logo/000008135.png",Сапфир
 https://ritsatv.ru/stream/000008135/tve/index.m3u8
 #EXTINF:-1 tvg-id="russkij-roman" tvg-logo="https://rusroman.ru/favIcons/android-chrome-192x192.png",Русский роман HD
 http://192.168.178.38:8080/live?id=446
