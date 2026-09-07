@@ -9,17 +9,17 @@ https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=5
 http://dummy/stream409.m3u8
 #EXTINF:-1 tvg-id="tv-rus-plus" tvg-logo="https://pro-tv.biz/upload/iblock/c24/tvrusplus_splash.png" fallback-parom="stream0702",TVRUS+ HD
 http://dummy/stream336.m3u8
-#EXTINF:-1 tvg-id="dom-kino" tvg-logo="https://www.domkino.tv/images/logo.png",Дом кино
+#EXTINF:-1 tvg-id="dom-kino" tvg-logo="https://www.domkino.tv/images/logo.png" fallback-viks="https://live.viks.tv/027822-dom-kino.html",Дом кино
 http://192.168.178.38:8080/live?id=335
-#EXTINF:-1 tvg-id="domaschnij" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/250px-Domashniy_tv_logo.svg.png",Домашний HD
+#EXTINF:-1 tvg-id="domaschnij" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/250px-Domashniy_tv_logo.svg.png" fallback-viks="https://live.viks.tv/337-domashniy.html",Домашний HD
 http://192.168.178.38:8080/live?id=445
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_tnt.png?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=original",ТНТ HD
 http://192.168.178.38:8080/live?id=415
-#EXTINF:-1 tvg-id="russkij-roman" tvg-logo="https://rusroman.ru/favIcons/android-chrome-192x192.png",Русский роман HD
+#EXTINF:-1 tvg-id="russkij-roman" tvg-logo="https://rusroman.ru/favIcons/android-chrome-192x192.png" fallback-viks="https://live.viks.tv/026622-russkiy-roman.html",Русский роман HD
 http://192.168.178.38:8080/live?id=446
-#EXTINF:-1 tvg-id="russkij-detektiv" tvg-logo="https://rudetective.tv/favIcons/android-chrome-192x192.png",Русский Детектив
+#EXTINF:-1 tvg-id="russkij-detektiv" tvg-logo="https://rudetective.tv/favIcons/android-chrome-192x192.png" fallback-viks="https://live.viks.tv/450-russkiy-detektiv_3.html",Русский Детектив
 http://192.168.178.38:8080/live?id=423
-#EXTINF:-1 tvg-id="russkij-bestseller" tvg-logo="https://bestrussia.tv/favIcons/android-chrome-192x192.png",Русский бестселлер
+#EXTINF:-1 tvg-id="russkij-bestseller" tvg-logo="https://bestrussia.tv/favIcons/android-chrome-192x192.png" fallback-viks="https://live.viks.tv/028122-russkiy-bestseller.html",Русский бестселлер
 http://192.168.178.38:8080/live?id=389
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v3a1/mono.m3u8
