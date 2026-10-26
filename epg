@@ -5180,27 +5180,6 @@
 <programme start="20261031175000 +0000" stop="20261031180000 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести. Местное время</title></programme>
 <programme start="20261031180000 +0000" stop="20261031212000 +0000" channel="rtr-planeta-eu"><title lang="ru">Между небом и землёй</title></programme>
 <programme start="20261031212000 +0000" stop="20261101003500 +0000" channel="rtr-planeta-eu"><title lang="ru">Полевых цветов букет</title></programme>
-<programme start="20261101003500 +0000" stop="20261101025500 +0000" channel="rtr-planeta-eu"><title lang="ru">Вечная сказка</title></programme>
-<programme start="20261101025500 +0000" stop="20261101041500 +0000" channel="rtr-planeta-eu"><title lang="ru">Однажды двадцать лет спустя</title></programme>
-<programme start="20261101041500 +0000" stop="20261101043500 +0000" channel="rtr-planeta-eu"><title lang="ru">По секрету всему свету</title></programme>
-<programme start="20261101043500 +0000" stop="20261101050500 +0000" channel="rtr-planeta-eu"><title lang="ru">Формула еды</title></programme>
-<programme start="20261101050500 +0000" stop="20261101054000 +0000" channel="rtr-planeta-eu"><title lang="ru">Местное время. Воскресенье</title></programme>
-<programme start="20261101054000 +0000" stop="20261101063000 +0000" channel="rtr-planeta-eu"><title lang="ru">Когда все дома с Тимуром Кизяковым</title></programme>
-<programme start="20261101063000 +0000" stop="20261101071000 +0000" channel="rtr-planeta-eu"><title lang="ru">Утренняя почта с Николаем Басковым</title></programme>
-<programme start="20261101071000 +0000" stop="20261101080000 +0000" channel="rtr-planeta-eu"><title lang="ru">Сто к одному</title></programme>
-<programme start="20261101080000 +0000" stop="20261101083500 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести</title></programme>
-<programme start="20261101083500 +0000" stop="20261101095500 +0000" channel="rtr-planeta-eu"><title lang="ru">Рассказы из русской истории. Победа в Северной войне. Провозглашение Российской империи</title></programme>
-<programme start="20261101095500 +0000" stop="20261101110000 +0000" channel="rtr-planeta-eu"><title lang="ru">Судьба человека с Борисом Корчевниковым</title></programme>
-<programme start="20261101110000 +0000" stop="20261101113000 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести</title></programme>
-<programme start="20261101113000 +0000" stop="20261101120000 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести. Местное время</title></programme>
-<programme start="20261101120000 +0000" stop="20261101140000 +0000" channel="rtr-planeta-eu"><title lang="ru">Весёлые ребята. Выпуск от 1 ноября</title></programme>
-<programme start="20261101140000 +0000" stop="20261101145500 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести</title></programme>
-<programme start="20261101145500 +0000" stop="20261101170000 +0000" channel="rtr-planeta-eu"><title lang="ru">Песни от всей души</title></programme>
-<programme start="20261101170000 +0000" stop="20261101190000 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести недели</title></programme>
-<programme start="20261101190000 +0000" stop="20261101193000 +0000" channel="rtr-planeta-eu"><title lang="ru">Киселёв</title></programme>
-<programme start="20261101193000 +0000" stop="20261101200000 +0000" channel="rtr-planeta-eu"><title lang="ru">Москва. Кремль. Путин</title></programme>
-<programme start="20261101200000 +0000" stop="20261101223500 +0000" channel="rtr-planeta-eu"><title lang="ru">Воскресный вечер с Владимиром Соловьёвым</title></programme>
-<programme start="20261101223500 +0000" stop="20261101234500 +0000" channel="rtr-planeta-eu"><title lang="ru">Рассказы из русской истории. Победа в Северной войне. Провозглашение Российской империи</title></programme>
 <programme start="20261023133000 +0000" stop="20261023140000 +0000" channel="Xrossia1"><title lang="ru">Вести</title></programme>
 <programme start="20261023140000 +0000" stop="20261023150000 +0000" channel="Xrossia1"><title lang="ru">Малахов</title></programme>
 <programme start="20261023150000 +0000" stop="20261023170000 +0000" channel="Xrossia1"><title lang="ru">60 минут</title></programme>
@@ -7468,4 +7447,371 @@
 <programme start="20261101235000 +0000" stop="20261102005500 +0000" channel="tv-rus-plus"><title lang="ru">т/с Улица Шекспира, 1 сезон</title></programme>
 <programme start="20261102005500 +0000" stop="20261102023000 +0000" channel="tv-rus-plus"><title lang="ru">т/ш Отлетевшие 4 сезон</title></programme>
 <programme start="20261102023000 +0000" stop="20261102050000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Танцы на песке</title></programme>
+<programme start="20261101003500 +0000" stop="20261101025500 +0000" channel="rtr-planeta-eu"><title lang="ru">Вечная сказка</title></programme>
+<programme start="20261101025500 +0000" stop="20261101041500 +0000" channel="rtr-planeta-eu"><title lang="ru">Однажды двадцать лет спустя</title></programme>
+<programme start="20261101041500 +0000" stop="20261101043500 +0000" channel="rtr-planeta-eu"><title lang="ru">По секрету всему свету</title></programme>
+<programme start="20261101043500 +0000" stop="20261101050500 +0000" channel="rtr-planeta-eu"><title lang="ru">Формула еды</title></programme>
+<programme start="20261101050500 +0000" stop="20261101054000 +0000" channel="rtr-planeta-eu"><title lang="ru">Местное время. Воскресенье</title></programme>
+<programme start="20261101054000 +0000" stop="20261101063000 +0000" channel="rtr-planeta-eu"><title lang="ru">Когда все дома с Тимуром Кизяковым</title></programme>
+<programme start="20261101063000 +0000" stop="20261101071000 +0000" channel="rtr-planeta-eu"><title lang="ru">Утренняя почта с Николаем Басковым</title></programme>
+<programme start="20261101071000 +0000" stop="20261101080000 +0000" channel="rtr-planeta-eu"><title lang="ru">Сто к одному</title></programme>
+<programme start="20261101080000 +0000" stop="20261101083500 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести</title></programme>
+<programme start="20261101083500 +0000" stop="20261101095500 +0000" channel="rtr-planeta-eu"><title lang="ru">Рассказы из русской истории. Победа в Северной войне. Провозглашение Российской империи</title></programme>
+<programme start="20261101095500 +0000" stop="20261101110000 +0000" channel="rtr-planeta-eu"><title lang="ru">Судьба человека с Борисом Корчевниковым</title></programme>
+<programme start="20261101110000 +0000" stop="20261101113000 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести</title></programme>
+<programme start="20261101113000 +0000" stop="20261101120000 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести. Местное время</title></programme>
+<programme start="20261101120000 +0000" stop="20261101140000 +0000" channel="rtr-planeta-eu"><title lang="ru">Весёлые ребята. Выпуск от 1 ноября</title></programme>
+<programme start="20261101140000 +0000" stop="20261101145500 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести</title></programme>
+<programme start="20261101145500 +0000" stop="20261101170000 +0000" channel="rtr-planeta-eu"><title lang="ru">Песни от всей души</title></programme>
+<programme start="20261101170000 +0000" stop="20261101190000 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести недели</title></programme>
+<programme start="20261101190000 +0000" stop="20261101193000 +0000" channel="rtr-planeta-eu"><title lang="ru">Киселёв</title></programme>
+<programme start="20261101193000 +0000" stop="20261101200000 +0000" channel="rtr-planeta-eu"><title lang="ru">Москва. Кремль. Путин</title></programme>
+<programme start="20261101200000 +0000" stop="20261101223500 +0000" channel="rtr-planeta-eu"><title lang="ru">Воскресный вечер с Владимиром Соловьёвым</title></programme>
+<programme start="20261101223500 +0000" stop="20261101234500 +0000" channel="rtr-planeta-eu"><title lang="ru">Рассказы из русской истории. Победа в Северной войне. Провозглашение Российской империи</title></programme>
+<programme start="20261101234500 +0000" stop="20261102012500 +0000" channel="rtr-planeta-eu"><title lang="ru">Отец поневоле</title></programme>
+<programme start="20261102012500 +0000" stop="20261102022500 +0000" channel="rtr-planeta-eu"><title lang="ru">Однажды двадцать лет спустя</title></programme>
+<programme start="20261031233000 +0000" stop="20261031233500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261031233500 +0000" stop="20261101015300 +0000" channel="DasErste.de"><title lang="de">Rosemaries Baby</title></programme>
+<programme start="20261101015300 +0000" stop="20261101015500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261101015500 +0000" stop="20261101032500 +0000" channel="DasErste.de"><title lang="de">Charlotte Link</title></programme>
+<programme start="20261101032500 +0000" stop="20261101034300 +0000" channel="DasErste.de"><title lang="de">Brisant</title></programme>
+<programme start="20261101034300 +0000" stop="20261101034500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261101034500 +0000" stop="20261101043000 +0000" channel="DasErste.de"><title lang="de">Die Tierärzte – Retter mit Herz</title></programme>
+<programme start="20261101043000 +0000" stop="20261101045500 +0000" channel="DasErste.de"><title lang="de">Tierdetektive</title></programme>
+<programme start="20261101045500 +0000" stop="20261101050000 +0000" channel="DasErste.de"><title lang="de">Season</title></programme>
+<programme start="20261101050000 +0000" stop="20261101055500 +0000" channel="DasErste.de"><title lang="de">Tigerenten Club</title></programme>
+<programme start="20261101055500 +0000" stop="20261101060500 +0000" channel="DasErste.de"><title lang="de">Shaun das Schaf</title></programme>
+<programme start="20261101060500 +0000" stop="20261101073000 +0000" channel="DasErste.de"><title lang="de">Nelly Rapp - Monsteragentin</title></programme>
+<programme start="20261101073000 +0000" stop="20261101075500 +0000" channel="DasErste.de"><title lang="de">Tiere bis unters Dach</title></programme>
+<programme start="20261101075500 +0000" stop="20261101082500 +0000" channel="DasErste.de"><title lang="de">Tiere bis unters Dach</title></programme>
+<programme start="20261101082500 +0000" stop="20261101085500 +0000" channel="DasErste.de"><title lang="de">Die Sendung mit der Maus</title></programme>
+<programme start="20261101085500 +0000" stop="20261101090000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261101090000 +0000" stop="20261101100000 +0000" channel="DasErste.de"><title lang="de">Katholischer Gottesdienst zu Allerheiligen</title></programme>
+<programme start="20261101100000 +0000" stop="20261101110000 +0000" channel="DasErste.de"><title lang="de">Jorinde und Joringel</title></programme>
+<programme start="20261101110000 +0000" stop="20261101110300 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261101110300 +0000" stop="20261101114500 +0000" channel="DasErste.de"><title lang="de">Presseclub</title></programme>
+<programme start="20261101114500 +0000" stop="20261101121500 +0000" channel="DasErste.de"><title lang="de">Europamagazin</title></programme>
+<programme start="20261101121500 +0000" stop="20261101130000 +0000" channel="DasErste.de"><title lang="de">Und wer fragt nach mir?</title></programme>
+<programme start="20261101130000 +0000" stop="20261101130300 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261101130300 +0000" stop="20261101143000 +0000" channel="DasErste.de"><title lang="de">Sehnsucht nach Rimini</title></programme>
+<programme start="20261101143000 +0000" stop="20261101160000 +0000" channel="DasErste.de"><title lang="de">Liebe ist die beste Medizin</title></programme>
+<programme start="20261101160000 +0000" stop="20261101164400 +0000" channel="DasErste.de"><title lang="de">Brisant</title></programme>
+<programme start="20261101164400 +0000" stop="20261101164500 +0000" channel="DasErste.de"><title lang="de">Gewinnzahlen Deutsche Fernsehlotterie</title></programme>
+<programme start="20261101164500 +0000" stop="20261101170000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261101170000 +0000" stop="20261101173000 +0000" channel="DasErste.de"><title lang="de">Bericht aus Berlin</title></programme>
+<programme start="20261101173000 +0000" stop="20261101181500 +0000" channel="DasErste.de"><title lang="de">Weltspiegel</title></programme>
+<programme start="20261101181500 +0000" stop="20261101190000 +0000" channel="DasErste.de"><title lang="de">Sportschau</title></programme>
+<programme start="20261101190000 +0000" stop="20261101191500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261101191500 +0000" stop="20261101204500 +0000" channel="DasErste.de"><title lang="de">Polizeiruf 110</title></programme>
+<programme start="20261101204500 +0000" stop="20261101213000 +0000" channel="DasErste.de"><title lang="de">Breitscheidplatz 19/12</title></programme>
+<programme start="20261101213000 +0000" stop="20261101221500 +0000" channel="DasErste.de"><title lang="de">Breitscheidplatz 19/12</title></programme>
+<programme start="20261101221500 +0000" stop="20261101223500 +0000" channel="DasErste.de"><title lang="de">Tagesthemen</title></programme>
+<programme start="20261101223500 +0000" stop="20261101230500 +0000" channel="DasErste.de"><title lang="de">ttt - titel thesen temperamente</title></programme>
+<programme start="20261101230500 +0000" stop="20261102004800 +0000" channel="DasErste.de"><title lang="de">Die Akademie</title></programme>
+<programme start="20261102004800 +0000" stop="20261102005000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261102005000 +0000" stop="20261102022000 +0000" channel="DasErste.de"><title lang="de">Liebe ist die beste Medizin</title></programme>
+<programme start="20261102022000 +0000" stop="20261102030500 +0000" channel="DasErste.de"><title lang="de">Die Tierärzte – Retter mit Herz</title></programme>
+<programme start="20261102030500 +0000" stop="20261102033500 +0000" channel="DasErste.de"><title lang="de">ttt - titel thesen temperamente</title></programme>
+<programme start="20261102033500 +0000" stop="20261102034300 +0000" channel="DasErste.de"><title lang="de">Deutschlandbilder</title></programme>
+<programme start="20261102034300 +0000" stop="20261102034500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261102034500 +0000" stop="20261102043000 +0000" channel="DasErste.de"><title lang="de">Weltspiegel</title></programme>
+<programme start="20261102043000 +0000" stop="20261102080000 +0000" channel="DasErste.de"><title lang="de">ZDF-Morgenmagazin</title></programme>
+<programme start="20261102080000 +0000" stop="20261102080500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261102080500 +0000" stop="20261102085500 +0000" channel="DasErste.de"><title lang="de">Hubert ohne Staller</title></programme>
+<programme start="20261102085500 +0000" stop="20261102094000 +0000" channel="DasErste.de"><title lang="de">Morden im Norden</title></programme>
+<programme start="20261102094000 +0000" stop="20261102094500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261102094500 +0000" stop="20261102101500 +0000" channel="DasErste.de"><title lang="de">Meister des Alltags</title></programme>
+<programme start="20261102101500 +0000" stop="20261102110000 +0000" channel="DasErste.de"><title lang="de">Wer weiß denn sowas?</title></programme>
+<programme start="20261102110000 +0000" stop="20261102130000 +0000" channel="DasErste.de"><title lang="de">ZDF-Mittagsmagazin</title></programme>
+<programme start="20261102130000 +0000" stop="20261102131000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261102131000 +0000" stop="20261102140000 +0000" channel="DasErste.de"><title lang="de">Rote Rosen</title></programme>
+<programme start="20261102140000 +0000" stop="20261102141000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261102141000 +0000" stop="20261102150000 +0000" channel="DasErste.de"><title lang="de">Sturm der Liebe</title></programme>
+<programme start="20261102150000 +0000" stop="20261102151000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261102151000 +0000" stop="20261102160000 +0000" channel="DasErste.de"><title lang="de">Seelöwe &amp; Co. - tierisch beliebt</title></programme>
+<programme start="20261102160000 +0000" stop="20261102161500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261102161500 +0000" stop="20261102170000 +0000" channel="DasErste.de"><title lang="de">Brisant</title></programme>
+<programme start="20261102170000 +0000" stop="20261102175000 +0000" channel="DasErste.de"><title lang="de">Wer weiß denn sowas?</title></programme>
+<programme start="20261102175000 +0000" stop="20261102184500 +0000" channel="DasErste.de"><title lang="de">Wer weiß denn sowas?</title></programme>
+<programme start="20261102184500 +0000" stop="20261102185000 +0000" channel="DasErste.de"><title lang="de">Wissen vor acht - Zukunft</title></programme>
+<programme start="20261102185000 +0000" stop="20261102185500 +0000" channel="DasErste.de"><title lang="de">Wetter vor acht</title></programme>
+<programme start="20261102185500 +0000" stop="20261102190000 +0000" channel="DasErste.de"><title lang="de">Wirtschaft vor acht</title></programme>
+<programme start="20261102190000 +0000" stop="20261102191500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261102191500 +0000" stop="20261102204500 +0000" channel="DasErste.de"><title lang="de">Benko - Size Does Matter</title></programme>
+<programme start="20261102204500 +0000" stop="20261102211500 +0000" channel="DasErste.de"><title lang="de">Konfrontation</title></programme>
+<programme start="20261102211500 +0000" stop="20261102215000 +0000" channel="DasErste.de"><title lang="de">Tagesthemen</title></programme>
+<programme start="20261102215000 +0000" stop="20261102223500 +0000" channel="DasErste.de"><title lang="de">Weltspiegel Doku</title></programme>
+<programme start="20261102223500 +0000" stop="20261102232000 +0000" channel="DasErste.de"><title lang="de">Im Sog der Sekten</title></programme>
+<programme start="20261031232500 +0000" stop="20261031233000 +0000" channel="ZDF.de"><title lang="de">heute Xpress</title></programme>
+<programme start="20261031233000 +0000" stop="20261101000000 +0000" channel="ZDF.de"><title lang="de">heute-show</title></programme>
+<programme start="20261101000000 +0000" stop="20261101014000 +0000" channel="ZDF.de"><title lang="de">Free Guy</title></programme>
+<programme start="20261101014000 +0000" stop="20261101030500 +0000" channel="ZDF.de"><title lang="de">Du lebst noch 24 Stunden</title></programme>
+<programme start="20261101030500 +0000" stop="20261101035000 +0000" channel="ZDF.de"><title lang="de">Hamilton - Undercover in Stockholm</title></programme>
+<programme start="20261101035000 +0000" stop="20261101043500 +0000" channel="ZDF.de"><title lang="de">Hamilton - Undercover in Stockholm</title></programme>
+<programme start="20261101043500 +0000" stop="20261101050000 +0000" channel="ZDF.de"><title lang="de">Bares für Rares - Lieblingsstücke</title></programme>
+<programme start="20261101050000 +0000" stop="20261101050500 +0000" channel="ZDF.de"><title lang="de">Lenas Hof</title></programme>
+<programme start="20261101050500 +0000" stop="20261101053000 +0000" channel="ZDF.de"><title lang="de">Bibi und Tina</title></programme>
+<programme start="20261101053000 +0000" stop="20261101055500 +0000" channel="ZDF.de"><title lang="de">Bibi und Tina</title></programme>
+<programme start="20261101055500 +0000" stop="20261101062000 +0000" channel="ZDF.de"><title lang="de">Bibi und Tina</title></programme>
+<programme start="20261101062000 +0000" stop="20261101080300 +0000" channel="ZDF.de"><title lang="de">Bibi &amp; Tina 3 - De jongens tegen de meiden</title></programme>
+<programme start="20261101080300 +0000" stop="20261101083000 +0000" channel="ZDF.de"><title lang="de">37°Leben</title></programme>
+<programme start="20261101083000 +0000" stop="20261101091500 +0000" channel="ZDF.de"><title lang="de">Evangelischer Gottesdienst</title></programme>
+<programme start="20261101091500 +0000" stop="20261101105500 +0000" channel="ZDF.de"><title lang="de">Bares für Rares - Lieblingsstücke</title></programme>
+<programme start="20261101105500 +0000" stop="20261101110000 +0000" channel="ZDF.de"><title lang="de">heute Xpress</title></programme>
+<programme start="20261101110000 +0000" stop="20261101111500 +0000" channel="ZDF.de"><title lang="de">Lesch sieht Schwartz</title></programme>
+<programme start="20261101111500 +0000" stop="20261101130000 +0000" channel="ZDF.de"><title lang="de">Bares für Rares - Lieblingsstücke</title></programme>
+<programme start="20261101130000 +0000" stop="20261101134500 +0000" channel="ZDF.de"><title lang="de">Die Immo-Helden</title></programme>
+<programme start="20261101134500 +0000" stop="20261101142500 +0000" channel="ZDF.de"><title lang="de">Duell der Gartenprofis</title></programme>
+<programme start="20261101142500 +0000" stop="20261101143000 +0000" channel="ZDF.de"><title lang="de">heute Xpress</title></programme>
+<programme start="20261101143000 +0000" stop="20261101151500 +0000" channel="ZDF.de"><title lang="de">planet e.</title></programme>
+<programme start="20261101151500 +0000" stop="20261101160000 +0000" channel="ZDF.de"><title lang="de">Die Rosenheim-Cops</title></programme>
+<programme start="20261101160000 +0000" stop="20261101161500 +0000" channel="ZDF.de"><title lang="de">heute</title></programme>
+<programme start="20261101161500 +0000" stop="20261101170000 +0000" channel="ZDF.de"><title lang="de">Terra Xplore</title></programme>
+<programme start="20261101170000 +0000" stop="20261101175500 +0000" channel="ZDF.de"><title lang="de">Ein Fall für zwei</title></programme>
+<programme start="20261101175500 +0000" stop="20261101180000 +0000" channel="ZDF.de"><title lang="de">Aktion Mensch - Glückszahlen der Woche</title></programme>
+<programme start="20261101180000 +0000" stop="20261101181000 +0000" channel="ZDF.de"><title lang="de">heute</title></programme>
+<programme start="20261101181000 +0000" stop="20261101183000 +0000" channel="ZDF.de"><title lang="de">Berlin direkt</title></programme>
+<programme start="20261101183000 +0000" stop="20261101191500 +0000" channel="ZDF.de"><title lang="de">Terra X</title></programme>
+<programme start="20261101191500 +0000" stop="20261101204500 +0000" channel="ZDF.de"><title lang="de">Dr. Nice</title></programme>
+<programme start="20261101204500 +0000" stop="20261101211500 +0000" channel="ZDF.de"><title lang="de">heute journal</title></programme>
+<programme start="20261101211500 +0000" stop="20261101220000 +0000" channel="ZDF.de"><title lang="de">Under Salt Marsh - Tod in den Salzwiesen</title></programme>
+<programme start="20261101220000 +0000" stop="20261101225000 +0000" channel="ZDF.de"><title lang="de">Under Salt Marsh - Tod in den Salzwiesen</title></programme>
+<programme start="20261101225000 +0000" stop="20261101233500 +0000" channel="ZDF.de"><title lang="de">Terra X History</title></programme>
+<programme start="20261101233500 +0000" stop="20261101234000 +0000" channel="ZDF.de"><title lang="de">heute Xpress</title></programme>
+<programme start="20261101234000 +0000" stop="20261102011500 +0000" channel="ZDF.de"><title lang="de">Algiers Confidential - Ein paar Tage Licht</title></programme>
+<programme start="20261102011500 +0000" stop="20261102025000 +0000" channel="ZDF.de"><title lang="de">Algiers Confidential - Ein paar Tage Licht</title></programme>
+<programme start="20261102025000 +0000" stop="20261102033500 +0000" channel="ZDF.de"><title lang="de">Hamilton - Undercover in Stockholm</title></programme>
+<programme start="20261102033500 +0000" stop="20261102040000 +0000" channel="ZDF.de"><title lang="de">Bares für Rares - Lieblingsstücke</title></programme>
+<programme start="20261102040000 +0000" stop="20261102043000 +0000" channel="ZDF.de"><title lang="de">ZDF.reportage</title></programme>
+<programme start="20261102043000 +0000" stop="20261102080000 +0000" channel="ZDF.de"><title lang="de">ZDF-Morgenmagazin</title></programme>
+<programme start="20261102080000 +0000" stop="20261102080500 +0000" channel="ZDF.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261102080500 +0000" stop="20261102093000 +0000" channel="ZDF.de"><title lang="de">Volle Kanne - Service täglich</title></programme>
+<programme start="20261102093000 +0000" stop="20261102101500 +0000" channel="ZDF.de"><title lang="de">Notruf Hafenkante</title></programme>
+<programme start="20261102101500 +0000" stop="20261102110000 +0000" channel="ZDF.de"><title lang="de">SOKO Wismar</title></programme>
+<programme start="20261102110000 +0000" stop="20261102130000 +0000" channel="ZDF.de"><title lang="de">ZDF-Mittagsmagazin</title></programme>
+<programme start="20261102130000 +0000" stop="20261102131500 +0000" channel="ZDF.de"><title lang="de">heute - in Deutschland</title></programme>
+<programme start="20261102131500 +0000" stop="20261102140000 +0000" channel="ZDF.de"><title lang="de">Die Küchenschlacht</title></programme>
+<programme start="20261102140000 +0000" stop="20261102140500 +0000" channel="ZDF.de"><title lang="de">heute Xpress</title></programme>
+<programme start="20261102140500 +0000" stop="20261102150000 +0000" channel="ZDF.de"><title lang="de">Bares für Rares</title></programme>
+<programme start="20261102150000 +0000" stop="20261102151000 +0000" channel="ZDF.de"><title lang="de">heute - in Europa</title></programme>
+<programme start="20261102151000 +0000" stop="20261102160000 +0000" channel="ZDF.de"><title lang="de">Die Rosenheim-Cops</title></programme>
+<programme start="20261102160000 +0000" stop="20261102161000 +0000" channel="ZDF.de"><title lang="de">heute</title></programme>
+<programme start="20261102161000 +0000" stop="20261102170000 +0000" channel="ZDF.de"><title lang="de">hallo deutschland</title></programme>
+<programme start="20261102170000 +0000" stop="20261102180000 +0000" channel="ZDF.de"><title lang="de">SOKO Potsdam</title></programme>
+<programme start="20261102180000 +0000" stop="20261102182000 +0000" channel="ZDF.de"><title lang="de">heute</title></programme>
+<programme start="20261102182000 +0000" stop="20261102182500 +0000" channel="ZDF.de"><title lang="de">Wetter</title></programme>
+<programme start="20261102182500 +0000" stop="20261102191500 +0000" channel="ZDF.de"><title lang="de">WISO</title></programme>
+<programme start="20261102191500 +0000" stop="20261102204500 +0000" channel="ZDF.de"><title lang="de">Der Geier - Blut und Zweifel</title></programme>
+<programme start="20261102204500 +0000" stop="20261102211500 +0000" channel="ZDF.de"><title lang="de">heute journal</title></programme>
+<programme start="20261102211500 +0000" stop="20261102230000 +0000" channel="ZDF.de"><title lang="de">Der Seelenfänger</title></programme>
+<programme start="20261101001500 +0000" stop="20261101014500 +0000" channel="ndr.de"><title lang="de">Prange - Man ist ja Nachbar</title></programme>
+<programme start="20261101014500 +0000" stop="20261101021500 +0000" channel="ndr.de"><title lang="de">Hallo Niedersachsen</title></programme>
+<programme start="20261101021500 +0000" stop="20261101024500 +0000" channel="ndr.de"><title lang="de">Nordmagazin</title></programme>
+<programme start="20261101024500 +0000" stop="20261101031500 +0000" channel="ndr.de"><title lang="de">Schleswig-Holstein Magazin</title></programme>
+<programme start="20261101031500 +0000" stop="20261101034500 +0000" channel="ndr.de"><title lang="de">Hamburg Journal</title></programme>
+<programme start="20261101034500 +0000" stop="20261101041500 +0000" channel="ndr.de"><title lang="de">buten un binnen | regionalmagazin</title></programme>
+<programme start="20261101041500 +0000" stop="20261101050000 +0000" channel="ndr.de"><title lang="de">DAS! Kochstudio</title></programme>
+<programme start="20261101050000 +0000" stop="20261101054500 +0000" channel="ndr.de"><title lang="de">Nordtour</title></programme>
+<programme start="20261101054500 +0000" stop="20261101055500 +0000" channel="ndr.de"><title lang="de">Edgar, das Super-Karibu</title></programme>
+<programme start="20261101055500 +0000" stop="20261101061000 +0000" channel="ndr.de"><title lang="de">Edgar, das Super-Karibu</title></programme>
+<programme start="20261101061000 +0000" stop="20261101065500 +0000" channel="ndr.de"><title lang="de">Lyonel Feininger - Ein Künstler zwischen den Welten</title></programme>
+<programme start="20261101065500 +0000" stop="20261101080000 +0000" channel="ndr.de"><title lang="de">Gaming Symphony</title></programme>
+<programme start="20261101080000 +0000" stop="20261101083000 +0000" channel="ndr.de"><title lang="de">Nordmagazin</title></programme>
+<programme start="20261101083000 +0000" stop="20261101090000 +0000" channel="ndr.de"><title lang="de">Hamburg Journal</title></programme>
+<programme start="20261101090000 +0000" stop="20261101093000 +0000" channel="ndr.de"><title lang="de">Schleswig-Holstein Magazin</title></programme>
+<programme start="20261101093000 +0000" stop="20261101100000 +0000" channel="ndr.de"><title lang="de">buten un binnen | regionalmagazin</title></programme>
+<programme start="20261101100000 +0000" stop="20261101103000 +0000" channel="ndr.de"><title lang="de">Hallo Niedersachsen</title></programme>
+<programme start="20261101103000 +0000" stop="20261101105000 +0000" channel="ndr.de"><title lang="de">Brisant</title></programme>
+<programme start="20261101105000 +0000" stop="20261101113500 +0000" channel="ndr.de"><title lang="de">Young Adventurers</title></programme>
+<programme start="20261101113500 +0000" stop="20261101123500 +0000" channel="ndr.de"><title lang="de">Schneewittchen</title></programme>
+<programme start="20261101123500 +0000" stop="20261101130000 +0000" channel="ndr.de"><title lang="de">Märchenreise: Schneewittchen</title></programme>
+<programme start="20261101130000 +0000" stop="20261101140000 +0000" channel="ndr.de"><title lang="de">Allerleirauh</title></programme>
+<programme start="20261101140000 +0000" stop="20261101150000 +0000" channel="ndr.de"><title lang="de">Das tapfere Schneiderlein</title></programme>
+<programme start="20261101150000 +0000" stop="20261101153000 +0000" channel="ndr.de"><title lang="de">Kochstories</title></programme>
+<programme start="20261101153000 +0000" stop="20261101160000 +0000" channel="ndr.de"><title lang="de">Schmeckt. Immer.</title></programme>
+<programme start="20261101160000 +0000" stop="20261101170000 +0000" channel="ndr.de"><title lang="de">BINGO! - Die Umweltlotterie</title></programme>
+<programme start="20261101170000 +0000" stop="20261101174500 +0000" channel="ndr.de"><title lang="de">Hanseblick</title></programme>
+<programme start="20261101174500 +0000" stop="20261101183000 +0000" channel="ndr.de"><title lang="de">DAS! Rote Sofa</title></programme>
+<programme start="20261101183000 +0000" stop="20261101190000 +0000" channel="ndr.de"><title lang="de">Schleswig-Holstein Magazin</title></programme>
+<programme start="20261101190000 +0000" stop="20261101191500 +0000" channel="ndr.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261101191500 +0000" stop="20261101204500 +0000" channel="ndr.de"><title lang="de">Wunderschön!</title></programme>
+<programme start="20261101204500 +0000" stop="20261101211000 +0000" channel="ndr.de"><title lang="de">Sportschau</title></programme>
+<programme start="20261101211000 +0000" stop="20261101221000 +0000" channel="ndr.de"><title lang="de">Die NDR Quizshow</title></programme>
+<programme start="20261101221000 +0000" stop="20261101225500 +0000" channel="ndr.de"><title lang="de">extra 3</title></programme>
+<programme start="20261101225500 +0000" stop="20261101234500 +0000" channel="ndr.de"><title lang="de">Quizduell-Olymp</title></programme>
+<programme start="20261101234500 +0000" stop="20261102003000 +0000" channel="ndr.de"><title lang="de">Hanseblick</title></programme>
+<programme start="20261102003000 +0000" stop="20261102023000 +0000" channel="ndr.de"><title lang="de">NDR Talk Show</title></programme>
+<programme start="20261102023000 +0000" stop="20261102024000 +0000" channel="ndr.de"><title lang="de">Mein Norden</title></programme>
+<programme start="20261102024000 +0000" stop="20261102031000 +0000" channel="ndr.de"><title lang="de">Die Nordreportage</title></programme>
+<programme start="20261102031000 +0000" stop="20261102034000 +0000" channel="ndr.de"><title lang="de">Die Nordreportage</title></programme>
+<programme start="20261102034000 +0000" stop="20261102041000 +0000" channel="ndr.de"><title lang="de">Hofgeschichten: Leben auf dem Land</title></programme>
+<programme start="20261102041000 +0000" stop="20261102045500 +0000" channel="ndr.de"><title lang="de">DAS! Rote Sofa</title></programme>
+<programme start="20261102045500 +0000" stop="20261102052000 +0000" channel="ndr.de"><title lang="de">Elefant, Tiger &amp; Co.</title></programme>
+<programme start="20261102052000 +0000" stop="20261102055000 +0000" channel="ndr.de"><title lang="de">Wie geht das?</title></programme>
+<programme start="20261102055000 +0000" stop="20261102062000 +0000" channel="ndr.de"><title lang="de">Die Fallers - Eine Schwarzwaldfamilie</title></programme>
+<programme start="20261102062000 +0000" stop="20261102071000 +0000" channel="ndr.de"><title lang="de">Rote Rosen</title></programme>
+<programme start="20261102071000 +0000" stop="20261102080000 +0000" channel="ndr.de"><title lang="de">Sturm der Liebe</title></programme>
+<programme start="20261102080000 +0000" stop="20261102083000 +0000" channel="ndr.de"><title lang="de">Nordmagazin</title></programme>
+<programme start="20261102083000 +0000" stop="20261102090000 +0000" channel="ndr.de"><title lang="de">Hamburg Journal</title></programme>
+<programme start="20261102090000 +0000" stop="20261102093000 +0000" channel="ndr.de"><title lang="de">Schleswig-Holstein Magazin</title></programme>
+<programme start="20261102093000 +0000" stop="20261102100000 +0000" channel="ndr.de"><title lang="de">buten un binnen | regionalmagazin</title></programme>
+<programme start="20261102100000 +0000" stop="20261102103000 +0000" channel="ndr.de"><title lang="de">Hallo Niedersachsen</title></programme>
+<programme start="20261102103000 +0000" stop="20261102110000 +0000" channel="ndr.de"><title lang="de">Brisant</title></programme>
+<programme start="20261102110000 +0000" stop="20261102112500 +0000" channel="ndr.de"><title lang="de">Elefant, Tiger &amp; Co.</title></programme>
+<programme start="20261102112500 +0000" stop="20261102121000 +0000" channel="ndr.de"><title lang="de">In aller Freundschaft</title></programme>
+<programme start="20261102121000 +0000" stop="20261102130000 +0000" channel="ndr.de"><title lang="de">In aller Freundschaft - Die jungen Ärzte</title></programme>
+<programme start="20261102130000 +0000" stop="20261102140000 +0000" channel="ndr.de"><title lang="de">die nordstory</title></programme>
+<programme start="20261102140000 +0000" stop="20261102141000 +0000" channel="ndr.de"><title lang="de">NDR Info</title></programme>
+<programme start="20261102141000 +0000" stop="20261102150000 +0000" channel="ndr.de"><title lang="de">WAPO Bodensee</title></programme>
+<programme start="20261102150000 +0000" stop="20261102151500 +0000" channel="ndr.de"><title lang="de">NDR Info</title></programme>
+<programme start="20261102151500 +0000" stop="20261102160000 +0000" channel="ndr.de"><title lang="de">Gefragt - Gejagt</title></programme>
+<programme start="20261102160000 +0000" stop="20261102161000 +0000" channel="ndr.de"><title lang="de">NDR Info</title></programme>
+<programme start="20261102161000 +0000" stop="20261102170000 +0000" channel="ndr.de"><title lang="de">Leopard, Seebär &amp; Co.</title></programme>
+<programme start="20261102170000 +0000" stop="20261102171500 +0000" channel="ndr.de"><title lang="de">Schleswig-Holstein Magazin</title></programme>
+<programme start="20261102171500 +0000" stop="20261102174500 +0000" channel="ndr.de"><title lang="de">Die Nordreportage</title></programme>
+<programme start="20261102174500 +0000" stop="20261102183000 +0000" channel="ndr.de"><title lang="de">DAS! Rote Sofa</title></programme>
+<programme start="20261102183000 +0000" stop="20261102190000 +0000" channel="ndr.de"><title lang="de">Schleswig-Holstein Magazin</title></programme>
+<programme start="20261102190000 +0000" stop="20261102191500 +0000" channel="ndr.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261102191500 +0000" stop="20261102200000 +0000" channel="ndr.de"><title lang="de">Markt</title></programme>
+<programme start="20261102200000 +0000" stop="20261102204500 +0000" channel="ndr.de"><title lang="de">Traumhäuser im Norden</title></programme>
+<programme start="20261102204500 +0000" stop="20261102210000 +0000" channel="ndr.de"><title lang="de">NDR Info</title></programme>
+<programme start="20261102210000 +0000" stop="20261102214500 +0000" channel="ndr.de"><title lang="de">NDR Story</title></programme>
+<programme start="20261102214500 +0000" stop="20261102221500 +0000" channel="ndr.de"><title lang="de">NDR Kultur - Das Journal</title></programme>
+<programme start="20261102221500 +0000" stop="20261103004000 +0000" channel="ndr.de"><title lang="de">Lieber Thomas</title></programme>
+<programme start="20261031234500 +0000" stop="20261101011500 +0000" channel="WDRFernsehen.de"><title lang="de">Legendär! - Wir feiern "Zimmer frei!"</title></programme>
+<programme start="20261101011500 +0000" stop="20261101020000 +0000" channel="WDRFernsehen.de"><title lang="de">Ein neues Leben</title></programme>
+<programme start="20261101020000 +0000" stop="20261101024500 +0000" channel="WDRFernsehen.de"><title lang="de">Aufbruch ins Wirtschaftswunderland</title></programme>
+<programme start="20261101024500 +0000" stop="20261101033000 +0000" channel="WDRFernsehen.de"><title lang="de">Wir sind wieder wer</title></programme>
+<programme start="20261101033000 +0000" stop="20261101041500 +0000" channel="WDRFernsehen.de"><title lang="de">Wohlstand für alle!</title></programme>
+<programme start="20261101041500 +0000" stop="20261101054500 +0000" channel="WDRFernsehen.de"><title lang="de">Wunderschön!</title></programme>
+<programme start="20261101054500 +0000" stop="20261101061500 +0000" channel="WDRFernsehen.de"><title lang="de">Lokalzeit</title></programme>
+<programme start="20261101061500 +0000" stop="20261101070000 +0000" channel="WDRFernsehen.de"><title lang="de">2 Virtuosen auf der Geige - Isabelle Faust spielt Locatelli: Mit Il Giardino Armonico</title></programme>
+<programme start="20261101070000 +0000" stop="20261101074500 +0000" channel="WDRFernsehen.de"><title lang="de">Capuçon und Fray spielen Bach</title></programme>
+<programme start="20261101074500 +0000" stop="20261101081500 +0000" channel="WDRFernsehen.de"><title lang="de">Westart</title></programme>
+<programme start="20261101081500 +0000" stop="20261101101500 +0000" channel="WDRFernsehen.de"><title lang="de">Kölner Treff</title></programme>
+<programme start="20261101101500 +0000" stop="20261101110000 +0000" channel="WDRFernsehen.de"><title lang="de">24 Stunden Flughafen Köln/Bonn</title></programme>
+<programme start="20261101110000 +0000" stop="20261101114500 +0000" channel="WDRFernsehen.de"><title lang="de">Wir werden Camper</title></programme>
+<programme start="20261101114500 +0000" stop="20261101120000 +0000" channel="WDRFernsehen.de"><title lang="de">WDR aktuell</title></programme>
+<programme start="20261101120000 +0000" stop="20261101124500 +0000" channel="WDRFernsehen.de"><title lang="de">Der Duft der großen weiten Welt</title></programme>
+<programme start="20261101124500 +0000" stop="20261101133000 +0000" channel="WDRFernsehen.de"><title lang="de">Eine Klasse für sich</title></programme>
+<programme start="20261101133000 +0000" stop="20261101141500 +0000" channel="WDRFernsehen.de"><title lang="de">Weg mit dem Grauschleier</title></programme>
+<programme start="20261101141500 +0000" stop="20261101150000 +0000" channel="WDRFernsehen.de"><title lang="de">Wir können auch anders</title></programme>
+<programme start="20261101150000 +0000" stop="20261101151500 +0000" channel="WDRFernsehen.de"><title lang="de">WDR aktuell</title></programme>
+<programme start="20261101151500 +0000" stop="20261101153000 +0000" channel="WDRFernsehen.de"><title lang="de">Leben im Dunkeln - Wie blinde Eltern ihren Alltag meistern</title></programme>
+<programme start="20261101153000 +0000" stop="20261101170000 +0000" channel="WDRFernsehen.de"><title lang="de">Erlebnis Erde</title></programme>
+<programme start="20261101170000 +0000" stop="20261101174500 +0000" channel="WDRFernsehen.de"><title lang="de">Tiere suchen ein Zuhause</title></programme>
+<programme start="20261101174500 +0000" stop="20261101183000 +0000" channel="WDRFernsehen.de"><title lang="de">Aktuelle Stunde</title></programme>
+<programme start="20261101183000 +0000" stop="20261101190000 +0000" channel="WDRFernsehen.de"><title lang="de">Westpol</title></programme>
+<programme start="20261101190000 +0000" stop="20261101191500 +0000" channel="WDRFernsehen.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261101191500 +0000" stop="20261101204500 +0000" channel="WDRFernsehen.de"><title lang="de">Wunderschön!</title></programme>
+<programme start="20261101204500 +0000" stop="20261101211000 +0000" channel="WDRFernsehen.de"><title lang="de">Sportschau - Bundesliga am Sonntag</title></programme>
+<programme start="20261101211000 +0000" stop="20261101214500 +0000" channel="WDRFernsehen.de"><title lang="de">Zeiglers wunderbare Welt des Fußballs</title></programme>
+<programme start="20261101214500 +0000" stop="20261101223000 +0000" channel="WDRFernsehen.de"><title lang="de">Der Duft der großen weiten Welt</title></programme>
+<programme start="20261101223000 +0000" stop="20261101231500 +0000" channel="WDRFernsehen.de"><title lang="de">Eine Klasse für sich</title></programme>
+<programme start="20261101231500 +0000" stop="20261102000000 +0000" channel="WDRFernsehen.de"><title lang="de">Weg mit dem Grauschleier</title></programme>
+<programme start="20261102000000 +0000" stop="20261102004500 +0000" channel="WDRFernsehen.de"><title lang="de">Wir können auch anders</title></programme>
+<programme start="20261102004500 +0000" stop="20261102012500 +0000" channel="WDRFernsehen.de"><title lang="de">Rockpalast</title></programme>
+<programme start="20261102012500 +0000" stop="20261102022000 +0000" channel="WDRFernsehen.de"><title lang="de">Rockpalast</title></programme>
+<programme start="20261102022000 +0000" stop="20261102024000 +0000" channel="WDRFernsehen.de"><title lang="de">Elias Rønnenfelt - ESNS 2025</title></programme>
+<programme start="20261102024000 +0000" stop="20261102040000 +0000" channel="WDRFernsehen.de"><title lang="de">Rockpalast</title></programme>
+<programme start="20261102040000 +0000" stop="20261102045500 +0000" channel="WDRFernsehen.de"><title lang="de">Rockpalast</title></programme>
+<programme start="20261102045500 +0000" stop="20261102050500 +0000" channel="WDRFernsehen.de"><title lang="de">Erlebnisreisen</title></programme>
+<programme start="20261102050500 +0000" stop="20261102055000 +0000" channel="WDRFernsehen.de"><title lang="de">Presseclub</title></programme>
+<programme start="20261102055000 +0000" stop="20261102063500 +0000" channel="WDRFernsehen.de"><title lang="de">Tiere suchen ein Zuhause</title></programme>
+<programme start="20261102063500 +0000" stop="20261102072000 +0000" channel="WDRFernsehen.de"><title lang="de">planet schule</title></programme>
+<programme start="20261102072000 +0000" stop="20261102073500 +0000" channel="WDRFernsehen.de"><title lang="de">planet schule</title></programme>
+<programme start="20261102073500 +0000" stop="20261102080000 +0000" channel="WDRFernsehen.de"><title lang="de">Wissen macht Ah!</title></programme>
+<programme start="20261102080000 +0000" stop="20261102081000 +0000" channel="WDRFernsehen.de"><title lang="de">POV - Deine Geschichte zählt</title></programme>
+<programme start="20261102081000 +0000" stop="20261102084000 +0000" channel="WDRFernsehen.de"><title lang="de">Westpol</title></programme>
+<programme start="20261102084000 +0000" stop="20261102092500 +0000" channel="WDRFernsehen.de"><title lang="de">Gefragt - Gejagt</title></programme>
+<programme start="20261102092500 +0000" stop="20261102101000 +0000" channel="WDRFernsehen.de"><title lang="de">Mittendrin - Flughafen Frankfurt</title></programme>
+<programme start="20261102101000 +0000" stop="20261102105500 +0000" channel="WDRFernsehen.de"><title lang="de">Wilder, wilder Westen</title></programme>
+<programme start="20261102105500 +0000" stop="20261102114500 +0000" channel="WDRFernsehen.de"><title lang="de">Elefant, Tiger &amp; Co.</title></programme>
+<programme start="20261102114500 +0000" stop="20261102120000 +0000" channel="WDRFernsehen.de"><title lang="de">WDR aktuell</title></programme>
+<programme start="20261102120000 +0000" stop="20261102125000 +0000" channel="WDRFernsehen.de"><title lang="de">Seehund, Puma &amp; Co.</title></programme>
+<programme start="20261102125000 +0000" stop="20261102132000 +0000" channel="WDRFernsehen.de"><title lang="de">Neues aus dem Münchner Tierpark Hellabrunn</title></programme>
+<programme start="20261102132000 +0000" stop="20261102141000 +0000" channel="WDRFernsehen.de"><title lang="de">Rentnercops</title></programme>
+<programme start="20261102141000 +0000" stop="20261102150000 +0000" channel="WDRFernsehen.de"><title lang="de">Rentnercops</title></programme>
+<programme start="20261102150000 +0000" stop="20261102151500 +0000" channel="WDRFernsehen.de"><title lang="de">WDR aktuell</title></programme>
+<programme start="20261102151500 +0000" stop="20261102170000 +0000" channel="WDRFernsehen.de"><title lang="de">Hier und heute</title></programme>
+<programme start="20261102170000 +0000" stop="20261102171500 +0000" channel="WDRFernsehen.de"><title lang="de">WDR aktuell / Lokalzeit</title></programme>
+<programme start="20261102171500 +0000" stop="20261102174500 +0000" channel="WDRFernsehen.de"><title lang="de">Servicezeit</title></programme>
+<programme start="20261102174500 +0000" stop="20261102183000 +0000" channel="WDRFernsehen.de"><title lang="de">Aktuelle Stunde</title></programme>
+<programme start="20261102183000 +0000" stop="20261102190000 +0000" channel="WDRFernsehen.de"><title lang="de">Lokalzeit aus Köln</title></programme>
+<programme start="20261102190000 +0000" stop="20261102191500 +0000" channel="WDRFernsehen.de"><title lang="de">Tagesschau</title></programme>
+<programme start="20261102191500 +0000" stop="20261102200000 +0000" channel="WDRFernsehen.de"><title lang="de">Lecker an Bord - Ostfriesland von Emden nach Leer</title></programme>
+<programme start="20261102200000 +0000" stop="20261102204500 +0000" channel="WDRFernsehen.de"><title lang="de">Viel für wenig - Clever kochen mit Björn Freitag</title></programme>
+<programme start="20261102204500 +0000" stop="20261102211500 +0000" channel="WDRFernsehen.de"><title lang="de">WDR aktuell</title></programme>
+<programme start="20261102211500 +0000" stop="20261102221500 +0000" channel="WDRFernsehen.de"><title lang="de">Konfrontation</title></programme>
+<programme start="20261102221500 +0000" stop="20261102224500 +0000" channel="WDRFernsehen.de"><title lang="de">Die Carolin Kebekus Show</title></programme>
+<programme start="20261102224500 +0000" stop="20261102231000 +0000" channel="WDRFernsehen.de"><title lang="de">Werwölfe - Das Spiel von List und Täuschung</title></programme>
+<programme start="20261101001500 +0000" stop="20261101020000 +0000" channel="MDRSachsen.de"><title lang="de">Mitten in Deutschland: NSU</title></programme>
+<programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="MDRSachsen.de"><title lang="de">Riverboat</title></programme>
+<programme start="20261101040000 +0000" stop="20261101043000 +0000" channel="MDRSachsen.de"><title lang="de">MDR um 7</title></programme>
+<programme start="20261101043000 +0000" stop="20261101045500 +0000" channel="MDRSachsen.de"><title lang="de">Madeira - Wo der Ozean die Berge formt</title></programme>
+<programme start="20261101045500 +0000" stop="20261101062500 +0000" channel="MDRSachsen.de"><title lang="de">Praxis mit Meerblick</title></programme>
+<programme start="20261101062500 +0000" stop="20261101063000 +0000" channel="MDRSachsen.de"><title lang="de">Glaubwürdig</title></programme>
+<programme start="20261101063000 +0000" stop="20261101070000 +0000" channel="MDRSachsen.de"><title lang="de">Pastorin mit schwerer Vergangenheit</title></programme>
+<programme start="20261101070000 +0000" stop="20261101073000 +0000" channel="MDRSachsen.de"><title lang="de">Akutstation Psychiatrie</title></programme>
+<programme start="20261101073000 +0000" stop="20261101075500 +0000" channel="MDRSachsen.de"><title lang="de">MDR Garten</title></programme>
+<programme start="20261101075500 +0000" stop="20261101082000 +0000" channel="MDRSachsen.de"><title lang="de">Unser Dorf hat Wochenende</title></programme>
+<programme start="20261101082000 +0000" stop="20261101090500 +0000" channel="MDRSachsen.de"><title lang="de">Mit dem Zug durch Vietnam</title></programme>
+<programme start="20261101090500 +0000" stop="20261101105000 +0000" channel="MDRSachsen.de"><title lang="de">Die Olsenbande steigt aufs Dach</title></programme>
+<programme start="20261101105000 +0000" stop="20261101124800 +0000" channel="MDRSachsen.de"><title lang="de">Riverboat</title></programme>
+<programme start="20261101124800 +0000" stop="20261101125000 +0000" channel="MDRSachsen.de"><title lang="de">MDR aktuell</title></programme>
+<programme start="20261101125000 +0000" stop="20261101133500 +0000" channel="MDRSachsen.de"><title lang="de">Die Drei Gleichen - Das legendäre Tor zu Thüringen</title></programme>
+<programme start="20261101133500 +0000" stop="20261101150000 +0000" channel="MDRSachsen.de"><title lang="de">Die Seekönigin - Schwanensee</title></programme>
+<programme start="20261101150000 +0000" stop="20261101150500 +0000" channel="MDRSachsen.de"><title lang="de">MDR aktuell</title></programme>
+<programme start="20261101150500 +0000" stop="20261101152000 +0000" channel="MDRSachsen.de"><title lang="de">Alarm im Kasperletheater</title></programme>
+<programme start="20261101152000 +0000" stop="20261101170000 +0000" channel="MDRSachsen.de"><title lang="de">Die Geschichte vom kleinen Muck</title></programme>
+<programme start="20261101170000 +0000" stop="20261101170500 +0000" channel="MDRSachsen.de"><title lang="de">MDR aktuell</title></programme>
+<programme start="20261101170500 +0000" stop="20261101175000 +0000" channel="MDRSachsen.de"><title lang="de">Brisant</title></programme>
+<programme start="20261101175000 +0000" stop="20261101175200 +0000" channel="MDRSachsen.de"><title lang="de">Wetter für 3</title></programme>
+<programme start="20261101175200 +0000" stop="20261101180000 +0000" channel="MDRSachsen.de"><title lang="de">Unser Sandmännchen</title></programme>
+<programme start="20261101180000 +0000" stop="20261101183000 +0000" channel="MDRSachsen.de"><title lang="de">MDR SACHSENSPIEGEL</title></programme>
+<programme start="20261101183000 +0000" stop="20261101185000 +0000" channel="MDRSachsen.de"><title lang="de">MDR aktuell</title></programme>
+<programme start="20261101185000 +0000" stop="20261101191500 +0000" channel="MDRSachsen.de"><title lang="de">Kripo live - Tätern auf der Spur</title></programme>
+<programme start="20261101191500 +0000" stop="20261101204500 +0000" channel="MDRSachsen.de"><title lang="de">Feldberger Seen - Naturparadies Mecklenburg</title></programme>
+<programme start="20261101204500 +0000" stop="20261101210000 +0000" channel="MDRSachsen.de"><title lang="de">MDR aktuell</title></programme>
+<programme start="20261101210000 +0000" stop="20261101212500 +0000" channel="MDRSachsen.de"><title lang="de">Sportschau - Bundesliga am Sonntag</title></programme>
+<programme start="20261101212500 +0000" stop="20261101215500 +0000" channel="MDRSachsen.de"><title lang="de">Echt</title></programme>
+<programme start="20261101215500 +0000" stop="20261101231500 +0000" channel="MDRSachsen.de"><title lang="de">Black Snow - Russlands vergiftete Kohlestädte</title></programme>
+<programme start="20261101231500 +0000" stop="20261101234000 +0000" channel="MDRSachsen.de"><title lang="de">Kripo live - Tätern auf der Spur</title></programme>
+<programme start="20261101234000 +0000" stop="20261102011500 +0000" channel="MDRSachsen.de"><title lang="de">Mitten in Deutschland: NSU</title></programme>
+<programme start="20261102011500 +0000" stop="20261102014500 +0000" channel="MDRSachsen.de"><title lang="de">Pastorin mit schwerer Vergangenheit</title></programme>
+<programme start="20261102014500 +0000" stop="20261102021500 +0000" channel="MDRSachsen.de"><title lang="de">Akutstation Psychiatrie</title></programme>
+<programme start="20261102021500 +0000" stop="20261102025500 +0000" channel="MDRSachsen.de"><title lang="de">Mitteldeutschland bei Nacht - nonstop</title></programme>
+<programme start="20261102025500 +0000" stop="20261102032500 +0000" channel="MDRSachsen.de"><title lang="de">MDR SACHSENSPIEGEL</title></programme>
+<programme start="20261102032500 +0000" stop="20261102035500 +0000" channel="MDRSachsen.de"><title lang="de">MDR SACHSEN-ANHALT HEUTE</title></programme>
+<programme start="20261102035500 +0000" stop="20261102042500 +0000" channel="MDRSachsen.de"><title lang="de">MDR THÜRINGEN JOURNAL</title></programme>
+<programme start="20261102042500 +0000" stop="20261102051500 +0000" channel="MDRSachsen.de"><title lang="de">Rote Rosen</title></programme>
+<programme start="20261102051500 +0000" stop="20261102054500 +0000" channel="MDRSachsen.de"><title lang="de">Unterwegs in Thüringen</title></programme>
+<programme start="20261102054500 +0000" stop="20261102061500 +0000" channel="MDRSachsen.de"><title lang="de">Sehen statt Hören</title></programme>
+<programme start="20261102061500 +0000" stop="20261102070500 +0000" channel="MDRSachsen.de"><title lang="de">Rote Rosen</title></programme>
+<programme start="20261102070500 +0000" stop="20261102075500 +0000" channel="MDRSachsen.de"><title lang="de">Sturm der Liebe</title></programme>
+<programme start="20261102075500 +0000" stop="20261102084500 +0000" channel="MDRSachsen.de"><title lang="de">In aller Freundschaft - Die jungen Ärzte</title></programme>
+<programme start="20261102084500 +0000" stop="20261102093500 +0000" channel="MDRSachsen.de"><title lang="de">Quizduell Olymp</title></programme>
+<programme start="20261102093500 +0000" stop="20261102095800 +0000" channel="MDRSachsen.de"><title lang="de">Elefant, Tiger &amp; Co.</title></programme>
+<programme start="20261102095800 +0000" stop="20261102100000 +0000" channel="MDRSachsen.de"><title lang="de">MDR aktuell</title></programme>
+<programme start="20261102100000 +0000" stop="20261102104500 +0000" channel="MDRSachsen.de"><title lang="de">In aller Freundschaft</title></programme>
+<programme start="20261102104500 +0000" stop="20261102113000 +0000" channel="MDRSachsen.de"><title lang="de">In aller Freundschaft</title></programme>
+<programme start="20261102113000 +0000" stop="20261102125800 +0000" channel="MDRSachsen.de"><title lang="de">Ein Wahnsinnstag</title></programme>
+<programme start="20261102125800 +0000" stop="20261102130000 +0000" channel="MDRSachsen.de"><title lang="de">MDR aktuell</title></programme>
+<programme start="20261102130000 +0000" stop="20261102132500 +0000" channel="MDRSachsen.de"><title lang="de">MDR um 2</title></programme>
+<programme start="20261102132500 +0000" stop="20261102141500 +0000" channel="MDRSachsen.de"><title lang="de">Elefant, Tiger &amp; Co.</title></programme>
+<programme start="20261102141500 +0000" stop="20261102150000 +0000" channel="MDRSachsen.de"><title lang="de">Gefragt - Gejagt</title></programme>
+<programme start="20261102150000 +0000" stop="20261102153000 +0000" channel="MDRSachsen.de"><title lang="de">MDR um 4</title></programme>
+<programme start="20261102153000 +0000" stop="20261102160000 +0000" channel="MDRSachsen.de"><title lang="de">MDR um 4</title></programme>
+<programme start="20261102160000 +0000" stop="20261102164500 +0000" channel="MDRSachsen.de"><title lang="de">MDR um 4</title></programme>
+<programme start="20261102164500 +0000" stop="20261102170500 +0000" channel="MDRSachsen.de"><title lang="de">MDR aktuell</title></programme>
+<programme start="20261102170500 +0000" stop="20261102171000 +0000" channel="MDRSachsen.de"><title lang="de">Wetter für 3</title></programme>
+<programme start="20261102171000 +0000" stop="20261102175400 +0000" channel="MDRSachsen.de"><title lang="de">Brisant</title></programme>
+<programme start="20261102175400 +0000" stop="20261102180000 +0000" channel="MDRSachsen.de"><title lang="de">Unser Sandmännchen</title></programme>
+<programme start="20261102180000 +0000" stop="20261102183000 +0000" channel="MDRSachsen.de"><title lang="de">MDR SACHSENSPIEGEL</title></programme>
+<programme start="20261102183000 +0000" stop="20261102185000 +0000" channel="MDRSachsen.de"><title lang="de">MDR aktuell</title></programme>
+<programme start="20261102185000 +0000" stop="20261102191500 +0000" channel="MDRSachsen.de"><title lang="de">Mach dich ran</title></programme>
+<programme start="20261102191500 +0000" stop="20261102204500 +0000" channel="MDRSachsen.de"><title lang="de">Polizeiruf 110</title></programme>
+<programme start="20261102204500 +0000" stop="20261102211000 +0000" channel="MDRSachsen.de"><title lang="de">MDR aktuell</title></programme>
+<programme start="20261102211000 +0000" stop="20261102223000 +0000" channel="MDRSachsen.de"><title lang="de">Polizeiruf 110</title></programme>
+<programme start="20261102223000 +0000" stop="20261103000000 +0000" channel="MDRSachsen.de"><title lang="de">Der Bozen-Krimi</title></programme>
 </tv>
