@@ -69,34 +69,7 @@
 </channel><channel id="tnt">
 	<display-name lang="en">ТНТ</display-name>
 	<icon src="https://iptvx.one/picons/tnt.png"></icon>
-</channel><programme start="20261116060000 +0000" stop="20261116062500 +0000" channel="pervy"><title lang="ru">Новости</title></programme>
-<programme start="20261116062500 +0000" stop="20261116071500 +0000" channel="pervy"><title lang="ru">Модный приговор</title></programme>
-<programme start="20261116071500 +0000" stop="20261116080000 +0000" channel="pervy"><title lang="ru">Жить здорово!</title></programme>
-<programme start="20261116080000 +0000" stop="20261116090000 +0000" channel="pervy"><title lang="ru">Время покажет</title></programme>
-<programme start="20261116090000 +0000" stop="20261116091500 +0000" channel="pervy"><title lang="ru">Новости</title></programme>
-<programme start="20261116091500 +0000" stop="20261116110000 +0000" channel="pervy"><title lang="ru">Время покажет</title></programme>
-<programme start="20261116110000 +0000" stop="20261116120000 +0000" channel="pervy"><title lang="ru">Большая игра</title></programme>
-<programme start="20261116120000 +0000" stop="20261116121500 +0000" channel="pervy"><title lang="ru">Новости</title></programme>
-<programme start="20261116121500 +0000" stop="20261116130500 +0000" channel="pervy"><title lang="ru">Давай поженимся!</title></programme>
-<programme start="20261116130500 +0000" stop="20261116140000 +0000" channel="pervy"><title lang="ru">Мужское / Женское</title></programme>
-<programme start="20261116140000 +0000" stop="20261116150000 +0000" channel="pervy"><title lang="ru">Большая игра</title></programme>
-<programme start="20261116150000 +0000" stop="20261116153000 +0000" channel="pervy"><title lang="ru">Вечерние новости</title></programme>
-<programme start="20261116153000 +0000" stop="20261116165000 +0000" channel="pervy"><title lang="ru">Время покажет</title></programme>
-<programme start="20261116165000 +0000" stop="20261116180000 +0000" channel="pervy"><title lang="ru">Пусть говорят</title></programme>
-<programme start="20261116180000 +0000" stop="20261116190000 +0000" channel="pervy"><title lang="ru">Время</title></programme>
-<programme start="20261116190000 +0000" stop="20261116200000 +0000" channel="pervy"><title lang="ru">Премьера. "Мосгаз. Дело №12: Южный порт". 1-я серия</title></programme>
-<programme start="20261116200000 +0000" stop="20261116210500 +0000" channel="pervy"><title lang="ru">Большая игра</title></programme>
-<programme start="20261116210500 +0000" stop="20261116220500 +0000" channel="pervy"><title lang="ru">Время героев</title></programme>
-<programme start="20261116220500 +0000" stop="20261116224000 +0000" channel="pervy"><title lang="ru">Подкаст.Лаб. Россия и Запад на качелях истории</title></programme>
-<programme start="20261116224000 +0000" stop="20261116232000 +0000" channel="pervy"><title lang="ru">Подкаст.Лаб. Пусть не говорят, пусть читают</title></programme>
-<programme start="20261116232000 +0000" stop="20261117000000 +0000" channel="pervy"><title lang="ru">Подкаст.Лаб. Неформат</title></programme>
-<programme start="20261117000000 +0000" stop="20261117000500 +0000" channel="pervy"><title lang="ru">Новости</title></programme>
-<programme start="20261117000500 +0000" stop="20261117004000 +0000" channel="pervy"><title lang="ru">Подкаст.Лаб. Собрались с мыслями</title></programme>
-<programme start="20261117004000 +0000" stop="20261117012000 +0000" channel="pervy"><title lang="ru">Подкаст.Лаб. Летописи конца времен</title></programme>
-<programme start="20261117012000 +0000" stop="20261117015700 +0000" channel="pervy"><title lang="ru">Подкаст.Лаб. 20 лет спустя</title></programme>
-<programme start="20261117015700 +0000" stop="20261117020000 +0000" channel="pervy"><title lang="ru">Перерыв в вещании</title></programme>
-<programme start="20261117020000 +0000" stop="20261117060000 +0000" channel="pervy"><title lang="ru">Телеканал "Доброе утро"</title></programme>
-<programme start="20261117060000 +0000" stop="20261117062500 +0000" channel="pervy"><title lang="ru">Новости</title></programme>
+</channel><programme start="20261117060000 +0000" stop="20261117062500 +0000" channel="pervy"><title lang="ru">Новости</title></programme>
 <programme start="20261117062500 +0000" stop="20261117071500 +0000" channel="pervy"><title lang="ru">Модный приговор</title></programme>
 <programme start="20261117071500 +0000" stop="20261117080000 +0000" channel="pervy"><title lang="ru">Жить здорово!</title></programme>
 <programme start="20261117080000 +0000" stop="20261117090000 +0000" channel="pervy"><title lang="ru">Время покажет</title></programme>
@@ -229,26 +202,6 @@
 <programme start="20261122031000 +0000" stop="20261122035500 +0000" channel="pervy"><title lang="ru">Играй, гармонь любимая!</title></programme>
 <programme start="20261122035500 +0000" stop="20261122042500 +0000" channel="pervy"><title lang="ru">Часовой</title></programme>
 <programme start="20261122042500 +0000" stop="20261122053000 +0000" channel="pervy"><title lang="ru">Здоровье</title></programme>
-<programme start="20261116060000 +0000" stop="20261116063000 +0000" channel="Xrossia1"><title lang="ru">Вести</title></programme>
-<programme start="20261116063000 +0000" stop="20261116065500 +0000" channel="Xrossia1"><title lang="ru">Местное время</title></programme>
-<programme start="20261116065500 +0000" stop="20261116080000 +0000" channel="Xrossia1"><title lang="ru">О самом главном</title></programme>
-<programme start="20261116080000 +0000" stop="20261116083000 +0000" channel="Xrossia1"><title lang="ru">Вести</title></programme>
-<programme start="20261116083000 +0000" stop="20261116090000 +0000" channel="Xrossia1"><title lang="ru">Вести. Местное время</title></programme>
-<programme start="20261116090000 +0000" stop="20261116110000 +0000" channel="Xrossia1"><title lang="ru">60 минут</title></programme>
-<programme start="20261116110000 +0000" stop="20261116113000 +0000" channel="Xrossia1"><title lang="ru">Вести</title></programme>
-<programme start="20261116113000 +0000" stop="20261116133000 +0000" channel="Xrossia1"><title lang="ru">Райский. Продолжение. "Любовь и ненависть", 1-я часть, 19-я серия. "Любовь и ненависть", 2-я часть, 20-я серия</title></programme>
-<programme start="20261116133000 +0000" stop="20261116140000 +0000" channel="Xrossia1"><title lang="ru">Вести</title></programme>
-<programme start="20261116140000 +0000" stop="20261116150000 +0000" channel="Xrossia1"><title lang="ru">Малахов</title></programme>
-<programme start="20261116150000 +0000" stop="20261116170000 +0000" channel="Xrossia1"><title lang="ru">60 минут</title></programme>
-<programme start="20261116170000 +0000" stop="20261116181000 +0000" channel="Xrossia1"><title lang="ru">Вести</title></programme>
-<programme start="20261116181000 +0000" stop="20261116183000 +0000" channel="Xrossia1"><title lang="ru">Вести. Местное время</title></programme>
-<programme start="20261116183000 +0000" stop="20261116204000 +0000" channel="Xrossia1"><title lang="ru">Тайны следствия. 1-я и 2-я серии - "Братья по крови"</title></programme>
-<programme start="20261116204000 +0000" stop="20261116232000 +0000" channel="Xrossia1"><title lang="ru">Вечер с Владимиром Соловьёвым</title></programme>
-<programme start="20261116232000 +0000" stop="20261117000000 +0000" channel="Xrossia1"><title lang="ru">Райский. Продолжение. 19-я серия - "Любовь и ненависть", 1-я часть"</title></programme>
-<programme start="20261117000000 +0000" stop="20261117003000 +0000" channel="Xrossia1"><title lang="ru">Вести</title></programme>
-<programme start="20261117003000 +0000" stop="20261117013400 +0000" channel="Xrossia1"><title lang="ru">Райский. Продолжение. 20-я серия - "Любовь и ненависть", 2-я часть"</title></programme>
-<programme start="20261117013400 +0000" stop="20261117020000 +0000" channel="Xrossia1"><title lang="ru">Перерыв в вещании</title></programme>
-<programme start="20261117020000 +0000" stop="20261117060000 +0000" channel="Xrossia1"><title lang="ru">Утро России</title></programme>
 <programme start="20261117060000 +0000" stop="20261117063000 +0000" channel="Xrossia1"><title lang="ru">Вести</title></programme>
 <programme start="20261117063000 +0000" stop="20261117065500 +0000" channel="Xrossia1"><title lang="ru">Местное время</title></programme>
 <programme start="20261117065500 +0000" stop="20261117080000 +0000" channel="Xrossia1"><title lang="ru">О самом главном</title></programme>
@@ -347,14 +300,6 @@
 <programme start="20261122011500 +0000" stop="20261122030800 +0000" channel="Xrossia1"><title lang="ru">Отель для Золушки</title></programme>
 <programme start="20261122030800 +0000" stop="20261122031000 +0000" channel="Xrossia1"><title lang="ru">Перерыв в вещании</title></programme>
 <programme start="20261122031000 +0000" stop="20261122050000 +0000" channel="Xrossia1"><title lang="ru">Последняя жертва</title></programme>
-<programme start="20261116054000 +0000" stop="20261116084000 +0000" channel="dom-kino"><title lang="ru">Заколдованный участок</title></programme>
-<programme start="20261116084000 +0000" stop="20261116160000 +0000" channel="dom-kino"><title lang="ru">Ментовские войны</title></programme>
-<programme start="20261116160000 +0000" stop="20261116220500 +0000" channel="dom-kino"><title lang="ru">Убойная сила</title></programme>
-<programme start="20261116220500 +0000" stop="20261117001000 +0000" channel="dom-kino"><title lang="ru">Викинг</title></programme>
-<programme start="20261117001000 +0000" stop="20261117024000 +0000" channel="dom-kino"><title lang="ru">Сердце Пармы</title></programme>
-<programme start="20261117024000 +0000" stop="20261117040000 +0000" channel="dom-kino"><title lang="ru">Князь Владимир</title></programme>
-<programme start="20261117040000 +0000" stop="20261117043500 +0000" channel="dom-kino"><title lang="ru">Смешарики</title></programme>
-<programme start="20261117043500 +0000" stop="20261117054000 +0000" channel="dom-kino"><title lang="ru">Союзмультфильм представляет...</title></programme>
 <programme start="20261117054000 +0000" stop="20261117084000 +0000" channel="dom-kino"><title lang="ru">Заколдованный участок</title></programme>
 <programme start="20261117084000 +0000" stop="20261117160000 +0000" channel="dom-kino"><title lang="ru">Ментовские войны</title></programme>
 <programme start="20261117160000 +0000" stop="20261117215500 +0000" channel="dom-kino"><title lang="ru">Убойная сила</title></programme>
@@ -414,25 +359,6 @@
 <programme start="20261122214000 +0000" stop="20261122231500 +0000" channel="dom-kino"><title lang="ru">Миллион в брачной корзине</title></programme>
 <programme start="20261122231500 +0000" stop="20261123005000 +0000" channel="dom-kino"><title lang="ru">Артистка</title></programme>
 <programme start="20261123005000 +0000" stop="20261123050000 +0000" channel="dom-kino"><title lang="ru">Бедные родственники</title></programme>
-<programme start="20261116052500 +0000" stop="20261116074000 +0000" channel="domaschnij"><title lang="ru">Тест на отцовство</title></programme>
-<programme start="20261116074000 +0000" stop="20261116084500 +0000" channel="domaschnij"><title lang="ru">Прости меня</title></programme>
-<programme start="20261116084500 +0000" stop="20261116095500 +0000" channel="domaschnij"><title lang="ru">Беду отведу</title></programme>
-<programme start="20261116095500 +0000" stop="20261116103000 +0000" channel="domaschnij"><title lang="ru">Знахарка. Муза</title></programme>
-<programme start="20261116103000 +0000" stop="20261116110500 +0000" channel="domaschnij"><title lang="ru">Верну любимого. Сестры</title></programme>
-<programme start="20261116110500 +0000" stop="20261116114000 +0000" channel="domaschnij"><title lang="ru">Голоса ушедших душ. Шалопай</title></programme>
-<programme start="20261116114000 +0000" stop="20261116160000 +0000" channel="domaschnij"><title lang="ru">Подмосковная кадриль. 1-я - 4-я серии</title></programme>
-<programme start="20261116160000 +0000" stop="20261116200000 +0000" channel="domaschnij"><title lang="ru">Свет мой ясный. 1-я - 4-я серии</title></programme>
-<programme start="20261116200000 +0000" stop="20261116211500 +0000" channel="domaschnij"><title lang="ru">Прости меня</title></programme>
-<programme start="20261116211500 +0000" stop="20261116221500 +0000" channel="domaschnij"><title lang="ru">Беду отведу</title></programme>
-<programme start="20261116221500 +0000" stop="20261116224500 +0000" channel="domaschnij"><title lang="ru">Знахарка. Муза</title></programme>
-<programme start="20261116224500 +0000" stop="20261116231500 +0000" channel="domaschnij"><title lang="ru">Верну любимого. Сестры</title></programme>
-<programme start="20261116231500 +0000" stop="20261116234000 +0000" channel="domaschnij"><title lang="ru">Голоса ушедших душ. Шалопай</title></programme>
-<programme start="20261116234000 +0000" stop="20261117011500 +0000" channel="domaschnij"><title lang="ru">Тест на отцовство</title></programme>
-<programme start="20261117011500 +0000" stop="20261117020500 +0000" channel="domaschnij"><title lang="ru">Давай разведёмся!</title></programme>
-<programme start="20261117020500 +0000" stop="20261117033000 +0000" channel="domaschnij"><title lang="ru">По делам несовершеннолетних</title></programme>
-<programme start="20261117033000 +0000" stop="20261117035500 +0000" channel="domaschnij"><title lang="ru">По делам несовершеннолетних</title></programme>
-<programme start="20261117035500 +0000" stop="20261117045500 +0000" channel="domaschnij"><title lang="ru">Давай разведёмся!</title></programme>
-<programme start="20261117045500 +0000" stop="20261117071000 +0000" channel="domaschnij"><title lang="ru">Тест на отцовство</title></programme>
 <programme start="20261117071000 +0000" stop="20261117081500 +0000" channel="domaschnij"><title lang="ru">Прости меня</title></programme>
 <programme start="20261117081500 +0000" stop="20261117093000 +0000" channel="domaschnij"><title lang="ru">Беду отведу</title></programme>
 <programme start="20261117093000 +0000" stop="20261117100500 +0000" channel="domaschnij"><title lang="ru">Знахарка. Чужая</title></programme>
@@ -526,14 +452,6 @@
 <programme start="20261122201500 +0000" stop="20261123000000 +0000" channel="domaschnij"><title lang="ru">Пока все дома. 1-я - 4-я серии</title></programme>
 <programme start="20261123000000 +0000" stop="20261123001000 +0000" channel="domaschnij"><title lang="ru">6 кадров</title></programme>
 <programme start="20261123001000 +0000" stop="20261123050000 +0000" channel="domaschnij"><title lang="ru">Супермама для Казановы. 1-я - 4-я серии</title></programme>
-<programme start="20261116123000 +0000" stop="20261116160000 +0000" channel="russkij-bestseller"><title lang="ru">Испытание. 1-я - 4-я серии</title></programme>
-<programme start="20261116160000 +0000" stop="20261116195000 +0000" channel="russkij-bestseller"><title lang="ru">Склифосовский. Реанимация. 1-я - 4-я серии</title></programme>
-<programme start="20261116195000 +0000" stop="20261116230000 +0000" channel="russkij-bestseller"><title lang="ru">Абонемент на расследование. Темные воды. 1-я - 4-я серии</title></programme>
-<programme start="20261116230000 +0000" stop="20261116234500 +0000" channel="russkij-bestseller"><title lang="ru">Москва. Три вокзала-7. 9-я серия - "Казанская пленница"</title></programme>
-<programme start="20261116234500 +0000" stop="20261117003500 +0000" channel="russkij-bestseller"><title lang="ru">Москва. Три вокзала-7. 10-я серия - "Что в памяти моей..."</title></programme>
-<programme start="20261117003500 +0000" stop="20261117012000 +0000" channel="russkij-bestseller"><title lang="ru">Москва. Три вокзала-7. 11-я серия - "Нейл-арт"</title></programme>
-<programme start="20261117012000 +0000" stop="20261117021000 +0000" channel="russkij-bestseller"><title lang="ru">Москва. Три вокзала-7. 12-я серия - "Дело случая"</title></programme>
-<programme start="20261117021000 +0000" stop="20261117051500 +0000" channel="russkij-bestseller"><title lang="ru">Абонемент на расследование. Темные воды. 1-я - 4-я серии</title></programme>
 <programme start="20261117051500 +0000" stop="20261117090000 +0000" channel="russkij-bestseller"><title lang="ru">Склифосовский. Реанимация. 1-я - 4-я серии</title></programme>
 <programme start="20261117090000 +0000" stop="20261117123000 +0000" channel="russkij-bestseller"><title lang="ru">Испытание. 1-я - 4-я серии</title></programme>
 <programme start="20261117123000 +0000" stop="20261117160000 +0000" channel="russkij-bestseller"><title lang="ru">Испытание. 5-я - 8-я серии</title></programme>
@@ -586,34 +504,6 @@
 <programme start="20261123002500 +0000" stop="20261123011500 +0000" channel="russkij-bestseller"><title lang="ru">Москва. Три вокзала-8. 9-я серия - "Смертельно опасно"</title></programme>
 <programme start="20261123011500 +0000" stop="20261123020000 +0000" channel="russkij-bestseller"><title lang="ru">Москва. Три вокзала-8. 10-я серия - "Золотой башмак"</title></programme>
 <programme start="20261123020000 +0000" stop="20261123050000 +0000" channel="russkij-bestseller"><title lang="ru">Ворошиловский стрелок</title></programme>
-<programme start="20261116053000 +0000" stop="20261116062000 +0000" channel="russkij-detektiv"><title lang="ru">Дознаватель. 17-я серия - "Свой"</title></programme>
-<programme start="20261116062000 +0000" stop="20261116071500 +0000" channel="russkij-detektiv"><title lang="ru">Дознаватель. 18-я серия - "Мороз"</title></programme>
-<programme start="20261116071500 +0000" stop="20261116080500 +0000" channel="russkij-detektiv"><title lang="ru">Дознаватель. 19-я серия - "Истина"</title></programme>
-<programme start="20261116080500 +0000" stop="20261116090000 +0000" channel="russkij-detektiv"><title lang="ru">Дознаватель. 20-я серия - "Справедливость"</title></programme>
-<programme start="20261116090000 +0000" stop="20261116095000 +0000" channel="russkij-detektiv"><title lang="ru">Дознаватель. 21-я серия - "Стрелок"</title></programme>
-<programme start="20261116095000 +0000" stop="20261116104000 +0000" channel="russkij-detektiv"><title lang="ru">Дознаватель. 22-я серия - "Хитрец"</title></programme>
-<programme start="20261116104000 +0000" stop="20261116113000 +0000" channel="russkij-detektiv"><title lang="ru">Дознаватель. 23-я серия - "Кино"</title></programme>
-<programme start="20261116113000 +0000" stop="20261116122000 +0000" channel="russkij-detektiv"><title lang="ru">Дознаватель. 24-я серия - "Ярость"</title></programme>
-<programme start="20261116122000 +0000" stop="20261116131500 +0000" channel="russkij-detektiv"><title lang="ru">Улицы разбитых фонарей-10. 16-я серия - "Один процент"</title></programme>
-<programme start="20261116131500 +0000" stop="20261116140500 +0000" channel="russkij-detektiv"><title lang="ru">Улицы разбитых фонарей-10. 17-я серия - "Потрошители"</title></programme>
-<programme start="20261116140500 +0000" stop="20261116145500 +0000" channel="russkij-detektiv"><title lang="ru">Улицы разбитых фонарей-10. 18-я серия - "Куриная слепота"</title></programme>
-<programme start="20261116145500 +0000" stop="20261116155000 +0000" channel="russkij-detektiv"><title lang="ru">Улицы разбитых фонарей-10. 19-я серия - "Кощей смертный"</title></programme>
-<programme start="20261116155000 +0000" stop="20261116164500 +0000" channel="russkij-detektiv"><title lang="ru">Улицы разбитых фонарей-10. 20-я серия - "Два червонца"</title></programme>
-<programme start="20261116164500 +0000" stop="20261116173000 +0000" channel="russkij-detektiv"><title lang="ru">Улицы разбитых фонарей-10. 21-я серия - "Товарищ по партии"</title></programme>
-<programme start="20261116173000 +0000" stop="20261116182500 +0000" channel="russkij-detektiv"><title lang="ru">Улицы разбитых фонарей-10. 22-я серия - "Изнаночная петля"</title></programme>
-<programme start="20261116182500 +0000" stop="20261116192000 +0000" channel="russkij-detektiv"><title lang="ru">Улицы разбитых фонарей-10. 23-я серия - "Дело на миллион"</title></programme>
-<programme start="20261116192000 +0000" stop="20261116200500 +0000" channel="russkij-detektiv"><title lang="ru">Улицы разбитых фонарей-10. 24-я серия - "Чердачное дело"</title></programme>
-<programme start="20261116200500 +0000" stop="20261116210000 +0000" channel="russkij-detektiv"><title lang="ru">Улицы разбитых фонарей-10. 25-я серия - "Восточная кухня"</title></programme>
-<programme start="20261116210000 +0000" stop="20261116220000 +0000" channel="russkij-detektiv"><title lang="ru">Агент национальной безопасности. 10-я серия - "Шантаж"</title></programme>
-<programme start="20261116220000 +0000" stop="20261116225000 +0000" channel="russkij-detektiv"><title lang="ru">Агент национальной безопасности. 11-я серия - "Медуза Горгона"</title></programme>
-<programme start="20261116225000 +0000" stop="20261116234000 +0000" channel="russkij-detektiv"><title lang="ru">Агент национальной безопасности. 12-я серия - "Транзит"</title></programme>
-<programme start="20261116234000 +0000" stop="20261117003500 +0000" channel="russkij-detektiv"><title lang="ru">Агент национальной безопасности-2. 1-я серия - "Россан"</title></programme>
-<programme start="20261117003500 +0000" stop="20261117012500 +0000" channel="russkij-detektiv"><title lang="ru">Агент национальной безопасности-2. 2-я серия - "Гордеев узел"</title></programme>
-<programme start="20261117012500 +0000" stop="20261117021500 +0000" channel="russkij-detektiv"><title lang="ru">Агент национальной безопасности-2. 3-я серия - "Человек без лица"</title></programme>
-<programme start="20261117021500 +0000" stop="20261117030500 +0000" channel="russkij-detektiv"><title lang="ru">Агент национальной безопасности-2. 4-я серия - "Человек без лица"</title></programme>
-<programme start="20261117030500 +0000" stop="20261117035500 +0000" channel="russkij-detektiv"><title lang="ru">Улицы разбитых фонарей-9. 29-я серия - "Путь меча"</title></programme>
-<programme start="20261117035500 +0000" stop="20261117044500 +0000" channel="russkij-detektiv"><title lang="ru">Улицы разбитых фонарей-9. 30-я серия - "Фавориты фортуны"</title></programme>
-<programme start="20261117044500 +0000" stop="20261117054500 +0000" channel="russkij-detektiv"><title lang="ru">Улицы разбитых фонарей-9. 31-я серия - "Пропавшие без вести"</title></programme>
 <programme start="20261117054500 +0000" stop="20261117063000 +0000" channel="russkij-detektiv"><title lang="ru">Кодекс чести-7. 21-я серия - "Резервная копия"</title></programme>
 <programme start="20261117063000 +0000" stop="20261117072500 +0000" channel="russkij-detektiv"><title lang="ru">Кодекс чести-7. 22-я серия - "Опытный образец"</title></programme>
 <programme start="20261117072500 +0000" stop="20261117081500 +0000" channel="russkij-detektiv"><title lang="ru">Кодекс чести-7. 23-я серия - "Аверс и реверс"</title></programme>
@@ -725,16 +615,6 @@
 <programme start="20261122192500 +0000" stop="20261122202000 +0000" channel="russkij-detektiv"><title lang="ru">Глухарь. "Волчья стая", 47-я серия</title></programme>
 <programme start="20261122202000 +0000" stop="20261122211000 +0000" channel="russkij-detektiv"><title lang="ru">Глухарь. "Выбор", 48-я серия</title></programme>
 <programme start="20261122211000 +0000" stop="20261123050000 +0000" channel="russkij-detektiv"><title lang="ru">Фишер. 1-я - 8-я серии</title></programme>
-<programme start="20261116074500 +0000" stop="20261116110000 +0000" channel="russkij-roman"><title lang="ru">Камея из Ватикана</title></programme>
-<programme start="20261116110000 +0000" stop="20261116142500 +0000" channel="russkij-roman"><title lang="ru">Не отпускай меня</title></programme>
-<programme start="20261116142500 +0000" stop="20261116144000 +0000" channel="russkij-roman"><title lang="ru">Чисто женская история</title></programme>
-<programme start="20261116144000 +0000" stop="20261116163000 +0000" channel="russkij-roman"><title lang="ru">Плохая соседка</title></programme>
-<programme start="20261116163000 +0000" stop="20261116195000 +0000" channel="russkij-roman"><title lang="ru">Любовь говорит</title></programme>
-<programme start="20261116195000 +0000" stop="20261116212500 +0000" channel="russkij-roman"><title lang="ru">Птица</title></programme>
-<programme start="20261116212500 +0000" stop="20261117003500 +0000" channel="russkij-roman"><title lang="ru">Кривое зеркало любви</title></programme>
-<programme start="20261117003500 +0000" stop="20261117015500 +0000" channel="russkij-roman"><title lang="ru">Новогодний шеф</title></programme>
-<programme start="20261117015500 +0000" stop="20261117043000 +0000" channel="russkij-roman"><title lang="ru">В полдень на пристани</title></programme>
-<programme start="20261117043000 +0000" stop="20261117062000 +0000" channel="russkij-roman"><title lang="ru">Плохая соседка</title></programme>
 <programme start="20261117062000 +0000" stop="20261117075500 +0000" channel="russkij-roman"><title lang="ru">Птица</title></programme>
 <programme start="20261117075500 +0000" stop="20261117111000 +0000" channel="russkij-roman"><title lang="ru">Любовь говорит</title></programme>
 <programme start="20261117111000 +0000" stop="20261117142500 +0000" channel="russkij-roman"><title lang="ru">Отель последней надежды</title></programme>
@@ -787,31 +667,6 @@
 <programme start="20261122120000 +0000" stop="20261122230500 +0000" channel="russkij-roman"><title lang="ru">Однолюбы</title></programme>
 <programme start="20261122230500 +0000" stop="20261123020000 +0000" channel="russkij-roman"><title lang="ru">Дальше - любовь</title></programme>
 <programme start="20261123020000 +0000" stop="20261123050000 +0000" channel="russkij-roman"><title lang="ru">Разорванные нити</title></programme>
-<programme start="20261116050000 +0000" stop="20261116052500 +0000" channel="ntv"><title lang="ru">Сегодня</title></programme>
-<programme start="20261116052500 +0000" stop="20261116070000 +0000" channel="ntv"><title lang="ru">Лесник. Своя земля. "Лучший друг", 1-я и 2-я серии. "Короткое замыкание", 1-я и 2-я серии</title></programme>
-<programme start="20261116070000 +0000" stop="20261116073500 +0000" channel="ntv"><title lang="ru">Сегодня</title></programme>
-<programme start="20261116073500 +0000" stop="20261116100000 +0000" channel="ntv"><title lang="ru">Лесник. Своя земля. "Лучший друг", 1-я и 2-я серии. "Короткое замыкание", 1-я и 2-я серии</title></programme>
-<programme start="20261116100000 +0000" stop="20261116102500 +0000" channel="ntv"><title lang="ru">Сегодня</title></programme>
-<programme start="20261116102500 +0000" stop="20261116110000 +0000" channel="ntv"><title lang="ru">Чрезвычайное происшествие</title></programme>
-<programme start="20261116110000 +0000" stop="20261116130000 +0000" channel="ntv"><title lang="ru">Место встречи</title></programme>
-<programme start="20261116130000 +0000" stop="20261116134500 +0000" channel="ntv"><title lang="ru">Сегодня</title></programme>
-<programme start="20261116134500 +0000" stop="20261116145000 +0000" channel="ntv"><title lang="ru">За гранью</title></programme>
-<programme start="20261116145000 +0000" stop="20261116160000 +0000" channel="ntv"><title lang="ru">ДНК</title></programme>
-<programme start="20261116160000 +0000" stop="20261116170000 +0000" channel="ntv"><title lang="ru">Сегодня</title></programme>
-<programme start="20261116170000 +0000" stop="20261116180500 +0000" channel="ntv"><title lang="ru">Огонь. "Огненная дуэль"</title></programme>
-<programme start="20261116180500 +0000" stop="20261116191000 +0000" channel="ntv"><title lang="ru">Огонь. "День рождения Птички"</title></programme>
-<programme start="20261116191000 +0000" stop="20261116201500 +0000" channel="ntv"><title lang="ru">Скорая помощь-8. 13-я серия</title></programme>
-<programme start="20261116201500 +0000" stop="20261116212000 +0000" channel="ntv"><title lang="ru">Скорая помощь-8. 14-я серия</title></programme>
-<programme start="20261116212000 +0000" stop="20261116214000 +0000" channel="ntv"><title lang="ru">Сегодня</title></programme>
-<programme start="20261116214000 +0000" stop="20261116221000 +0000" channel="ntv"><title lang="ru">"Ч.T.Д." с Маргаритой Симоньян</title></programme>
-<programme start="20261116221000 +0000" stop="20261116230000 +0000" channel="ntv"><title lang="ru">Бим-3. 16-я серия</title></programme>
-<programme start="20261116230000 +0000" stop="20261116235000 +0000" channel="ntv"><title lang="ru">Бим-3. 17-я серия</title></programme>
-<programme start="20261116235000 +0000" stop="20261117004000 +0000" channel="ntv"><title lang="ru">Бим-3. 18-я серия</title></programme>
-<programme start="20261117004000 +0000" stop="20261117013000 +0000" channel="ntv"><title lang="ru">Бим-3. 19-я серия</title></programme>
-<programme start="20261117013000 +0000" stop="20261117023000 +0000" channel="ntv"><title lang="ru">Бим-3. 20-я серия</title></programme>
-<programme start="20261117023000 +0000" stop="20261117030000 +0000" channel="ntv"><title lang="ru">Инфощит</title></programme>
-<programme start="20261117030000 +0000" stop="20261117032500 +0000" channel="ntv"><title lang="ru">Сегодня</title></programme>
-<programme start="20261117032500 +0000" stop="20261117050000 +0000" channel="ntv"><title lang="ru">Утро. Самое лучшее</title></programme>
 <programme start="20261117050000 +0000" stop="20261117052500 +0000" channel="ntv"><title lang="ru">Сегодня</title></programme>
 <programme start="20261117052500 +0000" stop="20261117070000 +0000" channel="ntv"><title lang="ru">Лесник. Своя земля. "Братья", 1-я и 2-я серии. "Иноходец", 1-я и 2-я серии</title></programme>
 <programme start="20261117070000 +0000" stop="20261117073500 +0000" channel="ntv"><title lang="ru">Сегодня</title></programme>
@@ -945,32 +800,6 @@
 <programme start="20261122204000 +0000" stop="20261122230500 +0000" channel="ntv"><title lang="ru">Звезды</title></programme>
 <programme start="20261122230500 +0000" stop="20261123021500 +0000" channel="ntv"><title lang="ru">Основано на реальных событиях</title></programme>
 <programme start="20261123021500 +0000" stop="20261123050000 +0000" channel="ntv"><title lang="ru">Скандалы. Интриги. Расследования</title></programme>
-<programme start="20261116060000 +0000" stop="20261116070000 +0000" channel="ntv-pravo"><title lang="ru">До суда. 86-я серия - "Народная медицина"</title></programme>
-<programme start="20261116070000 +0000" stop="20261116081000 +0000" channel="ntv-pravo"><title lang="ru">Суд присяжных. Окончательный вердикт. 246-я серия</title></programme>
-<programme start="20261116081000 +0000" stop="20261116092000 +0000" channel="ntv-pravo"><title lang="ru">Итоги недели</title></programme>
-<programme start="20261116092000 +0000" stop="20261116102500 +0000" channel="ntv-pravo"><title lang="ru">ДНК. 704-я серия - "Девять детей одной матери?"</title></programme>
-<programme start="20261116102500 +0000" stop="20261116113500 +0000" channel="ntv-pravo"><title lang="ru">За гранью. 525-я серия - "Бездомная вдова"</title></programme>
-<programme start="20261116113500 +0000" stop="20261116123000 +0000" channel="ntv-pravo"><title lang="ru">Суд присяжных. 551-я серия - "Заживо погребённый"</title></programme>
-<programme start="20261116123000 +0000" stop="20261116130500 +0000" channel="ntv-pravo"><title lang="ru">Медицинские тайны. 111-я серия - "Мужчина не подозревал, что обычные головные боли могут привести к серьезному заболеванию шеи"</title></programme>
-<programme start="20261116130500 +0000" stop="20261116140000 +0000" channel="ntv-pravo"><title lang="ru">Следствие вели.... 280-я серия - "Призрак на колёсах"</title></programme>
-<programme start="20261116140000 +0000" stop="20261116142500 +0000" channel="ntv-pravo"><title lang="ru">Обзор. Чрезвычайное происшествие</title></programme>
-<programme start="20261116142500 +0000" stop="20261116152500 +0000" channel="ntv-pravo"><title lang="ru">Основано на реальных событиях. Щит и меч. Часть 2-я</title></programme>
-<programme start="20261116152500 +0000" stop="20261116163500 +0000" channel="ntv-pravo"><title lang="ru">Суд присяжных. Окончательный вердикт. 247-я серия</title></programme>
-<programme start="20261116163500 +0000" stop="20261116174000 +0000" channel="ntv-pravo"><title lang="ru">ДНК. 702-я серия - "Забытый мамин сын?"</title></programme>
-<programme start="20261116174000 +0000" stop="20261116185000 +0000" channel="ntv-pravo"><title lang="ru">За гранью. 525-я серия - "Бездомная вдова"</title></programme>
-<programme start="20261116185000 +0000" stop="20261116195000 +0000" channel="ntv-pravo"><title lang="ru">Суд присяжных. 551-я серия - "Заживо погребённый"</title></programme>
-<programme start="20261116195000 +0000" stop="20261116202000 +0000" channel="ntv-pravo"><title lang="ru">Медицинские тайны. 111-я серия - "Мужчина не подозревал, что обычные головные боли могут привести к серьезному заболеванию шеи"</title></programme>
-<programme start="20261116202000 +0000" stop="20261116211500 +0000" channel="ntv-pravo"><title lang="ru">Следствие вели.... 280-я серия - "Призрак на колёсах"</title></programme>
-<programme start="20261116211500 +0000" stop="20261116214500 +0000" channel="ntv-pravo"><title lang="ru">Обзор. Чрезвычайное происшествие</title></programme>
-<programme start="20261116214500 +0000" stop="20261116223000 +0000" channel="ntv-pravo"><title lang="ru">Основано на реальных событиях. Щит и меч. Часть 2-я</title></programme>
-<programme start="20261116223000 +0000" stop="20261116232500 +0000" channel="ntv-pravo"><title lang="ru">Суд присяжных. Окончательный вердикт. 245-я серия</title></programme>
-<programme start="20261116232500 +0000" stop="20261117002000 +0000" channel="ntv-pravo"><title lang="ru">ДНК. 701-я серия - "Дочь от соседа?"</title></programme>
-<programme start="20261117002000 +0000" stop="20261117011000 +0000" channel="ntv-pravo"><title lang="ru">За гранью. 525-я серия - "Бездомная вдова"</title></programme>
-<programme start="20261117011000 +0000" stop="20261117020500 +0000" channel="ntv-pravo"><title lang="ru">Следствие вели.... 280-я серия - "Призрак на колёсах"</title></programme>
-<programme start="20261117020500 +0000" stop="20261117023000 +0000" channel="ntv-pravo"><title lang="ru">Обзор. Чрезвычайное происшествие</title></programme>
-<programme start="20261117023000 +0000" stop="20261117032000 +0000" channel="ntv-pravo"><title lang="ru">ДНК. 704-я серия - "Девять детей одной матери?"</title></programme>
-<programme start="20261117032000 +0000" stop="20261117041500 +0000" channel="ntv-pravo"><title lang="ru">За гранью. 525-я серия - "Бездомная вдова"</title></programme>
-<programme start="20261117041500 +0000" stop="20261117052000 +0000" channel="ntv-pravo"><title lang="ru">Суд присяжных. 551-я серия - "Заживо погребённый"</title></programme>
 <programme start="20261117052000 +0000" stop="20261117055000 +0000" channel="ntv-pravo"><title lang="ru">Медицинские тайны. 111-я серия - "Мужчина не подозревал, что обычные головные боли могут привести к серьезному заболеванию шеи"</title></programme>
 <programme start="20261117055000 +0000" stop="20261117064500 +0000" channel="ntv-pravo"><title lang="ru">Следствие вели.... 280-я серия - "Призрак на колёсах"</title></programme>
 <programme start="20261117064500 +0000" stop="20261117071500 +0000" channel="ntv-pravo"><title lang="ru">Обзор. Чрезвычайное происшествие</title></programme>
@@ -1125,34 +954,6 @@
 <programme start="20261122181000 +0000" stop="20261122192000 +0000" channel="ntv-pravo"><title lang="ru">Прокурорская проверка. 184-я серия - "Красота убьёт мир"</title></programme>
 <programme start="20261122192000 +0000" stop="20261122202500 +0000" channel="ntv-pravo"><title lang="ru">Прокурорская проверка. 185-я серия - "Адвокат дьявола"</title></programme>
 <programme start="20261122202500 +0000" stop="20261123050000 +0000" channel="ntv-pravo"><title lang="ru">До суда. 88-я серия - "Школьная столовая"</title></programme>
-<programme start="20261116050000 +0000" stop="20261116055500 +0000" channel="ntv-serial"><title lang="ru">Легавый-2. 9-я серия</title></programme>
-<programme start="20261116055500 +0000" stop="20261116065000 +0000" channel="ntv-serial"><title lang="ru">Легавый-2. 10-я серия</title></programme>
-<programme start="20261116065000 +0000" stop="20261116074000 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 210-я серия - "Постоялец из номера 208"</title></programme>
-<programme start="20261116074000 +0000" stop="20261116083500 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 211-я серия - "Чудесный концерт"</title></programme>
-<programme start="20261116083500 +0000" stop="20261116092500 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 212-я серия - "Беглецы"</title></programme>
-<programme start="20261116092500 +0000" stop="20261116102000 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 213-я серия - "Колготки оптом"</title></programme>
-<programme start="20261116102000 +0000" stop="20261116111000 +0000" channel="ntv-serial"><title lang="ru">Легавый-2. 11-я серия</title></programme>
-<programme start="20261116111000 +0000" stop="20261116121000 +0000" channel="ntv-serial"><title lang="ru">Легавый-2. 12-я серия</title></programme>
-<programme start="20261116121000 +0000" stop="20261116130500 +0000" channel="ntv-serial"><title lang="ru">Легавый-2. 13-я серия</title></programme>
-<programme start="20261116130500 +0000" stop="20261116140000 +0000" channel="ntv-serial"><title lang="ru">Легавый-2. 14-я серия</title></programme>
-<programme start="20261116140000 +0000" stop="20261116145500 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 214-я серия - "Парфюмер"</title></programme>
-<programme start="20261116145500 +0000" stop="20261116155000 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 215-я серия - "Цвет зависти"</title></programme>
-<programme start="20261116155000 +0000" stop="20261116164000 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 216-я серия - "В поисках чемпиона"</title></programme>
-<programme start="20261116164000 +0000" stop="20261116173500 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 217-я серия - "Тимуровцы"</title></programme>
-<programme start="20261116173500 +0000" stop="20261116183000 +0000" channel="ntv-serial"><title lang="ru">Легавый-2. 15-я серия</title></programme>
-<programme start="20261116183000 +0000" stop="20261116192500 +0000" channel="ntv-serial"><title lang="ru">Легавый-2. 16-я серия</title></programme>
-<programme start="20261116192500 +0000" stop="20261116202000 +0000" channel="ntv-serial"><title lang="ru">Легавый-2. 17-я серия</title></programme>
-<programme start="20261116202000 +0000" stop="20261116211000 +0000" channel="ntv-serial"><title lang="ru">Легавый-2. 18-я серия</title></programme>
-<programme start="20261116211000 +0000" stop="20261116220500 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 214-я серия - "Парфюмер"</title></programme>
-<programme start="20261116220500 +0000" stop="20261116225000 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 215-я серия - "Цвет зависти"</title></programme>
-<programme start="20261116225000 +0000" stop="20261116233500 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 216-я серия - "В поисках чемпиона"</title></programme>
-<programme start="20261116233500 +0000" stop="20261117002000 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 217-я серия - "Тимуровцы"</title></programme>
-<programme start="20261117002000 +0000" stop="20261117010000 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 210-я серия - "Постоялец из номера 208"</title></programme>
-<programme start="20261117010000 +0000" stop="20261117014500 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 211-я серия - "Чудесный концерт"</title></programme>
-<programme start="20261117014500 +0000" stop="20261117023000 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 212-я серия - "Беглецы"</title></programme>
-<programme start="20261117023000 +0000" stop="20261117031500 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 213-я серия - "Колготки оптом"</title></programme>
-<programme start="20261117031500 +0000" stop="20261117040000 +0000" channel="ntv-serial"><title lang="ru">Легавый-2. 11-я серия</title></programme>
-<programme start="20261117040000 +0000" stop="20261117050000 +0000" channel="ntv-serial"><title lang="ru">Легавый-2. 12-я серия</title></programme>
 <programme start="20261117050000 +0000" stop="20261117055500 +0000" channel="ntv-serial"><title lang="ru">Легавый-2. 13-я серия</title></programme>
 <programme start="20261117055500 +0000" stop="20261117064500 +0000" channel="ntv-serial"><title lang="ru">Легавый-2. 14-я серия</title></programme>
 <programme start="20261117064500 +0000" stop="20261117074000 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 214-я серия - "Парфюмер"</title></programme>
@@ -1316,47 +1117,6 @@
 <programme start="20261122233500 +0000" stop="20261123001000 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 225-я серия - "Неуловимая мстительница"</title></programme>
 <programme start="20261123001000 +0000" stop="20261123005500 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 226-я серия - "Стечение обстоятельств"</title></programme>
 <programme start="20261123005500 +0000" stop="20261123050000 +0000" channel="ntv-serial"><title lang="ru">Возвращение Мухтара-2. 227-я серия - "Букет подснежников"</title></programme>
-<programme start="20261116053500 +0000" stop="20261116062000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Живая еда с Сергеем Малозёмовым. 346-я серия - "Куриная грудка в разных блюдах, невероятная польза рябины и рецепт супа из запечённых овощей"</title></programme>
-<programme start="20261116062000 +0000" stop="20261116064500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Готовим с Алексеем Зиминым. 332-я серия - "Согревающий обед"</title></programme>
-<programme start="20261116064500 +0000" stop="20261116070500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Готовим с Алексеем Зиминым. 333-я серия - "Обед на зимнее солнцестояние"</title></programme>
-<programme start="20261116070500 +0000" stop="20261116073000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Готовим с Алексеем Зиминым. 337-я серия - "Оранжевый обед"</title></programme>
-<programme start="20261116073000 +0000" stop="20261116080000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Едим Дома. 899-я серия - "Картофельный салат с запеченной семгой, фенхелем, брокколи и брюссельской капустой"</title></programme>
-<programme start="20261116080000 +0000" stop="20261116085000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Живая еда с Сергеем Малозёмовым. 347-я серия - "Секреты идеальной пасты, опасность пальмового масла и польза финикового кофе"</title></programme>
-<programme start="20261116085000 +0000" stop="20261116093000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Живая еда с Сергеем Малозёмовым. 348-я серия - "Имитированная икра и лечение хвойными коктейлями"</title></programme>
-<programme start="20261116093000 +0000" stop="20261116102000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Живая еда с Сергеем Малозёмовым. 349-я серия - "Преимущества форели, хурма, рецепт куриной закуски из интернета"</title></programme>
-<programme start="20261116102000 +0000" stop="20261116110500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Живая еда с Сергеем Малозёмовым. 350-я серия - "Холодец и студень. коварство шампанского. еда как шоу"</title></programme>
-<programme start="20261116110500 +0000" stop="20261116113000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Готовим с Алексеем Зиминым. 350-я серия - "Обед хорошего настроения"</title></programme>
-<programme start="20261116113000 +0000" stop="20261116115500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Готовим с Алексеем Зиминым. 342-я серия - "Поэтический обед"</title></programme>
-<programme start="20261116115500 +0000" stop="20261116122000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Готовим с Алексеем Зиминым. 343-я серия</title></programme>
-<programme start="20261116122000 +0000" stop="20261116125000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Едим Дома. 900-я серия - "Юбилей Едим дома"</title></programme>
-<programme start="20261116125000 +0000" stop="20261116133500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Живая еда с Сергеем Малозёмовым. 347-я серия - "Секреты идеальной пасты, опасность пальмового масла и польза финикового кофе"</title></programme>
-<programme start="20261116133500 +0000" stop="20261116142000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Живая еда с Сергеем Малозёмовым. 348-я серия - "Имитированная икра и лечение хвойными коктейлями"</title></programme>
-<programme start="20261116142000 +0000" stop="20261116150500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Живая еда с Сергеем Малозёмовым. 349-я серия - "Преимущества форели, хурма, рецепт куриной закуски из интернета"</title></programme>
-<programme start="20261116150500 +0000" stop="20261116155500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Живая еда с Сергеем Малозёмовым. 350-я серия - "Холодец и студень. коварство шампанского. еда как шоу"</title></programme>
-<programme start="20261116155500 +0000" stop="20261116162000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Готовим с Алексеем Зиминым. 350-я серия - "Обед хорошего настроения"</title></programme>
-<programme start="20261116162000 +0000" stop="20261116164500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Готовим с Алексеем Зиминым. 342-я серия - "Поэтический обед"</title></programme>
-<programme start="20261116164500 +0000" stop="20261116171000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Готовим с Алексеем Зиминым. 343-я серия</title></programme>
-<programme start="20261116171000 +0000" stop="20261116174500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Едим Дома. 900-я серия - "Юбилей Едим дома"</title></programme>
-<programme start="20261116174500 +0000" stop="20261116183000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Живая еда с Сергеем Малозёмовым. 347-я серия - "Секреты идеальной пасты, опасность пальмового масла и польза финикового кофе"</title></programme>
-<programme start="20261116183000 +0000" stop="20261116191000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Живая еда с Сергеем Малозёмовым. 348-я серия - "Имитированная икра и лечение хвойными коктейлями"</title></programme>
-<programme start="20261116191000 +0000" stop="20261116200000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Живая еда с Сергеем Малозёмовым. 349-я серия - "Преимущества форели, хурма, рецепт куриной закуски из интернета"</title></programme>
-<programme start="20261116200000 +0000" stop="20261116205000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Живая еда с Сергеем Малозёмовым. 350-я серия - "Холодец и студень. коварство шампанского. еда как шоу"</title></programme>
-<programme start="20261116205000 +0000" stop="20261116211500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Готовим с Алексеем Зиминым. 350-я серия - "Обед хорошего настроения"</title></programme>
-<programme start="20261116211500 +0000" stop="20261116214000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Готовим с Алексеем Зиминым. 342-я серия - "Поэтический обед"</title></programme>
-<programme start="20261116214000 +0000" stop="20261116220000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Готовим с Алексеем Зиминым. 343-я серия</title></programme>
-<programme start="20261116220000 +0000" stop="20261116222500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Едим Дома. 900-я серия - "Юбилей Едим дома"</title></programme>
-<programme start="20261116222500 +0000" stop="20261116231000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Живая еда с Сергеем Малозёмовым. 347-я серия - "Секреты идеальной пасты, опасность пальмового масла и польза финикового кофе"</title></programme>
-<programme start="20261116231000 +0000" stop="20261116235000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Живая еда с Сергеем Малозёмовым. 348-я серия - "Имитированная икра и лечение хвойными коктейлями"</title></programme>
-<programme start="20261116235000 +0000" stop="20261117003000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Живая еда с Сергеем Малозёмовым. 349-я серия - "Преимущества форели, хурма, рецепт куриной закуски из интернета"</title></programme>
-<programme start="20261117003000 +0000" stop="20261117011500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Живая еда с Сергеем Малозёмовым. 350-я серия - "Холодец и студень. коварство шампанского. еда как шоу"</title></programme>
-<programme start="20261117011500 +0000" stop="20261117013500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Готовим с Алексеем Зиминым. 350-я серия - "Обед хорошего настроения"</title></programme>
-<programme start="20261117013500 +0000" stop="20261117015500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Готовим с Алексеем Зиминым. 342-я серия - "Поэтический обед"</title></programme>
-<programme start="20261117015500 +0000" stop="20261117022000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Готовим с Алексеем Зиминым. 343-я серия</title></programme>
-<programme start="20261117022000 +0000" stop="20261117024500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Едим Дома. 900-я серия - "Юбилей Едим дома"</title></programme>
-<programme start="20261117024500 +0000" stop="20261117030500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Готовим с Алексеем Зиминым. 350-я серия - "Обед хорошего настроения"</title></programme>
-<programme start="20261117030500 +0000" stop="20261117035500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">НашПотребНадзор. 297-я серия - "Аналоги колы vs западная газировка, омега-кислоты в рационе и все о банкротстве"</title></programme>
-<programme start="20261117035500 +0000" stop="20261117044500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">НашПотребНадзор. 298-я серия - "Вкусные сорняки, проверка консервированной горбуши и цианиды в соли"</title></programme>
-<programme start="20261117044500 +0000" stop="20261117053500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">НашПотребНадзор. 299-я серия - "Макароны как кулинарная сенсация, проверка куриного фарша, полезные для сердца овощи и фрукты"</title></programme>
 <programme start="20261117053500 +0000" stop="20261117062500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">НашПотребНадзор. 180-я серия - "Выбор качественного и недорого алкоголя и обзор принадлежностей для полости рта"</title></programme>
 <programme start="20261117062500 +0000" stop="20261117071000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">НашПотребНадзор. 181-я серия - "Защита от клещей-мутантов, лечение содой и очистка серебра в домашних условиях"</title></programme>
 <programme start="20261117071000 +0000" stop="20261117080000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">НашПотребНадзор. 182-я серия - "Дезинфекция и хранение продуктов, ядовитые комнатные растения и пестициды в рисе"</title></programme>
@@ -1536,48 +1296,6 @@
 <programme start="20261122180000 +0000" stop="20261122195500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Секрет на миллион. Алексей Глызин</title></programme>
 <programme start="20261122195500 +0000" stop="20261122204500 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Однажды. 327-я серия</title></programme>
 <programme start="20261122204500 +0000" stop="20261123050000 +0000" channel="xml1786445118_ntv-style"><title lang="ru">Однажды. 328-я серия</title></programme>
-<programme start="20261116050000 +0000" stop="20261116055900 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 5-я серия - "Камень за пазухой: Часть 1-я"</title></programme>
-<programme start="20261116055900 +0000" stop="20261116065800 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 6-я серия - "Камень за пазухой: Часть 2-я"</title></programme>
-<programme start="20261116065800 +0000" stop="20261116075800 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 7-я серия - "Призрак: Часть 1-я"</title></programme>
-<programme start="20261116075800 +0000" stop="20261116084400 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 8-я серия - "Призрак: Часть 2-я"</title></programme>
-<programme start="20261116084400 +0000" stop="20261116084600 +0000" channel="ntv-xit"><title lang="ru">Новости</title></programme>
-<programme start="20261116084600 +0000" stop="20261116090000 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 8-я серия - "Призрак: Часть 2-я"</title></programme>
-<programme start="20261116090000 +0000" stop="20261116093800 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 9-я серия - "Бесплатный сыр. Часть 1-я"</title></programme>
-<programme start="20261116093800 +0000" stop="20261116094000 +0000" channel="ntv-xit"><title lang="ru">Новости</title></programme>
-<programme start="20261116094000 +0000" stop="20261116100300 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 9-я серия - "Бесплатный сыр. Часть 1-я"</title></programme>
-<programme start="20261116100300 +0000" stop="20261116104400 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 10-я серия - "Бесплатный сыр. Часть 2-я"</title></programme>
-<programme start="20261116104400 +0000" stop="20261116104600 +0000" channel="ntv-xit"><title lang="ru">Новости</title></programme>
-<programme start="20261116104600 +0000" stop="20261116110500 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 10-я серия - "Бесплатный сыр. Часть 2-я"</title></programme>
-<programme start="20261116110500 +0000" stop="20261116120800 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 11-я серия - "Крыса. Часть 1-я"</title></programme>
-<programme start="20261116120800 +0000" stop="20261116124700 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 12-я серия - "Крыса. Часть 2-я"</title></programme>
-<programme start="20261116124700 +0000" stop="20261116124900 +0000" channel="ntv-xit"><title lang="ru">Новости</title></programme>
-<programme start="20261116124900 +0000" stop="20261116131300 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 12-я серия - "Крыса. Часть 2-я"</title></programme>
-<programme start="20261116131300 +0000" stop="20261116141900 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 13-я серия - "Чудовище: Часть 1-я"</title></programme>
-<programme start="20261116141900 +0000" stop="20261116144500 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 14-я серия - "Чудовище: Часть 2-я"</title></programme>
-<programme start="20261116144500 +0000" stop="20261116144700 +0000" channel="ntv-xit"><title lang="ru">Новости</title></programme>
-<programme start="20261116144700 +0000" stop="20261116152500 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 14-я серия - "Чудовище: Часть 2-я"</title></programme>
-<programme start="20261116152500 +0000" stop="20261116154700 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 15-я серия - "Искупление: Часть 1-я"</title></programme>
-<programme start="20261116154700 +0000" stop="20261116154900 +0000" channel="ntv-xit"><title lang="ru">Новости</title></programme>
-<programme start="20261116154900 +0000" stop="20261116162600 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 15-я серия - "Искупление: Часть 1-я"</title></programme>
-<programme start="20261116162600 +0000" stop="20261116164900 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 16-я серия - "Искупление: Часть 2-я"</title></programme>
-<programme start="20261116164900 +0000" stop="20261116165100 +0000" channel="ntv-xit"><title lang="ru">Новости</title></programme>
-<programme start="20261116165100 +0000" stop="20261116173000 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 16-я серия - "Искупление: Часть 2-я"</title></programme>
-<programme start="20261116173000 +0000" stop="20261116183500 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 9-я серия - "Бесплатный сыр. Часть 1-я"</title></programme>
-<programme start="20261116183500 +0000" stop="20261116184500 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 10-я серия - "Бесплатный сыр. Часть 2-я"</title></programme>
-<programme start="20261116184500 +0000" stop="20261116184700 +0000" channel="ntv-xit"><title lang="ru">Новости</title></programme>
-<programme start="20261116184700 +0000" stop="20261116193700 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 10-я серия - "Бесплатный сыр. Часть 2-я"</title></programme>
-<programme start="20261116193700 +0000" stop="20261116204000 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 11-я серия - "Крыса. Часть 1-я"</title></programme>
-<programme start="20261116204000 +0000" stop="20261116205000 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 12-я серия - "Крыса. Часть 2-я"</title></programme>
-<programme start="20261116205000 +0000" stop="20261116205200 +0000" channel="ntv-xit"><title lang="ru">Новости</title></programme>
-<programme start="20261116205200 +0000" stop="20261116214500 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 12-я серия - "Крыса. Часть 2-я"</title></programme>
-<programme start="20261116214500 +0000" stop="20261116224300 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 13-я серия - "Чудовище: Часть 1-я"</title></programme>
-<programme start="20261116224300 +0000" stop="20261116233800 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 14-я серия - "Чудовище: Часть 2-я"</title></programme>
-<programme start="20261116233800 +0000" stop="20261117010900 +0000" channel="ntv-xit"><title lang="ru">Чингачгук. 15-я серия - "Искупление: Часть 1-я"</title></programme>
-<programme start="20261117010900 +0000" stop="20261117020200 +0000" channel="ntv-xit"><title lang="ru">Адмиралы района. 13-я серия</title></programme>
-<programme start="20261117020200 +0000" stop="20261117025600 +0000" channel="ntv-xit"><title lang="ru">Адмиралы района. 14-я серия</title></programme>
-<programme start="20261117025600 +0000" stop="20261117035100 +0000" channel="ntv-xit"><title lang="ru">Адмиралы района. 15-я серия</title></programme>
-<programme start="20261117035100 +0000" stop="20261117045200 +0000" channel="ntv-xit"><title lang="ru">Адмиралы района. 16-я серия</title></programme>
-<programme start="20261117045200 +0000" stop="20261117055300 +0000" channel="ntv-xit"><title lang="ru">Адмиралы района. 17-я серия</title></programme>
 <programme start="20261117055300 +0000" stop="20261117065500 +0000" channel="ntv-xit"><title lang="ru">Адмиралы района. 18-я серия</title></programme>
 <programme start="20261117065500 +0000" stop="20261117075700 +0000" channel="ntv-xit"><title lang="ru">Адмиралы района. 19-я серия</title></programme>
 <programme start="20261117075700 +0000" stop="20261117084600 +0000" channel="ntv-xit"><title lang="ru">Адмиралы района. 20-я серия</title></programme>
@@ -1783,33 +1501,6 @@
 <programme start="20261122180500 +0000" stop="20261122190400 +0000" channel="ntv-xit"><title lang="ru">Васька. 10-я серия - "Каждому своё"</title></programme>
 <programme start="20261122190400 +0000" stop="20261122200500 +0000" channel="ntv-xit"><title lang="ru">Васька. 11-я серия</title></programme>
 <programme start="20261122200500 +0000" stop="20261123050000 +0000" channel="ntv-xit"><title lang="ru">Васька. 12-я серия</title></programme>
-<programme start="20261116055000 +0000" stop="20261116070500 +0000" channel="sapfir"><title lang="ru">Семья. 40-я серия</title></programme>
-<programme start="20261116070500 +0000" stop="20261116080500 +0000" channel="sapfir"><title lang="ru">Запретный плод. 94-я серия</title></programme>
-<programme start="20261116080500 +0000" stop="20261116090000 +0000" channel="sapfir"><title lang="ru">Запретный плод. 1-я серия</title></programme>
-<programme start="20261116090000 +0000" stop="20261116095000 +0000" channel="sapfir"><title lang="ru">Запретный плод. 2-я серия</title></programme>
-<programme start="20261116095000 +0000" stop="20261116104500 +0000" channel="sapfir"><title lang="ru">Это море переполнится. 13-я серия</title></programme>
-<programme start="20261116104500 +0000" stop="20261116114000 +0000" channel="sapfir"><title lang="ru">Это море переполнится. 14-я серия</title></programme>
-<programme start="20261116114000 +0000" stop="20261116123000 +0000" channel="sapfir"><title lang="ru">Это море переполнится. 15-я серия</title></programme>
-<programme start="20261116123000 +0000" stop="20261116133000 +0000" channel="sapfir"><title lang="ru">Это море переполнится. 16-я серия</title></programme>
-<programme start="20261116133000 +0000" stop="20261116142000 +0000" channel="sapfir"><title lang="ru">Клюквенный щербет. 2-я серия</title></programme>
-<programme start="20261116142000 +0000" stop="20261116151000 +0000" channel="sapfir"><title lang="ru">Клюквенный щербет. 3-я серия</title></programme>
-<programme start="20261116151000 +0000" stop="20261116160500 +0000" channel="sapfir"><title lang="ru">Клюквенный щербет. 4-я серия</title></programme>
-<programme start="20261116160500 +0000" stop="20261116170000 +0000" channel="sapfir"><title lang="ru">Клюквенный щербет. 5-я серия</title></programme>
-<programme start="20261116170000 +0000" stop="20261116175000 +0000" channel="sapfir"><title lang="ru">Это море переполнится. 17-я серия</title></programme>
-<programme start="20261116175000 +0000" stop="20261116184500 +0000" channel="sapfir"><title lang="ru">Это море переполнится. 18-я серия</title></programme>
-<programme start="20261116184500 +0000" stop="20261116193500 +0000" channel="sapfir"><title lang="ru">Это море переполнится. 19-я серия</title></programme>
-<programme start="20261116193500 +0000" stop="20261116202500 +0000" channel="sapfir"><title lang="ru">Это море переполнится. 20-я серия</title></programme>
-<programme start="20261116202500 +0000" stop="20261116212000 +0000" channel="sapfir"><title lang="ru">Клюквенный щербет. 2-я серия</title></programme>
-<programme start="20261116212000 +0000" stop="20261116221000 +0000" channel="sapfir"><title lang="ru">Клюквенный щербет. 3-я серия</title></programme>
-<programme start="20261116221000 +0000" stop="20261116225500 +0000" channel="sapfir"><title lang="ru">Клюквенный щербет. 4-я серия</title></programme>
-<programme start="20261116225500 +0000" stop="20261116234000 +0000" channel="sapfir"><title lang="ru">Клюквенный щербет. 5-я серия</title></programme>
-<programme start="20261116234000 +0000" stop="20261117003500 +0000" channel="sapfir"><title lang="ru">Запретный плод. 93-я серия</title></programme>
-<programme start="20261117003500 +0000" stop="20261117013000 +0000" channel="sapfir"><title lang="ru">Запретный плод. 94-я серия</title></programme>
-<programme start="20261117013000 +0000" stop="20261117021000 +0000" channel="sapfir"><title lang="ru">Запретный плод. 1-я серия</title></programme>
-<programme start="20261117021000 +0000" stop="20261117030000 +0000" channel="sapfir"><title lang="ru">Запретный плод. 2-я серия</title></programme>
-<programme start="20261117030000 +0000" stop="20261117035000 +0000" channel="sapfir"><title lang="ru">Семья. 41-я серия</title></programme>
-<programme start="20261117035000 +0000" stop="20261117044500 +0000" channel="sapfir"><title lang="ru">Семья. 42-я серия</title></programme>
-<programme start="20261117044500 +0000" stop="20261117053500 +0000" channel="sapfir"><title lang="ru">Семья. 43-я серия</title></programme>
 <programme start="20261117053500 +0000" stop="20261117063000 +0000" channel="sapfir"><title lang="ru">Семья. 44-я серия</title></programme>
 <programme start="20261117063000 +0000" stop="20261117072000 +0000" channel="sapfir"><title lang="ru">Запретный плод. 3-я серия</title></programme>
 <programme start="20261117072000 +0000" stop="20261117081500 +0000" channel="sapfir"><title lang="ru">Запретный плод. 4-я серия</title></programme>
@@ -1975,43 +1666,6 @@
 <programme start="20261123003500 +0000" stop="20261123012000 +0000" channel="sapfir"><title lang="ru">Клюквенный щербет. 19-я серия</title></programme>
 <programme start="20261123012000 +0000" stop="20261123021000 +0000" channel="sapfir"><title lang="ru">Клюквенный щербет. 20-я серия</title></programme>
 <programme start="20261123021000 +0000" stop="20261123050000 +0000" channel="sapfir"><title lang="ru">Клюквенный щербет. 21-я серия</title></programme>
-<programme start="20261116050000 +0000" stop="20261116053000 +0000" channel="tnt"><title lang="ru">СашаТаня. 376-я серия</title></programme>
-<programme start="20261116053000 +0000" stop="20261116060000 +0000" channel="tnt"><title lang="ru">СашаТаня. 377-я серия</title></programme>
-<programme start="20261116060000 +0000" stop="20261116090000 +0000" channel="tnt"><title lang="ru">Звезды в джунглях. 36-я серия</title></programme>
-<programme start="20261116090000 +0000" stop="20261116093000 +0000" channel="tnt"><title lang="ru">СашаТаня. 378-я серия</title></programme>
-<programme start="20261116093000 +0000" stop="20261116100000 +0000" channel="tnt"><title lang="ru">СашаТаня. 379-я серия</title></programme>
-<programme start="20261116100000 +0000" stop="20261116103000 +0000" channel="tnt"><title lang="ru">СашаТаня. 380-я серия</title></programme>
-<programme start="20261116103000 +0000" stop="20261116110000 +0000" channel="tnt"><title lang="ru">СашаТаня. 381-я серия</title></programme>
-<programme start="20261116110000 +0000" stop="20261116113000 +0000" channel="tnt"><title lang="ru">СашаТаня. 382-я серия</title></programme>
-<programme start="20261116113000 +0000" stop="20261116120000 +0000" channel="tnt"><title lang="ru">СашаТаня. 383-я серия</title></programme>
-<programme start="20261116120000 +0000" stop="20261116123000 +0000" channel="tnt"><title lang="ru">СашаТаня. 384-я серия</title></programme>
-<programme start="20261116123000 +0000" stop="20261116130000 +0000" channel="tnt"><title lang="ru">СашаТаня. 385-я серия</title></programme>
-<programme start="20261116130000 +0000" stop="20261116133000 +0000" channel="tnt"><title lang="ru">СашаТаня. 386-я серия</title></programme>
-<programme start="20261116133000 +0000" stop="20261116140000 +0000" channel="tnt"><title lang="ru">СашаТаня. 387-я серия</title></programme>
-<programme start="20261116140000 +0000" stop="20261116143000 +0000" channel="tnt"><title lang="ru">СашаТаня. 388-я серия</title></programme>
-<programme start="20261116143000 +0000" stop="20261116150000 +0000" channel="tnt"><title lang="ru">СашаТаня. 389-я серия</title></programme>
-<programme start="20261116150000 +0000" stop="20261116153000 +0000" channel="tnt"><title lang="ru">СашаТаня. 390-я серия</title></programme>
-<programme start="20261116153000 +0000" stop="20261116160000 +0000" channel="tnt"><title lang="ru">СашаТаня. 391-я серия</title></programme>
-<programme start="20261116160000 +0000" stop="20261116163000 +0000" channel="tnt"><title lang="ru">СашаТаня. 392-я серия</title></programme>
-<programme start="20261116163000 +0000" stop="20261116170000 +0000" channel="tnt"><title lang="ru">СашаТаня. 393-я серия</title></programme>
-<programme start="20261116170000 +0000" stop="20261116173000 +0000" channel="tnt"><title lang="ru">Полярный. 76-я серия</title></programme>
-<programme start="20261116173000 +0000" stop="20261116180000 +0000" channel="tnt"><title lang="ru">Полярный. 77-я серия</title></programme>
-<programme start="20261116180000 +0000" stop="20261116183000 +0000" channel="tnt"><title lang="ru">Телохранители. 1-я серия</title></programme>
-<programme start="20261116183000 +0000" stop="20261116190000 +0000" channel="tnt"><title lang="ru">Телохранители. 2-я серия</title></programme>
-<programme start="20261116190000 +0000" stop="20261116193000 +0000" channel="tnt"><title lang="ru">Телохранители. 3-я серия</title></programme>
-<programme start="20261116193000 +0000" stop="20261116200000 +0000" channel="tnt"><title lang="ru">Телохранители. 4-я серия</title></programme>
-<programme start="20261116200000 +0000" stop="20261116215000 +0000" channel="tnt"><title lang="ru">Мэр поневоле</title></programme>
-<programme start="20261116215000 +0000" stop="20261116235000 +0000" channel="tnt"><title lang="ru">Быть</title></programme>
-<programme start="20261116235000 +0000" stop="20261117003000 +0000" channel="tnt"><title lang="ru">Однажды в России. Спецдайджесты-2025. 4-я серия</title></programme>
-<programme start="20261117003000 +0000" stop="20261117012000 +0000" channel="tnt"><title lang="ru">Однажды в России. Спецдайджесты-2025. 5-я серия</title></programme>
-<programme start="20261117012000 +0000" stop="20261117015000 +0000" channel="tnt"><title lang="ru">Однажды в России. Спецдайджесты-2023. 4-я серия</title></programme>
-<programme start="20261117015000 +0000" stop="20261117020000 +0000" channel="tnt"><title lang="ru">Однажды в России. Спецдайджесты-2023. 5-я серия</title></programme>
-<programme start="20261117020000 +0000" stop="20261117025000 +0000" channel="tnt"><title lang="ru">"Утро ТНТ"-2026. 216-я серия</title></programme>
-<programme start="20261117025000 +0000" stop="20261117032000 +0000" channel="tnt"><title lang="ru">СашаТаня. 394-я серия</title></programme>
-<programme start="20261117032000 +0000" stop="20261117034000 +0000" channel="tnt"><title lang="ru">СашаТаня. 395-я серия</title></programme>
-<programme start="20261117034000 +0000" stop="20261117040000 +0000" channel="tnt"><title lang="ru">СашаТаня. 396-я серия</title></programme>
-<programme start="20261117040000 +0000" stop="20261117043000 +0000" channel="tnt"><title lang="ru">СашаТаня. 399-я серия</title></programme>
-<programme start="20261117043000 +0000" stop="20261117050000 +0000" channel="tnt"><title lang="ru">СашаТаня. 400-я серия</title></programme>
 <programme start="20261117050000 +0000" stop="20261117053000 +0000" channel="tnt"><title lang="ru">Предпринималити. 4-я серия</title></programme>
 <programme start="20261117053000 +0000" stop="20261117060000 +0000" channel="tnt"><title lang="ru">СашаТаня. 201-я серия</title></programme>
 <programme start="20261117060000 +0000" stop="20261117063000 +0000" channel="tnt"><title lang="ru">СашаТаня. 202-я серия</title></programme>
@@ -2208,23 +1862,6 @@
 <programme start="20261123010500 +0000" stop="20261123020000 +0000" channel="tnt"><title lang="ru">Однажды в России. Спецдайджесты-2023. 17-я серия</title></programme>
 <programme start="20261123020000 +0000" stop="20261123025000 +0000" channel="tnt"><title lang="ru">"Утро ТНТ"-2026. 220-я серия</title></programme>
 <programme start="20261123025000 +0000" stop="20261123050000 +0000" channel="tnt"><title lang="ru">СашаТаня. 274-я серия</title></programme>
-<programme start="20261115235500 +0000" stop="20261116030000 +0000" channel="rtr-planeta-eu"><title lang="ru">Счастливый маршрут</title></programme>
-<programme start="20261116030000 +0000" stop="20261116060000 +0000" channel="rtr-planeta-eu"><title lang="ru">Утро России</title></programme>
-<programme start="20261116060000 +0000" stop="20261116063000 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести</title></programme>
-<programme start="20261116063000 +0000" stop="20261116065500 +0000" channel="rtr-planeta-eu"><title lang="ru">Местное время</title></programme>
-<programme start="20261116065500 +0000" stop="20261116080000 +0000" channel="rtr-planeta-eu"><title lang="ru">О самом главном</title></programme>
-<programme start="20261116080000 +0000" stop="20261116083000 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести</title></programme>
-<programme start="20261116083000 +0000" stop="20261116090000 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести. Местное время</title></programme>
-<programme start="20261116090000 +0000" stop="20261116110000 +0000" channel="rtr-planeta-eu"><title lang="ru">60 минут</title></programme>
-<programme start="20261116110000 +0000" stop="20261116113000 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести</title></programme>
-<programme start="20261116113000 +0000" stop="20261116133000 +0000" channel="rtr-planeta-eu"><title lang="ru">Райский. Продолжение. Любовь и ненависть, 1-я часть, 19-я серия. Любовь и ненависть, 2-я часть, 20-я серия</title></programme>
-<programme start="20261116133000 +0000" stop="20261116140000 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести</title></programme>
-<programme start="20261116140000 +0000" stop="20261116150000 +0000" channel="rtr-planeta-eu"><title lang="ru">Малахов</title></programme>
-<programme start="20261116150000 +0000" stop="20261116170000 +0000" channel="rtr-planeta-eu"><title lang="ru">60 минут</title></programme>
-<programme start="20261116170000 +0000" stop="20261116181000 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести</title></programme>
-<programme start="20261116181000 +0000" stop="20261116183000 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести. Местное время</title></programme>
-<programme start="20261116183000 +0000" stop="20261116203500 +0000" channel="rtr-planeta-eu"><title lang="ru">Тайны следствия. 1-я и 2-я серии - Братья по крови</title></programme>
-<programme start="20261116203500 +0000" stop="20261116230500 +0000" channel="rtr-planeta-eu"><title lang="ru">Вечер с Владимиром Соловьёвым</title></programme>
 <programme start="20261116230500 +0000" stop="20261117000000 +0000" channel="rtr-planeta-eu"><title lang="ru">Райский. Продолжение. 19-я серия - Любовь и ненависть, 1-я часть</title></programme>
 <programme start="20261117000000 +0000" stop="20261117003000 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести</title></programme>
 <programme start="20261117003000 +0000" stop="20261117012000 +0000" channel="rtr-planeta-eu"><title lang="ru">Райский. Продолжение. 20-я серия - Любовь и ненависть, 2-я часть</title></programme>
@@ -2328,37 +1965,6 @@
 <programme start="20261121175000 +0000" stop="20261121180000 +0000" channel="rtr-planeta-eu"><title lang="ru">Вести. Местное время</title></programme>
 <programme start="20261121180000 +0000" stop="20261121212500 +0000" channel="rtr-planeta-eu"><title lang="ru">Испытание счастьем</title></programme>
 <programme start="20261121212500 +0000" stop="20261122003500 +0000" channel="rtr-planeta-eu"><title lang="ru">Моя чужая жизнь</title></programme>
-<programme start="20261116001000 +0000" stop="20261116001500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
-<programme start="20261116001500 +0000" stop="20261116014800 +0000" channel="DasErste.de"><title lang="de">Alpenglühen zwei - Liebe versetzt Berge</title></programme>
-<programme start="20261116014800 +0000" stop="20261116015000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
-<programme start="20261116015000 +0000" stop="20261116025000 +0000" channel="DasErste.de"><title lang="de">Caren Miosga</title></programme>
-<programme start="20261116025000 +0000" stop="20261116034300 +0000" channel="DasErste.de"><title lang="de">ttt – titel thesen temperamente</title></programme>
-<programme start="20261116034300 +0000" stop="20261116034500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
-<programme start="20261116034500 +0000" stop="20261116043000 +0000" channel="DasErste.de"><title lang="de">Weltspiegel</title></programme>
-<programme start="20261116043000 +0000" stop="20261116080000 +0000" channel="DasErste.de"><title lang="de">ZDF-Morgenmagazin</title></programme>
-<programme start="20261116080000 +0000" stop="20261116080500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
-<programme start="20261116080500 +0000" stop="20261116085500 +0000" channel="DasErste.de"><title lang="de">Watzmann ermittelt</title></programme>
-<programme start="20261116085500 +0000" stop="20261116094000 +0000" channel="DasErste.de"><title lang="de">Morden im Norden</title></programme>
-<programme start="20261116094000 +0000" stop="20261116094500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
-<programme start="20261116094500 +0000" stop="20261116101500 +0000" channel="DasErste.de"><title lang="de">Meister des Alltags</title></programme>
-<programme start="20261116101500 +0000" stop="20261116110000 +0000" channel="DasErste.de"><title lang="de">Wer weiß denn sowas?</title></programme>
-<programme start="20261116110000 +0000" stop="20261116130000 +0000" channel="DasErste.de"><title lang="de">ZDF-Mittagsmagazin</title></programme>
-<programme start="20261116130000 +0000" stop="20261116131000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
-<programme start="20261116131000 +0000" stop="20261116140000 +0000" channel="DasErste.de"><title lang="de">Rote Rosen</title></programme>
-<programme start="20261116140000 +0000" stop="20261116141000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
-<programme start="20261116141000 +0000" stop="20261116150000 +0000" channel="DasErste.de"><title lang="de">Sturm der Liebe</title></programme>
-<programme start="20261116150000 +0000" stop="20261116151000 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
-<programme start="20261116151000 +0000" stop="20261116160000 +0000" channel="DasErste.de"><title lang="de">Elefant, Tiger &amp; Co.</title></programme>
-<programme start="20261116160000 +0000" stop="20261116161500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
-<programme start="20261116161500 +0000" stop="20261116170000 +0000" channel="DasErste.de"><title lang="de">Brisant</title></programme>
-<programme start="20261116170000 +0000" stop="20261116175000 +0000" channel="DasErste.de"><title lang="de">Wer weiß denn sowas?</title></programme>
-<programme start="20261116175000 +0000" stop="20261116184500 +0000" channel="DasErste.de"><title lang="de">Großstadtrevier</title></programme>
-<programme start="20261116184500 +0000" stop="20261116185000 +0000" channel="DasErste.de"><title lang="de">Wissen vor acht – Zukunft</title></programme>
-<programme start="20261116185000 +0000" stop="20261116185500 +0000" channel="DasErste.de"><title lang="de">Wetter vor acht</title></programme>
-<programme start="20261116185500 +0000" stop="20261116190000 +0000" channel="DasErste.de"><title lang="de">Wirtschaft vor acht</title></programme>
-<programme start="20261116190000 +0000" stop="20261116191500 +0000" channel="DasErste.de"><title lang="de">Tagesschau</title></programme>
-<programme start="20261116191500 +0000" stop="20261116223000 +0000" channel="DasErste.de"><title lang="de">Sportschau</title></programme>
-<programme start="20261116223000 +0000" stop="20261116230000 +0000" channel="DasErste.de"><title lang="de">Geheimsache Doping: Kinder</title></programme>
 <programme start="20261116230000 +0000" stop="20261116233000 +0000" channel="DasErste.de"><title lang="de">Geheimsache Doping: Kinder</title></programme>
 <programme start="20261116233000 +0000" stop="20261117000500 +0000" channel="DasErste.de"><title lang="de">Geheimsache Doping: Kinder</title></programme>
 <programme start="20261117000500 +0000" stop="20261117004000 +0000" channel="DasErste.de"><title lang="de">Geheimsache Doping: Kinder</title></programme>
@@ -2583,36 +2189,6 @@
 <programme start="20261122214500 +0000" stop="20261122220500 +0000" channel="DasErste.de"><title lang="de">Tagesthemen</title></programme>
 <programme start="20261122220500 +0000" stop="20261122223500 +0000" channel="DasErste.de"><title lang="de">ttt – titel thesen temperamente</title></programme>
 <programme start="20261122223500 +0000" stop="20261122230500 +0000" channel="DasErste.de"><title lang="de">Druckfrisch</title></programme>
-<programme start="20261115233000 +0000" stop="20261115233500 +0000" channel="ZDF.de"><title lang="de">heute Xpress</title></programme>
-<programme start="20261115233500 +0000" stop="20261116002500 +0000" channel="ZDF.de"><title lang="de">Capitaine Sissako - Tod in den Alpen</title></programme>
-<programme start="20261116002500 +0000" stop="20261116011500 +0000" channel="ZDF.de"><title lang="de">Capitaine Sissako - Tod in den Alpen</title></programme>
-<programme start="20261116011500 +0000" stop="20261116020500 +0000" channel="ZDF.de"><title lang="de">Capitaine Sissako - Tod in den Alpen</title></programme>
-<programme start="20261116020500 +0000" stop="20261116025500 +0000" channel="ZDF.de"><title lang="de">Capitaine Sissako - Tod in den Alpen</title></programme>
-<programme start="20261116025500 +0000" stop="20261116035500 +0000" channel="ZDF.de"><title lang="de">Ein Fall für Zwei</title></programme>
-<programme start="20261116035500 +0000" stop="20261116040000 +0000" channel="ZDF.de"><title lang="de">Bares für Rares - Lieblingsstücke</title></programme>
-<programme start="20261116040000 +0000" stop="20261116043000 +0000" channel="ZDF.de"><title lang="de">ZDF.reportage</title></programme>
-<programme start="20261116043000 +0000" stop="20261116080000 +0000" channel="ZDF.de"><title lang="de">ZDF-Morgenmagazin</title></programme>
-<programme start="20261116080000 +0000" stop="20261116080500 +0000" channel="ZDF.de"><title lang="de">Tagesschau</title></programme>
-<programme start="20261116080500 +0000" stop="20261116093000 +0000" channel="ZDF.de"><title lang="de">Volle Kanne – Service täglich</title></programme>
-<programme start="20261116093000 +0000" stop="20261116101500 +0000" channel="ZDF.de"><title lang="de">Notruf Hafenkante</title></programme>
-<programme start="20261116101500 +0000" stop="20261116110000 +0000" channel="ZDF.de"><title lang="de">SOKO Wismar</title></programme>
-<programme start="20261116110000 +0000" stop="20261116130000 +0000" channel="ZDF.de"><title lang="de">ZDF-Mittagsmagazin</title></programme>
-<programme start="20261116130000 +0000" stop="20261116131500 +0000" channel="ZDF.de"><title lang="de">heute - in Deutschland</title></programme>
-<programme start="20261116131500 +0000" stop="20261116140000 +0000" channel="ZDF.de"><title lang="de">Die Küchenschlacht</title></programme>
-<programme start="20261116140000 +0000" stop="20261116140500 +0000" channel="ZDF.de"><title lang="de">heute Xpress</title></programme>
-<programme start="20261116140500 +0000" stop="20261116150000 +0000" channel="ZDF.de"><title lang="de">Bares für Rares</title></programme>
-<programme start="20261116150000 +0000" stop="20261116151000 +0000" channel="ZDF.de"><title lang="de">heute – in Europa</title></programme>
-<programme start="20261116151000 +0000" stop="20261116160000 +0000" channel="ZDF.de"><title lang="de">Die Rosenheim-Cops</title></programme>
-<programme start="20261116160000 +0000" stop="20261116161000 +0000" channel="ZDF.de"><title lang="de">heute</title></programme>
-<programme start="20261116161000 +0000" stop="20261116170000 +0000" channel="ZDF.de"><title lang="de">hallo deutschland</title></programme>
-<programme start="20261116170000 +0000" stop="20261116180000 +0000" channel="ZDF.de"><title lang="de">SOKO Potsdam</title></programme>
-<programme start="20261116180000 +0000" stop="20261116182000 +0000" channel="ZDF.de"><title lang="de">heute</title></programme>
-<programme start="20261116182000 +0000" stop="20261116182500 +0000" channel="ZDF.de"><title lang="de">Wetter</title></programme>
-<programme start="20261116182500 +0000" stop="20261116191500 +0000" channel="ZDF.de"><title lang="de">WISO-Dokus</title></programme>
-<programme start="20261116191500 +0000" stop="20261116204500 +0000" channel="ZDF.de"><title lang="de">Die Toten vom Bodensee</title></programme>
-<programme start="20261116204500 +0000" stop="20261116211500 +0000" channel="ZDF.de"><title lang="de">heute journal</title></programme>
-<programme start="20261116211500 +0000" stop="20261116224500 +0000" channel="ZDF.de"><title lang="de">Stralsund</title></programme>
-<programme start="20261116224500 +0000" stop="20261117001500 +0000" channel="ZDF.de"><title lang="de">Vermisst in den Highlands</title></programme>
 <programme start="20261117001500 +0000" stop="20261117015500 +0000" channel="ZDF.de"><title lang="de">Hysteria</title></programme>
 <programme start="20261117015500 +0000" stop="20261117031500 +0000" channel="ZDF.de"><title lang="de">La Maison - Haus der Lust</title></programme>
 <programme start="20261117031500 +0000" stop="20261117040000 +0000" channel="ZDF.de"><title lang="de">WISO-Dokus</title></programme>
@@ -2795,44 +2371,6 @@
 <programme start="20261122211500 +0000" stop="20261122220000 +0000" channel="ZDF.de"><title lang="de">Iris - Die Wahrheit</title></programme>
 <programme start="20261122220000 +0000" stop="20261122224500 +0000" channel="ZDF.de"><title lang="de">Iris - Die Wahrheit</title></programme>
 <programme start="20261122224500 +0000" stop="20261122233000 +0000" channel="ZDF.de"><title lang="de">Terra X History</title></programme>
-<programme start="20261115233500 +0000" stop="20261116003500 +0000" channel="ndr.de"><title lang="de">Caren Miosga</title></programme>
-<programme start="20261116003500 +0000" stop="20261116012000 +0000" channel="ndr.de"><title lang="de">Nordseereport</title></programme>
-<programme start="20261116012000 +0000" stop="20261116032000 +0000" channel="ndr.de"><title lang="de">NDR Talk Show</title></programme>
-<programme start="20261116032000 +0000" stop="20261116034000 +0000" channel="ndr.de"><title lang="de">Mein Norden</title></programme>
-<programme start="20261116034000 +0000" stop="20261116041000 +0000" channel="ndr.de"><title lang="de">Die Nordreportage</title></programme>
-<programme start="20261116041000 +0000" stop="20261116045500 +0000" channel="ndr.de"><title lang="de">DAS! Rote Sofa</title></programme>
-<programme start="20261116045500 +0000" stop="20261116052000 +0000" channel="ndr.de"><title lang="de">Elefant, Tiger &amp; Co.</title></programme>
-<programme start="20261116052000 +0000" stop="20261116055000 +0000" channel="ndr.de"><title lang="de">Wie geht das</title></programme>
-<programme start="20261116055000 +0000" stop="20261116062000 +0000" channel="ndr.de"><title lang="de">Die Fallers - Eine Schwarzwaldfamilie</title></programme>
-<programme start="20261116062000 +0000" stop="20261116071000 +0000" channel="ndr.de"><title lang="de">Rote Rosen</title></programme>
-<programme start="20261116071000 +0000" stop="20261116080000 +0000" channel="ndr.de"><title lang="de">Sturm der Liebe</title></programme>
-<programme start="20261116080000 +0000" stop="20261116083000 +0000" channel="ndr.de"><title lang="de">Nordmagazin</title></programme>
-<programme start="20261116083000 +0000" stop="20261116090000 +0000" channel="ndr.de"><title lang="de">Hamburg Journal</title></programme>
-<programme start="20261116090000 +0000" stop="20261116093000 +0000" channel="ndr.de"><title lang="de">Schleswig-Holstein Magazin</title></programme>
-<programme start="20261116093000 +0000" stop="20261116100000 +0000" channel="ndr.de"><title lang="de">buten un binnen | regionalmagazin</title></programme>
-<programme start="20261116100000 +0000" stop="20261116103000 +0000" channel="ndr.de"><title lang="de">Hallo Niedersachsen</title></programme>
-<programme start="20261116103000 +0000" stop="20261116110000 +0000" channel="ndr.de"><title lang="de">Brisant</title></programme>
-<programme start="20261116110000 +0000" stop="20261116112500 +0000" channel="ndr.de"><title lang="de">Elefant, Tiger &amp; Co.</title></programme>
-<programme start="20261116112500 +0000" stop="20261116121000 +0000" channel="ndr.de"><title lang="de">In aller Freundschaft</title></programme>
-<programme start="20261116121000 +0000" stop="20261116130000 +0000" channel="ndr.de"><title lang="de">NDR Info extra – Ministerpräsidentinnen-Wahl in Schwerin</title></programme>
-<programme start="20261116130000 +0000" stop="20261116140000 +0000" channel="ndr.de"><title lang="de">die nordstory</title></programme>
-<programme start="20261116140000 +0000" stop="20261116141000 +0000" channel="ndr.de"><title lang="de">NDR Info</title></programme>
-<programme start="20261116141000 +0000" stop="20261116150000 +0000" channel="ndr.de"><title lang="de">Watzmann ermittelt</title></programme>
-<programme start="20261116150000 +0000" stop="20261116151500 +0000" channel="ndr.de"><title lang="de">NDR Info</title></programme>
-<programme start="20261116151500 +0000" stop="20261116160000 +0000" channel="ndr.de"><title lang="de">Gefragt - Gejagt</title></programme>
-<programme start="20261116160000 +0000" stop="20261116161000 +0000" channel="ndr.de"><title lang="de">NDR Info</title></programme>
-<programme start="20261116161000 +0000" stop="20261116170000 +0000" channel="ndr.de"><title lang="de">Leopard, Seebär &amp; Co.</title></programme>
-<programme start="20261116170000 +0000" stop="20261116171500 +0000" channel="ndr.de"><title lang="de">Schleswig-Holstein Magazin</title></programme>
-<programme start="20261116171500 +0000" stop="20261116174500 +0000" channel="ndr.de"><title lang="de">Die Nordreportage</title></programme>
-<programme start="20261116174500 +0000" stop="20261116183000 +0000" channel="ndr.de"><title lang="de">DAS! Rote Sofa</title></programme>
-<programme start="20261116183000 +0000" stop="20261116190000 +0000" channel="ndr.de"><title lang="de">Schleswig-Holstein Magazin</title></programme>
-<programme start="20261116190000 +0000" stop="20261116191500 +0000" channel="ndr.de"><title lang="de">Tagesschau</title></programme>
-<programme start="20261116191500 +0000" stop="20261116200000 +0000" channel="ndr.de"><title lang="de">Markt</title></programme>
-<programme start="20261116200000 +0000" stop="20261116204500 +0000" channel="ndr.de"><title lang="de">Der Haushalts-Check</title></programme>
-<programme start="20261116204500 +0000" stop="20261116210000 +0000" channel="ndr.de"><title lang="de">NDR Info</title></programme>
-<programme start="20261116210000 +0000" stop="20261116214500 +0000" channel="ndr.de"><title lang="de">NDR Story</title></programme>
-<programme start="20261116214500 +0000" stop="20261116221500 +0000" channel="ndr.de"><title lang="de">NDR Kultur - Das Journal</title></programme>
-<programme start="20261116221500 +0000" stop="20261116234500 +0000" channel="ndr.de"><title lang="de">Abgehauen</title></programme>
 <programme start="20261116234500 +0000" stop="20261117003000 +0000" channel="ndr.de"><title lang="de">Markt</title></programme>
 <programme start="20261117003000 +0000" stop="20261117004500 +0000" channel="ndr.de"><title lang="de">FYI – Unsere Recherche, Dein Vorteil</title></programme>
 <programme start="20261117004500 +0000" stop="20261117011500 +0000" channel="ndr.de"><title lang="de">Schmeckt. Immer.</title></programme>
@@ -3070,43 +2608,6 @@
 <programme start="20261122215500 +0000" stop="20261122222500 +0000" channel="ndr.de"><title lang="de">50 Jahre extra 3 - Die Doku</title></programme>
 <programme start="20261122222500 +0000" stop="20261122225500 +0000" channel="ndr.de"><title lang="de">Echtes Leben</title></programme>
 <programme start="20261122225500 +0000" stop="20261122232500 +0000" channel="ndr.de"><title lang="de">Die Paartherapie</title></programme>
-<programme start="20261115231500 +0000" stop="20261116010000 +0000" channel="WDRFernsehen.de"><title lang="de">Rockpalast</title></programme>
-<programme start="20261116010000 +0000" stop="20261116025500 +0000" channel="WDRFernsehen.de"><title lang="de">Rockpalast</title></programme>
-<programme start="20261116025500 +0000" stop="20261116033500 +0000" channel="WDRFernsehen.de"><title lang="de">Rockpalast</title></programme>
-<programme start="20261116033500 +0000" stop="20261116040500 +0000" channel="WDRFernsehen.de"><title lang="de">Touché Amoré - Area 4 Festival 2012</title></programme>
-<programme start="20261116040500 +0000" stop="20261116045000 +0000" channel="WDRFernsehen.de"><title lang="de">Heiter bis tödlich: Koslowski &amp; Haferkamp</title></programme>
-<programme start="20261116045000 +0000" stop="20261116053500 +0000" channel="WDRFernsehen.de"><title lang="de">Presseclub</title></programme>
-<programme start="20261116053500 +0000" stop="20261116055000 +0000" channel="WDRFernsehen.de"><title lang="de">Erlebnisreisen</title></programme>
-<programme start="20261116055000 +0000" stop="20261116063500 +0000" channel="WDRFernsehen.de"><title lang="de">Tiere suchen ein Zuhause</title></programme>
-<programme start="20261116063500 +0000" stop="20261116064500 +0000" channel="WDRFernsehen.de"><title lang="de">neuneinhalb</title></programme>
-<programme start="20261116064500 +0000" stop="20261116065500 +0000" channel="WDRFernsehen.de"><title lang="de">neuneinhalb</title></programme>
-<programme start="20261116065500 +0000" stop="20261116070500 +0000" channel="WDRFernsehen.de"><title lang="de">neuneinhalb</title></programme>
-<programme start="20261116070500 +0000" stop="20261116072000 +0000" channel="WDRFernsehen.de"><title lang="de">Planet Schule</title></programme>
-<programme start="20261116072000 +0000" stop="20261116073500 +0000" channel="WDRFernsehen.de"><title lang="de">Planet Schule</title></programme>
-<programme start="20261116073500 +0000" stop="20261116080000 +0000" channel="WDRFernsehen.de"><title lang="de">Wissen macht Ah!</title></programme>
-<programme start="20261116080000 +0000" stop="20261116081000 +0000" channel="WDRFernsehen.de"><title lang="de">POV – Deine Geschichte zählt</title></programme>
-<programme start="20261116081000 +0000" stop="20261116084000 +0000" channel="WDRFernsehen.de"><title lang="de">Westpol</title></programme>
-<programme start="20261116084000 +0000" stop="20261116092500 +0000" channel="WDRFernsehen.de"><title lang="de">Gefragt - Gejagt</title></programme>
-<programme start="20261116092500 +0000" stop="20261116101000 +0000" channel="WDRFernsehen.de"><title lang="de">Mittendrin - Flughafen Frankfurt</title></programme>
-<programme start="20261116101000 +0000" stop="20261116105500 +0000" channel="WDRFernsehen.de"><title lang="de">WILDER WILDER WESTEN</title></programme>
-<programme start="20261116105500 +0000" stop="20261116114500 +0000" channel="WDRFernsehen.de"><title lang="de">Elefant, Tiger &amp; Co.</title></programme>
-<programme start="20261116114500 +0000" stop="20261116120000 +0000" channel="WDRFernsehen.de"><title lang="de">WDR aktuell</title></programme>
-<programme start="20261116120000 +0000" stop="20261116125000 +0000" channel="WDRFernsehen.de"><title lang="de">Seehund, Puma &amp; Co.</title></programme>
-<programme start="20261116125000 +0000" stop="20261116132000 +0000" channel="WDRFernsehen.de"><title lang="de">Neues aus dem Münchner Tierpark Hellabrunn</title></programme>
-<programme start="20261116132000 +0000" stop="20261116141000 +0000" channel="WDRFernsehen.de"><title lang="de">Watzmann ermittelt</title></programme>
-<programme start="20261116141000 +0000" stop="20261116150000 +0000" channel="WDRFernsehen.de"><title lang="de">Watzmann ermittelt</title></programme>
-<programme start="20261116150000 +0000" stop="20261116151500 +0000" channel="WDRFernsehen.de"><title lang="de">WDR aktuell</title></programme>
-<programme start="20261116151500 +0000" stop="20261116170000 +0000" channel="WDRFernsehen.de"><title lang="de">Hier und heute</title></programme>
-<programme start="20261116170000 +0000" stop="20261116171500 +0000" channel="WDRFernsehen.de"><title lang="de">WDR aktuell / Lokalzeit</title></programme>
-<programme start="20261116171500 +0000" stop="20261116174500 +0000" channel="WDRFernsehen.de"><title lang="de">Servicezeit</title></programme>
-<programme start="20261116174500 +0000" stop="20261116183000 +0000" channel="WDRFernsehen.de"><title lang="de">Aktuelle Stunde</title></programme>
-<programme start="20261116183000 +0000" stop="20261116190000 +0000" channel="WDRFernsehen.de"><title lang="de">Lokalzeit aus Köln</title></programme>
-<programme start="20261116190000 +0000" stop="20261116191500 +0000" channel="WDRFernsehen.de"><title lang="de">Tagesschau</title></programme>
-<programme start="20261116191500 +0000" stop="20261116200000 +0000" channel="WDRFernsehen.de"><title lang="de">Der Vorkoster</title></programme>
-<programme start="20261116200000 +0000" stop="20261116204500 +0000" channel="WDRFernsehen.de"><title lang="de">Viel für wenig – Clever kochen mit Björn Freitag</title></programme>
-<programme start="20261116204500 +0000" stop="20261116211500 +0000" channel="WDRFernsehen.de"><title lang="de">WDR aktuell</title></programme>
-<programme start="20261116211500 +0000" stop="20261116214500 +0000" channel="WDRFernsehen.de"><title lang="de">Karies und Co - Wie Kinderarmut in NRW krank macht</title></programme>
-<programme start="20261116214500 +0000" stop="20261116231500 +0000" channel="WDRFernsehen.de"><title lang="de">Mitternachtsspitzen MAXI</title></programme>
 <programme start="20261116231500 +0000" stop="20261117011500 +0000" channel="WDRFernsehen.de"><title lang="de">Wolf Biermann und Freunde: Das Jubiläumskonzert zum 90. - Warte nicht auf bessre Zeiten</title></programme>
 <programme start="20261117011500 +0000" stop="20261117013000 +0000" channel="WDRFernsehen.de"><title lang="de">Erlebnisreisen</title></programme>
 <programme start="20261117013000 +0000" stop="20261117020000 +0000" channel="WDRFernsehen.de"><title lang="de">Lokalzeit aus Aachen</title></programme>
@@ -3321,43 +2822,6 @@
 <programme start="20261122211000 +0000" stop="20261122214500 +0000" channel="WDRFernsehen.de"><title lang="de">Zeiglers wunderbare Welt des Fußballs</title></programme>
 <programme start="20261122214500 +0000" stop="20261122223000 +0000" channel="WDRFernsehen.de"><title lang="de">WaPo Bodensee</title></programme>
 <programme start="20261122223000 +0000" stop="20261122232000 +0000" channel="WDRFernsehen.de"><title lang="de">WaPo Bodensee</title></programme>
-<programme start="20261116000500 +0000" stop="20261116003000 +0000" channel="MDRSachsen.de"><title lang="de">Kripo live</title></programme>
-<programme start="20261116003000 +0000" stop="20261116020000 +0000" channel="MDRSachsen.de"><title lang="de">Musik in den Bergen</title></programme>
-<programme start="20261116020000 +0000" stop="20261116023000 +0000" channel="MDRSachsen.de"><title lang="de">Die Kinder der Friedlichen Revolution</title></programme>
-<programme start="20261116023000 +0000" stop="20261116025500 +0000" channel="MDRSachsen.de"><title lang="de">Traumtouren durch Bolivien - Biwak nonstop</title></programme>
-<programme start="20261116025500 +0000" stop="20261116032500 +0000" channel="MDRSachsen.de"><title lang="de">MDR SACHSENSPIEGEL</title></programme>
-<programme start="20261116032500 +0000" stop="20261116035500 +0000" channel="MDRSachsen.de"><title lang="de">MDR SACHSEN-ANHALT HEUTE</title></programme>
-<programme start="20261116035500 +0000" stop="20261116042500 +0000" channel="MDRSachsen.de"><title lang="de">MDR THÜRINGEN JOURNAL</title></programme>
-<programme start="20261116042500 +0000" stop="20261116051500 +0000" channel="MDRSachsen.de"><title lang="de">Rote Rosen</title></programme>
-<programme start="20261116051500 +0000" stop="20261116054500 +0000" channel="MDRSachsen.de"><title lang="de">Unterwegs in Sachsen-Anhalt</title></programme>
-<programme start="20261116054500 +0000" stop="20261116061500 +0000" channel="MDRSachsen.de"><title lang="de">Sehen statt Hören</title></programme>
-<programme start="20261116061500 +0000" stop="20261116070500 +0000" channel="MDRSachsen.de"><title lang="de">Rote Rosen</title></programme>
-<programme start="20261116070500 +0000" stop="20261116075500 +0000" channel="MDRSachsen.de"><title lang="de">Sturm der Liebe</title></programme>
-<programme start="20261116075500 +0000" stop="20261116084500 +0000" channel="MDRSachsen.de"><title lang="de">In aller Freundschaft – Die jungen Ärzte</title></programme>
-<programme start="20261116084500 +0000" stop="20261116093500 +0000" channel="MDRSachsen.de"><title lang="de">Quizduell-Olymp</title></programme>
-<programme start="20261116093500 +0000" stop="20261116095800 +0000" channel="MDRSachsen.de"><title lang="de">Elefant, Tiger &amp; Co.</title></programme>
-<programme start="20261116095800 +0000" stop="20261116100000 +0000" channel="MDRSachsen.de"><title lang="de">MDR aktuell</title></programme>
-<programme start="20261116100000 +0000" stop="20261116104500 +0000" channel="MDRSachsen.de"><title lang="de">In aller Freundschaft</title></programme>
-<programme start="20261116104500 +0000" stop="20261116113000 +0000" channel="MDRSachsen.de"><title lang="de">In aller Freundschaft</title></programme>
-<programme start="20261116113000 +0000" stop="20261116125800 +0000" channel="MDRSachsen.de"><title lang="de">Familie Lotzmann auf den Barrikaden</title></programme>
-<programme start="20261116125800 +0000" stop="20261116130000 +0000" channel="MDRSachsen.de"><title lang="de">MDR aktuell</title></programme>
-<programme start="20261116130000 +0000" stop="20261116132500 +0000" channel="MDRSachsen.de"><title lang="de">MDR um 2</title></programme>
-<programme start="20261116132500 +0000" stop="20261116141500 +0000" channel="MDRSachsen.de"><title lang="de">Elefant, Tiger &amp; Co.</title></programme>
-<programme start="20261116141500 +0000" stop="20261116150000 +0000" channel="MDRSachsen.de"><title lang="de">Gefragt - Gejagt</title></programme>
-<programme start="20261116150000 +0000" stop="20261116153000 +0000" channel="MDRSachsen.de"><title lang="de">MDR um 4</title></programme>
-<programme start="20261116153000 +0000" stop="20261116160000 +0000" channel="MDRSachsen.de"><title lang="de">MDR um 4</title></programme>
-<programme start="20261116160000 +0000" stop="20261116164500 +0000" channel="MDRSachsen.de"><title lang="de">MDR um 4</title></programme>
-<programme start="20261116164500 +0000" stop="20261116170500 +0000" channel="MDRSachsen.de"><title lang="de">MDR aktuell</title></programme>
-<programme start="20261116170500 +0000" stop="20261116171000 +0000" channel="MDRSachsen.de"><title lang="de">Wetter für 3</title></programme>
-<programme start="20261116171000 +0000" stop="20261116175400 +0000" channel="MDRSachsen.de"><title lang="de">Brisant</title></programme>
-<programme start="20261116175400 +0000" stop="20261116180000 +0000" channel="MDRSachsen.de"><title lang="de">Unser Sandmännchen</title></programme>
-<programme start="20261116180000 +0000" stop="20261116183000 +0000" channel="MDRSachsen.de"><title lang="de">MDR SACHSENSPIEGEL</title></programme>
-<programme start="20261116183000 +0000" stop="20261116185000 +0000" channel="MDRSachsen.de"><title lang="de">MDR aktuell</title></programme>
-<programme start="20261116185000 +0000" stop="20261116191500 +0000" channel="MDRSachsen.de"><title lang="de">Thomas Junker unterwegs</title></programme>
-<programme start="20261116191500 +0000" stop="20261116205000 +0000" channel="MDRSachsen.de"><title lang="de">Boxhagener Platz</title></programme>
-<programme start="20261116205000 +0000" stop="20261116211500 +0000" channel="MDRSachsen.de"><title lang="de">MDR aktuell</title></programme>
-<programme start="20261116211500 +0000" stop="20261116223500 +0000" channel="MDRSachsen.de"><title lang="de">Polizeiruf 110</title></programme>
-<programme start="20261116223500 +0000" stop="20261117000500 +0000" channel="MDRSachsen.de"><title lang="de">Der Bozen-Krimi</title></programme>
 <programme start="20261117000500 +0000" stop="20261117005500 +0000" channel="MDRSachsen.de"><title lang="de">Großstadtrevier</title></programme>
 <programme start="20261117005500 +0000" stop="20261117014000 +0000" channel="MDRSachsen.de"><title lang="de">Kafka</title></programme>
 <programme start="20261117014000 +0000" stop="20261117022500 +0000" channel="MDRSachsen.de"><title lang="de">Kafka</title></programme>
@@ -3584,20 +3048,6 @@
 <programme start="20261122210000 +0000" stop="20261122212500 +0000" channel="MDRSachsen.de"><title lang="de">Sportschau - Bundesliga am Sonntag</title></programme>
 <programme start="20261122212500 +0000" stop="20261122221000 +0000" channel="MDRSachsen.de"><title lang="de">Euromaidan - Chronik eines angekündigten Krieges</title></programme>
 <programme start="20261122221000 +0000" stop="20261122234000 +0000" channel="MDRSachsen.de"><title lang="de">Heimweh - Kindheit zwischen den Fronten</title></programme>
-<programme start="20261116054000 +0000" stop="20261116073000 +0000" channel="tv-rus"><title lang="ru">т/с Две судьбы, 1 сезон</title></programme>
-<programme start="20261116073000 +0000" stop="20261116090000 +0000" channel="tv-rus"><title lang="ru">Телемагазин Kaufbei.TV</title></programme>
-<programme start="20261116090000 +0000" stop="20261116110000 +0000" channel="tv-rus"><title lang="ru">т/с Выхожу тебя искать, 2 сезон</title></programme>
-<programme start="20261116110000 +0000" stop="20261116140000 +0000" channel="tv-rus"><title lang="ru">т/с Склифосовский 1 сезон</title></programme>
-<programme start="20261116140000 +0000" stop="20261116160000 +0000" channel="tv-rus"><title lang="ru">т/с Игра с огнём</title></programme>
-<programme start="20261116160000 +0000" stop="20261116173000 +0000" channel="tv-rus"><title lang="ru">Телемагазин Kaufbei.TV</title></programme>
-<programme start="20261116173000 +0000" stop="20261116193000 +0000" channel="tv-rus"><title lang="ru">т/с Время Счастливых</title></programme>
-<programme start="20261116193000 +0000" stop="20261116213000 +0000" channel="tv-rus"><title lang="ru">т/с Катя, 2 сезон</title></programme>
-<programme start="20261116213000 +0000" stop="20261116233000 +0000" channel="tv-rus"><title lang="ru">т/с Число зверя 1 сезон</title></programme>
-<programme start="20261116233000 +0000" stop="20261117000000 +0000" channel="tv-rus"><title lang="ru">Т/с Первокурсницы</title></programme>
-<programme start="20261117000000 +0000" stop="20261117010000 +0000" channel="tv-rus"><title lang="ru">т/с Первокурсницы, 2 сезон</title></programme>
-<programme start="20261117010000 +0000" stop="20261117020000 +0000" channel="tv-rus"><title lang="ru">Визионарий судьбы</title></programme>
-<programme start="20261117020000 +0000" stop="20261117040000 +0000" channel="tv-rus"><title lang="ru">т/с Игра с огнём</title></programme>
-<programme start="20261117040000 +0000" stop="20261117054000 +0000" channel="tv-rus"><title lang="ru">т/с Бедная Настя</title></programme>
 <programme start="20261117054000 +0000" stop="20261117073000 +0000" channel="tv-rus"><title lang="ru">т/с Две судьбы, 1 сезон</title></programme>
 <programme start="20261117073000 +0000" stop="20261117090000 +0000" channel="tv-rus"><title lang="ru">Телемагазин Kaufbei.TV</title></programme>
 <programme start="20261117090000 +0000" stop="20261117110000 +0000" channel="tv-rus"><title lang="ru">т/с Выхожу тебя искать, 2 сезон</title></programme>
@@ -3676,20 +3126,6 @@
 <programme start="20261122213000 +0000" stop="20261122233000 +0000" channel="tv-rus"><title lang="ru">т/с Речная сказка, 1 сезон</title></programme>
 <programme start="20261122233000 +0000" stop="20261123005500 +0000" channel="tv-rus"><title lang="ru">т/ш Отлетевшие 5 сезон</title></programme>
 <programme start="20261123005500 +0000" stop="20261123050000 +0000" channel="tv-rus"><title lang="ru">т/с Ленинград-46</title></programme>
-<programme start="20261116050500 +0000" stop="20261116060000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Две девицы на мели 3 сезон</title></programme>
-<programme start="20261116060000 +0000" stop="20261116070000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Что сказал покойник</title></programme>
-<programme start="20261116070000 +0000" stop="20261116090000 +0000" channel="tv-rus-plus"><title lang="ru">Т/с Тайна следствия 6 сезон</title></programme>
-<programme start="20261116090000 +0000" stop="20261116103000 +0000" channel="tv-rus-plus"><title lang="ru">Телемагазин Kaufbei.TV</title></programme>
-<programme start="20261116103000 +0000" stop="20261116123000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Крайние меры 1 сезон</title></programme>
-<programme start="20261116123000 +0000" stop="20261116143000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Без тебя</title></programme>
-<programme start="20261116143000 +0000" stop="20261116173000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Первый отдел 3 сезон</title></programme>
-<programme start="20261116173000 +0000" stop="20261116190000 +0000" channel="tv-rus-plus"><title lang="ru">Телемагазин Kaufbei.TV</title></programme>
-<programme start="20261116190000 +0000" stop="20261116205500 +0000" channel="tv-rus-plus"><title lang="ru">т/с Реализация, 2 сезон</title></programme>
-<programme start="20261116205500 +0000" stop="20261116230000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Шеф, 7 сезон</title></programme>
-<programme start="20261116230000 +0000" stop="20261117000000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Хозяин</title></programme>
-<programme start="20261117000000 +0000" stop="20261117010000 +0000" channel="tv-rus-plus"><title lang="ru">Визионарий судьбы</title></programme>
-<programme start="20261117010000 +0000" stop="20261117040000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Первый отдел 3 сезон</title></programme>
-<programme start="20261117040000 +0000" stop="20261117050500 +0000" channel="tv-rus-plus"><title lang="ru">Т/с Ивановы-Ивановы 3 сезон</title></programme>
 <programme start="20261117050500 +0000" stop="20261117060000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Две девицы на мели 3 сезон</title></programme>
 <programme start="20261117060000 +0000" stop="20261117070000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Что сказал покойник</title></programme>
 <programme start="20261117070000 +0000" stop="20261117090000 +0000" channel="tv-rus-plus"><title lang="ru">Т/с Тайна следствия 6 сезон</title></programme>
@@ -7432,30 +6868,51 @@
 <programme start="20261129210000 +0000" stop="20261129212500 +0000" channel="MDRSachsen.de"><title lang="de">Sportschau Bundesliga am Sonntag</title></programme>
 <programme start="20261129212500 +0000" stop="20261129222500 +0000" channel="MDRSachsen.de"><title lang="de">Putins Propaganda - Wie der Kreml das Volk lenkt</title></programme>
 <programme start="20261129222500 +0000" stop="20261129235500 +0000" channel="MDRSachsen.de"><title lang="de">Innere Emigranten - Weiterleben in Russland</title></programme>
-<programme start="20261123203000 +0000" stop="20261123212500 +0000" channel="tv-rus"><title lang="ru">т/с "Катя", 2 сезон</title></programme>
-<programme start="20261123212500 +0000" stop="20261123222500 +0000" channel="tv-rus"><title lang="ru">т/с "Хозяин Москвы", 1 сезон</title></programme>
-<programme start="20261123222500 +0000" stop="20261123233000 +0000" channel="tv-rus"><title lang="ru">т/с "Хозяин Москвы", 1 сезон</title></programme>
-<programme start="20261123233000 +0000" stop="20261124000000 +0000" channel="tv-rus"><title lang="ru">т/с "Первокурсницы", 2 сезон</title></programme>
-<programme start="20261124000000 +0000" stop="20261124003000 +0000" channel="tv-rus"><title lang="ru">т/с "Первокурсницы", 2 сезон</title></programme>
-<programme start="20261124003000 +0000" stop="20261124010000 +0000" channel="tv-rus"><title lang="ru">т/с "Первокурсницы", 2 сезон</title></programme>
-<programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="tv-rus"><title lang="ru">«Визионарий судьбы»</title></programme>
-<programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="tv-rus"><title lang="ru">т/с "На дальней заставе" 1 сезон</title></programme>
-<programme start="20261124030000 +0000" stop="20261124040000 +0000" channel="tv-rus"><title lang="ru">т/с "На дальней заставе" 1 сезон</title></programme>
-<programme start="20261124040000 +0000" stop="20261124045000 +0000" channel="tv-rus"><title lang="ru">т/с "Бедная Настя"</title></programme>
-<programme start="20261124045000 +0000" stop="20261124054000 +0000" channel="tv-rus"><title lang="ru">т/с "Бедная Настя"</title></programme>
-<programme start="20261124054000 +0000" stop="20261124063500 +0000" channel="tv-rus"><title lang="ru">т/с "Две судьбы", 2 сезон</title></programme>
-<programme start="20261124063500 +0000" stop="20261124073000 +0000" channel="tv-rus"><title lang="ru">т/с "Две судьбы", 2 сезон</title></programme>
-<programme start="20261123205500 +0000" stop="20261123215500 +0000" channel="tv-rus-plus"><title lang="ru">т/с "Фишер", 2 сезон</title></programme>
-<programme start="20261123215500 +0000" stop="20261123230000 +0000" channel="tv-rus-plus"><title lang="ru">т/с "Фишер", 2 сезон</title></programme>
-<programme start="20261123230000 +0000" stop="20261124000000 +0000" channel="tv-rus-plus"><title lang="ru">т/с "Игра на выживание", 1 сезон</title></programme>
-<programme start="20261124000000 +0000" stop="20261124005959 +0000" channel="tv-rus-plus"><title lang="ru">«Визионарий судьбы»</title></programme>
-<programme start="20261124005959 +0000" stop="20261124015959 +0000" channel="tv-rus-plus"><title lang="ru">т/с "Первый отдел", 4 сезон</title></programme>
-<programme start="20261124015959 +0000" stop="20261124025959 +0000" channel="tv-rus-plus"><title lang="ru">т/с "Первый отдел", 4 сезон</title></programme>
-<programme start="20261124025959 +0000" stop="20261124040000 +0000" channel="tv-rus-plus"><title lang="ru">т/с "Первый отдел", 4 сезон</title></programme>
-<programme start="20261124040000 +0000" stop="20261124043000 +0000" channel="tv-rus-plus"><title lang="ru">Т/с "Ивановы-Ивановы" 3 сезон</title></programme>
-<programme start="20261124043000 +0000" stop="20261124050000 +0000" channel="tv-rus-plus"><title lang="ru">Т/с "Ивановы-Ивановы" 3 сезон</title></programme>
-<programme start="20261124050000 +0000" stop="20261124053000 +0000" channel="tv-rus-plus"><title lang="ru">т/с "Две девицы на мели" 3 сезон</title></programme>
-<programme start="20261124053000 +0000" stop="20261124060000 +0000" channel="tv-rus-plus"><title lang="ru">т/с "Две девицы на мели" 3 сезон</title></programme>
-<programme start="20261124060000 +0000" stop="20261124071000 +0000" channel="tv-rus-plus"><title lang="ru">х/ф "Гостья из будущего"</title></programme>
-<programme start="20261124071000 +0000" stop="20261124080500 +0000" channel="tv-rus-plus"><title lang="ru">Т/с "Тайна следствия" 6 сезон</title></programme>
+<programme start="20261123203000 +0000" stop="20261123212500 +0000" channel="tv-rus"><title lang="ru">т/с Катя, 2 сезон</title></programme>
+<programme start="20261123212500 +0000" stop="20261123222500 +0000" channel="tv-rus"><title lang="ru">т/с Хозяин Москвы, 1 сезон</title></programme>
+<programme start="20261123222500 +0000" stop="20261123233000 +0000" channel="tv-rus"><title lang="ru">т/с Хозяин Москвы, 1 сезон</title></programme>
+<programme start="20261123233000 +0000" stop="20261124000000 +0000" channel="tv-rus"><title lang="ru">т/с Первокурсницы, 2 сезон</title></programme>
+<programme start="20261124000000 +0000" stop="20261124003000 +0000" channel="tv-rus"><title lang="ru">т/с Первокурсницы, 2 сезон</title></programme>
+<programme start="20261124003000 +0000" stop="20261124010000 +0000" channel="tv-rus"><title lang="ru">т/с Первокурсницы, 2 сезон</title></programme>
+<programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="tv-rus"><title lang="ru">Визионарий судьбы</title></programme>
+<programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="tv-rus"><title lang="ru">т/с На дальней заставе 1 сезон</title></programme>
+<programme start="20261124030000 +0000" stop="20261124040000 +0000" channel="tv-rus"><title lang="ru">т/с На дальней заставе 1 сезон</title></programme>
+<programme start="20261124040000 +0000" stop="20261124045000 +0000" channel="tv-rus"><title lang="ru">т/с Бедная Настя</title></programme>
+<programme start="20261124045000 +0000" stop="20261124054000 +0000" channel="tv-rus"><title lang="ru">т/с Бедная Настя</title></programme>
+<programme start="20261124054000 +0000" stop="20261124063500 +0000" channel="tv-rus"><title lang="ru">т/с Две судьбы, 2 сезон</title></programme>
+<programme start="20261124063500 +0000" stop="20261124073000 +0000" channel="tv-rus"><title lang="ru">т/с Две судьбы, 2 сезон</title></programme>
+<programme start="20261123205500 +0000" stop="20261123215500 +0000" channel="tv-rus-plus"><title lang="ru">т/с Фишер, 2 сезон</title></programme>
+<programme start="20261123215500 +0000" stop="20261123230000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Фишер, 2 сезон</title></programme>
+<programme start="20261123230000 +0000" stop="20261124000000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Игра на выживание, 1 сезон</title></programme>
+<programme start="20261124000000 +0000" stop="20261124005959 +0000" channel="tv-rus-plus"><title lang="ru">Визионарий судьбы</title></programme>
+<programme start="20261124005959 +0000" stop="20261124015959 +0000" channel="tv-rus-plus"><title lang="ru">т/с Первый отдел, 4 сезон</title></programme>
+<programme start="20261124015959 +0000" stop="20261124025959 +0000" channel="tv-rus-plus"><title lang="ru">т/с Первый отдел, 4 сезон</title></programme>
+<programme start="20261124025959 +0000" stop="20261124040000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Первый отдел, 4 сезон</title></programme>
+<programme start="20261124040000 +0000" stop="20261124043000 +0000" channel="tv-rus-plus"><title lang="ru">Т/с Ивановы-Ивановы 3 сезон</title></programme>
+<programme start="20261124043000 +0000" stop="20261124050000 +0000" channel="tv-rus-plus"><title lang="ru">Т/с Ивановы-Ивановы 3 сезон</title></programme>
+<programme start="20261124050000 +0000" stop="20261124053000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Две девицы на мели 3 сезон</title></programme>
+<programme start="20261124053000 +0000" stop="20261124060000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Две девицы на мели 3 сезон</title></programme>
+<programme start="20261124060000 +0000" stop="20261124071000 +0000" channel="tv-rus-plus"><title lang="ru">х/ф Гостья из будущего</title></programme>
+<programme start="20261124071000 +0000" stop="20261124080500 +0000" channel="tv-rus-plus"><title lang="ru">Т/с Тайна следствия 6 сезон</title></programme>
+<programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="tv-rus"><title lang="ru">т/с Выхожу тебя искать, 2 сезон</title></programme>
+<programme start="20261124110000 +0000" stop="20261124120000 +0000" channel="tv-rus"><title lang="ru">т/с Склифосовский, 2 сезон</title></programme>
+<programme start="20261124120000 +0000" stop="20261124130000 +0000" channel="tv-rus"><title lang="ru">т/с Склифосовский, 2 сезон</title></programme>
+<programme start="20261124130000 +0000" stop="20261124140000 +0000" channel="tv-rus"><title lang="ru">т/с На дальней заставе 1 сезон</title></programme>
+<programme start="20261124140000 +0000" stop="20261124150000 +0000" channel="tv-rus"><title lang="ru">т/с На дальней заставе 1 сезон</title></programme>
+<programme start="20261124150000 +0000" stop="20261124160000 +0000" channel="tv-rus"><title lang="ru">т/с На дальней заставе 1 сезон</title></programme>
+<programme start="20261124160000 +0000" stop="20261124173000 +0000" channel="tv-rus"><title lang="ru">Телемагазин Kaufbei.TV</title></programme>
+<programme start="20261124173000 +0000" stop="20261124183000 +0000" channel="tv-rus"><title lang="ru">т/с Отмена всех ограничений</title></programme>
+<programme start="20261124183000 +0000" stop="20261124193000 +0000" channel="tv-rus"><title lang="ru">т/с Отмена всех ограничений</title></programme>
+<programme start="20261124193000 +0000" stop="20261124203000 +0000" channel="tv-rus"><title lang="ru">т/с Катя, 2 сезон</title></programme>
+<programme start="20261124203000 +0000" stop="20261124212500 +0000" channel="tv-rus"><title lang="ru">т/с Катя, 2 сезон</title></programme>
+<programme start="20261124103000 +0000" stop="20261124113000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Обычная женщина, 1 сезон</title></programme>
+<programme start="20261124113000 +0000" stop="20261124123000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Обычная женщина, 1 сезон</title></programme>
+<programme start="20261124123000 +0000" stop="20261124133000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Первая ракетка, 1 сезон</title></programme>
+<programme start="20261124133000 +0000" stop="20261124143000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Первая ракетка, 1 сезон</title></programme>
+<programme start="20261124143000 +0000" stop="20261124153000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Первый отдел, 4 сезон</title></programme>
+<programme start="20261124153000 +0000" stop="20261124163000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Первый отдел, 4 сезон</title></programme>
+<programme start="20261124163000 +0000" stop="20261124173000 +0000" channel="tv-rus-plus"><title lang="ru">т/с Первый отдел, 4 сезон</title></programme>
+<programme start="20261124173000 +0000" stop="20261124190000 +0000" channel="tv-rus-plus"><title lang="ru">Телемагазин Kaufbei.TV</title></programme>
+<programme start="20261124190000 +0000" stop="20261124195500 +0000" channel="tv-rus-plus"><title lang="ru">т/с Ронин, 3 сезон</title></programme>
+<programme start="20261124195500 +0000" stop="20261124205500 +0000" channel="tv-rus-plus"><title lang="ru">т/с Ронин, 3 сезон</title></programme>
 </tv>
